@@ -1,21 +1,2585 @@
 {
-"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"TitleTheme","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":10,"note":"<Filter:NOISE#1,glow,0>\n<Filter:CRT#1,crt,1,3,0.3,0.2,1>","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"!LilyRoom","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":14,
-"data":[2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2868,2892,2892,2892,2892,2892,2872,2864,2864,2864,2864,2864,2864,2868,2902,2850,2836,2836,2836,2852,2904,2872,2864,2864,2864,2864,2868,2902,2850,2817,2816,2816,2816,2818,2852,2904,2892,2892,2872,2864,2888,2859,2845,2844,2844,2844,2828,2844,2846,2849,2849,2861,2880,2864,2866,2884,2884,2884,2884,2900,2860,2898,2884,2884,2884,2884,2865,2864,2864,2864,2864,2864,2864,2866,2884,2865,2864,2864,2864,2864,2864,2864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":223,"indent":0,"parameters":[[0,0,0,0],1,false]},{"code":117,"indent":0,"parameters":[34]},{"code":118,"indent":0,"parameters":["start"]},{"code":211,"indent":0,"parameters":[1]},{"code":356,"indent":0,"parameters":["FocusCamera [1] [1] [1]"]},{"code":311,"indent":0,"parameters":[0,0,1,0,9999,false]},{"code":111,"indent":0,"parameters":[0,21,0]},{"code":121,"indent":1,"parameters":[20,20,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,4,0]},{"code":111,"indent":1,"parameters":[0,20,0]},{"code":119,"indent":2,"parameters":["NO SHEETS NO YARN"]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":119,"indent":2,"parameters":["NO SHEETS"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,20,0]},{"code":119,"indent":1,"parameters":["NO YARN"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":119,"indent":0,"parameters":["start"]},{"code":108,"indent":0,"parameters":["NO SHEETS"]},{"code":118,"indent":0,"parameters":["NO SHEETS"]},{"code":284,"indent":0,"parameters":["!LilyRoomNoSheet",false,false,0,0]},{"code":119,"indent":0,"parameters":["start"]},{"code":108,"indent":0,"parameters":["NO SHEETS NO YARN"]},{"code":118,"indent":0,"parameters":["NO SHEETS NO YARN"]},{"code":284,"indent":0,"parameters":["!LilyRoomNoYarnNoSheet",false,false,0,0]},{"code":119,"indent":0,"parameters":["start"]},{"code":108,"indent":0,"parameters":["NO YARN"]},{"code":118,"indent":0,"parameters":["NO YARN"]},{"code":284,"indent":0,"parameters":["!LilyRoomNoYarn",false,false,0,0]},{"code":119,"indent":0,"parameters":["start"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":0,"y":0},
-{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":201,"indent":0,"parameters":[0,3,7,5,2,2]},{"code":250,"indent":0,"parameters":[{"name":"Select","volume":100,"pitch":50,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":6,"y":8},
-{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":201,"indent":0,"parameters":[0,14,10,6,4,2]},{"code":250,"indent":0,"parameters":[{"name":"Select","volume":100,"pitch":50,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":2,"y":6},
-{"id":4,"name":"Sheets","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed sheets are all messed up from your sudden awakening."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You remember a movie that Papa brought back one weekend where prisoners used sheets to escape from prison."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Take the sheets as \\c[5]rope\\c[0]?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":127,"indent":2,"parameters":[2,0,0,1,false]},{"code":250,"indent":2,"parameters":[{"name":"GetItem","volume":100,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You took the \\c[5]sheets\\c[0]."]},{"code":121,"indent":2,"parameters":[4,4,0]},{"code":122,"indent":2,"parameters":[4,4,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed is completely stripped except for the fitted sheet."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The idea of putting it back on by yourself is far more frightening than anything in the dark forest outside."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There is nothing left to take that would help tonight."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":8,"y":5},
-{"id":5,"name":"Yarn","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":2},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Your knitting basket gives you comfort, despite the stormy weather."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You only have one large ball of yarn left."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["With how big the yarn ball is, it probably could be unraveled into a long rope."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Take the ball of yarn as \\c[5]rope\\c[0]?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":127,"indent":2,"parameters":[15,0,0,1,false]},{"code":250,"indent":2,"parameters":[{"name":"GetItem","volume":100,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You took the \\c[5]ball of yarn\\c[0]."]},{"code":121,"indent":2,"parameters":[20,20,0]},{"code":122,"indent":2,"parameters":[4,4,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":20,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The basket is now completely empty."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The basket is now completely empty."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":6,"y":4},
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":356,"indent":0,"parameters":["AUTOSAVE"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":36,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":36,"indent":null}]},{"code":121,"indent":0,"parameters":[23,23,0]},{"code":214,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":1,"y":0},
-{"id":7,"name":"Sheets","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed sheets are all messed up from your sudden awakening."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You remember a movie that Papa brought back one weekend where prisoners used sheets to escape from prison."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Take the sheets as \\c[5]rope\\c[0]?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":127,"indent":2,"parameters":[2,0,0,1,false]},{"code":250,"indent":2,"parameters":[{"name":"GetItem","volume":100,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You took the \\c[5]sheets\\c[0]."]},{"code":121,"indent":2,"parameters":[4,4,0]},{"code":122,"indent":2,"parameters":[4,4,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed is completely stripped except for the fitted sheet."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The idea of putting it back on by yourself is far more frightening than anything in the dark forest outside."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There is nothing left to take that would help tonight."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":5},
-{"id":8,"name":"Sheets","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed sheets are all messed up from your sudden awakening."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You remember a movie that Papa brought back one weekend where prisoners used sheets to escape from prison."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Take the sheets as \\c[5]rope\\c[0]?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":127,"indent":2,"parameters":[2,0,0,1,false]},{"code":250,"indent":2,"parameters":[{"name":"GetItem","volume":100,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You took the \\c[5]sheets\\c[0]."]},{"code":121,"indent":2,"parameters":[4,4,0]},{"code":122,"indent":2,"parameters":[4,4,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed is completely stripped except for the fitted sheet."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The idea of putting it back on by yourself is far more frightening than anything in the dark forest outside."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There is nothing left to take that would help tonight."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":5},
-{"id":9,"name":"Sheets","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed sheets are all messed up from your sudden awakening."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You remember a movie that Papa brought back one weekend where prisoners used sheets to escape from prison."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Take the sheets as \\c[5]rope\\c[0]?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":127,"indent":2,"parameters":[2,0,0,1,false]},{"code":250,"indent":2,"parameters":[{"name":"GetItem","volume":100,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You took the \\c[5]sheets\\c[0]."]},{"code":121,"indent":2,"parameters":[4,4,0]},{"code":122,"indent":2,"parameters":[4,4,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed is completely stripped except for the fitted sheet."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The idea of putting it back on by yourself is far more frightening than anything in the dark forest outside."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There is nothing left to take that would help tonight."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":6},
-{"id":10,"name":"Sheets","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed sheets are all messed up from your sudden awakening."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You remember a movie that Papa brought back one weekend where prisoners used sheets to escape from prison."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Take the sheets as \\c[5]rope\\c[0]?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":127,"indent":2,"parameters":[2,0,0,1,false]},{"code":250,"indent":2,"parameters":[{"name":"GetItem","volume":100,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You took the \\c[5]sheets\\c[0]."]},{"code":121,"indent":2,"parameters":[4,4,0]},{"code":122,"indent":2,"parameters":[4,4,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It's your bed."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Your bed is completely stripped except for the fitted sheet."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The idea of putting it back on by yourself is far more frightening than anything in the dark forest outside."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There is nothing left to take that would help tonight."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":6},
-{"id":11,"name":"EV011","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":201,"indent":0,"parameters":[0,70,2,4,2,2]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":117,"indent":0,"parameters":[36]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":35,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":231,"indent":0,"parameters":[1,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":4},
-{"id":12,"name":"EV012","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":201,"indent":0,"parameters":[0,70,2,4,2,2]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":117,"indent":0,"parameters":[36]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":35,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":231,"indent":0,"parameters":[1,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":4},
-{"id":13,"name":"Bear","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":6},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["This is Sniffle Bear, or \"Sniffles\" for short."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Back"],3,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Sniffles was a gift from Auntie Mifuyu for your first birthday."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["He's kind of stinky, but a good stinky."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Attic stinky."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["While Sniffles would be a brave and faithful companion on this quest..."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["...The rain isn't good for him."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":11,"y":6},
-{"id":14,"name":"Lamp","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":6},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Lamp."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["This is what's keeping your room bright right now."]},{"code":111,"indent":1,"parameters":[1,11,0,1,1]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You swear you once had a lamp that had a nightlight at the top that projected lights onto the ceiling."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Maybe it was just in a dream or in a movie."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The lamp may be a good light source while you're outside."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The problem is that it needs to be plugged in if you want it to be more than dead weight."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":111,"indent":1,"parameters":[1,4,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have no pieces of \\c[5]rope material\\c[0]."]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,4,0,1,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":7,"y":4}
-]
+  "autoplayBgm": true,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "TitleTheme", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "<Filter:NOISE#1,glow,0>\n<Filter:CRT#1,crt,1,3,0.3,0.2,1>",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "!LilyRoom",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 14,
+  "data": [
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2868, 2892,
+    2892, 2892, 2892, 2892, 2872, 2864, 2864, 2864, 2864, 2864, 2864, 2868,
+    2902, 2850, 2836, 2836, 2836, 2852, 2904, 2872, 2864, 2864, 2864, 2864,
+    2868, 2902, 2850, 2817, 2816, 2816, 2816, 2818, 2852, 2904, 2892, 2892,
+    2872, 2864, 2888, 2859, 2845, 2844, 2844, 2844, 2828, 2844, 2846, 2849,
+    2849, 2861, 2880, 2864, 2866, 2884, 2884, 2884, 2884, 2900, 2860, 2898,
+    2884, 2884, 2884, 2884, 2865, 2864, 2864, 2864, 2864, 2864, 2864, 2866,
+    2884, 2865, 2864, 2864, 2864, 2864, 2864, 2864, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[0, 0, 0, 0], 1, false]
+            },
+            { "code": 117, "indent": 0, "parameters": [34] },
+            { "code": 118, "indent": 0, "parameters": ["start"] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["FocusCamera [1] [1] [1]"]
+            },
+            {
+              "code": 311,
+              "indent": 0,
+              "parameters": [0, 0, 1, 0, 9999, false]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 21, 0] },
+            { "code": 121, "indent": 1, "parameters": [20, 20, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 4, 0] },
+            { "code": 111, "indent": 1, "parameters": [0, 20, 0] },
+            { "code": 119, "indent": 2, "parameters": ["NO SHEETS NO YARN"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 119, "indent": 2, "parameters": ["NO SHEETS"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 20, 0] },
+            { "code": 119, "indent": 1, "parameters": ["NO YARN"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 119, "indent": 0, "parameters": ["start"] },
+            { "code": 108, "indent": 0, "parameters": ["NO SHEETS"] },
+            { "code": 118, "indent": 0, "parameters": ["NO SHEETS"] },
+            {
+              "code": 284,
+              "indent": 0,
+              "parameters": ["!LilyRoomNoSheet", false, false, 0, 0]
+            },
+            { "code": 119, "indent": 0, "parameters": ["start"] },
+            { "code": 108, "indent": 0, "parameters": ["NO SHEETS NO YARN"] },
+            { "code": 118, "indent": 0, "parameters": ["NO SHEETS NO YARN"] },
+            {
+              "code": 284,
+              "indent": 0,
+              "parameters": ["!LilyRoomNoYarnNoSheet", false, false, 0, 0]
+            },
+            { "code": 119, "indent": 0, "parameters": ["start"] },
+            { "code": 108, "indent": 0, "parameters": ["NO YARN"] },
+            { "code": 118, "indent": 0, "parameters": ["NO YARN"] },
+            {
+              "code": 284,
+              "indent": 0,
+              "parameters": ["!LilyRoomNoYarn", false, false, 0, 0]
+            },
+            { "code": 119, "indent": 0, "parameters": ["start"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 201, "indent": 0, "parameters": [0, 3, 7, 5, 2, 2] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Select", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 8
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 201, "indent": 0, "parameters": [0, 14, 10, 6, 4, 2] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Select", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 6
+    },
+    {
+      "id": 4,
+      "name": "Sheets",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Простыня смята из-за твоего внезапного пробуждения."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Ты вспомнила фильм, который папа однажды принёс, где заключённые использовали простыню, чтобы сбежать из тюрьмы."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Взять простыню в качестве \\c[5]верёвки\\c[0]?"]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
+            { "code": 127, "indent": 2, "parameters": [2, 0, 0, 1, false] },
+            {
+              "code": 250,
+              "indent": 2,
+              "parameters": [
+                { "name": "GetItem", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Ты взяла \\c[5]простыню\\c[0]."]
+            },
+            { "code": 121, "indent": 2, "parameters": [4, 4, 0] },
+            { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 4,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Твоя кровать полностью застелена, кроме простыни."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Мысль о том, чтобы снова самой застелить её, пугает гораздо больше, чем что-угодно в тёмном лесу снаружи."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Здесь не осталось ничего, что могло бы тебе помочь ночью."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 5
+    },
+    {
+      "id": 5,
+      "name": "Yarn",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Корзинка для вязания вызывает у тебя уют, несмотря на дождливую погоду."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Здесь остался только один большой клубок пряжи."]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Учитывая, насколько этот клубок большой, возможно, его можно распутать в длинную верёвку."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Взять клубок пряжи в качестве \\c[5]верёвки\\c[0]?"]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
+            { "code": 127, "indent": 2, "parameters": [15, 0, 0, 1, false] },
+            {
+              "code": 250,
+              "indent": 2,
+              "parameters": [
+                { "name": "GetItem", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Ты взяла \\c[5]клубок пряжи\\c[0]."]
+            },
+            { "code": 121, "indent": 2, "parameters": [20, 20, 0] },
+            { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 20,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Теперь корзинка совершенно пустая."]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 21,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Теперь корзинка совершенно пустая."]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 4
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 356, "indent": 0, "parameters": ["AUTOSAVE"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 36, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 36, "indent": null }]
+            },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 0] },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 0
+    },
+    {
+      "id": 7,
+      "name": "Sheets",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать"] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Простыня смята из-за твоего внезапного пробуждения."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Ты вспомнила фильм, который папа однажды принёс, где заключённые использовали простыню, чтобы сбежать из тюрьмы."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Взять простыню в качестве \\c[5]верёвки\\c[0]?"]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
+            { "code": 127, "indent": 2, "parameters": [2, 0, 0, 1, false] },
+            {
+              "code": 250,
+              "indent": 2,
+              "parameters": [
+                { "name": "GetItem", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Ты взяла \\c[5]простыню\\c[0]."]
+            },
+            { "code": 121, "indent": 2, "parameters": [4, 4, 0] },
+            { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 4,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать"] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Твоя кровать полностью застелена, кроме простыни."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Мысль о том, чтобы снова самой застелить её, пугает гораздо больше, чем что-угодно в тёмном лесу снаружи."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Здесь не осталось ничего, что могло бы тебе помочь ночью."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 5
+    },
+    {
+      "id": 8,
+      "name": "Sheets",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Простыня смята из-за твоего внезапного пробуждения."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Ты вспомнила фильм, который папа однажды принёс, где заключённые использовали простыню, чтобы сбежать из тюрьмы."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Взять простыню в качестве \\c[5]верёвки\\c[0]?"]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
+            { "code": 127, "indent": 2, "parameters": [2, 0, 0, 1, false] },
+            {
+              "code": 250,
+              "indent": 2,
+              "parameters": [
+                { "name": "GetItem", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Ты взяла \\c[5]простыню\\c[0]."]
+            },
+            { "code": 121, "indent": 2, "parameters": [4, 4, 0] },
+            { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 4,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Твоя кровать полностью застелена, кроме простыни."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Мысль о том, чтобы снова самой застелить её, пугает гораздо больше, чем что-угодно в тёмном лесу снаружи."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Здесь не осталось ничего, что могло бы тебе помочь ночью."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 5
+    },
+    {
+      "id": 9,
+      "name": "Sheets",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Простыня смята из-за твоего внезапного пробуждения."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Ты вспомнила фильм, который папа однажды принёс, где заключённые использовали простыню, чтобы сбежать из тюрьмы."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Взять простыню в качестве \\c[5]верёвки\\c[0]?"]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
+            { "code": 127, "indent": 2, "parameters": [2, 0, 0, 1, false] },
+            {
+              "code": 250,
+              "indent": 2,
+              "parameters": [
+                { "name": "GetItem", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Ты взяла \\c[5]простыню\\c[0]."]
+            },
+            { "code": 121, "indent": 2, "parameters": [4, 4, 0] },
+            { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 4,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Твоя кровать полностью застелена, кроме простыни."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Мысль о том, чтобы снова самой застелить её, пугает гораздо больше, чем что-угодно в тёмном лесу снаружи."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Здесь не осталось ничего, что могло бы тебе помочь ночью."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 6
+    },
+    {
+      "id": 10,
+      "name": "Sheets",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Простыня смята из-за твоего внезапного пробуждения."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Ты вспомнила фильм, который папа однажды принёс, где заключённые использовали простыню, чтобы сбежать из тюрьмы."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Взять простыню в качестве \\c[5]верёвки\\c[0]?"]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
+            { "code": 127, "indent": 2, "parameters": [2, 0, 0, 1, false] },
+            {
+              "code": 250,
+              "indent": 2,
+              "parameters": [
+                { "name": "GetItem", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Ты взяла \\c[5]простыню\\c[0]."]
+            },
+            { "code": 121, "indent": 2, "parameters": [4, 4, 0] },
+            { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 4,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Это твоя кровать."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Твоя кровать полностью застелена, кроме простыни."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Мысль о том, чтобы снова самой застелить её, пугает гораздо больше, чем что-угодно в тёмном лесу снаружи."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Здесь не осталось ничего, что могло бы тебе помочь ночью."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 6
+    },
+    {
+      "id": 11,
+      "name": "EV011",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 201, "indent": 0, "parameters": [0, 70, 2, 4, 2, 2] },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 1] },
+            { "code": 117, "indent": 0, "parameters": [36] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [6], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 4
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 201, "indent": 0, "parameters": [0, 70, 2, 4, 2, 2] },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 1] },
+            { "code": 117, "indent": 0, "parameters": [36] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [6], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": 13,
+      "name": "Bear",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Плюшевый мишка по имени \"Нюх\""]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Назад"],
+                3,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Тётя Мифую подарила тебе Нюха на твой первый день рождения."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Он немного пахнет, но в хорошем смысле."]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Запах чердака"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Нюх был бы храбрым и верным спутником в этом приключении..."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["...но дождь не пойдёт ему на пользу."]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 6
+    },
+    {
+      "id": 14,
+      "name": "Lamp",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Лампа."] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Благодаря ней в комнате до сих пор светло."
+              ]
+            },
+            { "code": 111, "indent": 1, "parameters": [1, 11, 0, 1, 1] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Ты можешь поклясться, что когда-то у тебя была лампа с ночником наверху, который освещает потолок."
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Может, это было во сне или в каком-то фильме."]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Лампа может быть хорошим источником света, пока ты ходишь по улице."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Но проблема в том, что ей нужна розетка, если не хочешь, чтобы она висела мёртвым грузом."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 4, 0, 1, 0] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 4
+    }
+  ]
 }
