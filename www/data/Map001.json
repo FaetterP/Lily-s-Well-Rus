@@ -1,26 +1,2988 @@
 {
-"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":10,"note":"<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n","parallaxLoopX":true,"parallaxLoopY":false,"parallaxName":"Water","parallaxShow":true,"parallaxSx":8,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":3,"width":14,
-"data":[8147,8155,8154,8154,8154,8154,8158,8151,8155,8154,8154,8154,8158,8150,8149,7906,7906,7906,7906,7906,7906,8149,7906,7906,7906,7906,7906,8149,8149,7904,7904,7904,7904,7904,7904,8157,7904,7904,7904,7904,7904,8149,8149,7912,7912,7912,7912,7912,7912,7911,7912,7912,7912,7912,7912,8149,8149,3234,3220,3220,3220,3220,3236,7909,3234,3220,3220,3220,3236,8149,8149,3216,3200,3200,3200,3200,3224,7917,3216,3200,3200,3200,3224,8149,8157,3240,3228,3228,3208,3200,3202,3220,3201,3200,3200,3200,3224,8149,1544,1544,1544,1544,3216,3200,3200,3200,3200,3200,3200,3200,3224,8149,1544,1544,1544,1544,3240,3228,3228,3228,3228,3228,3228,3228,3238,8149,1544,1544,1544,1544,8155,8154,8154,8154,8154,8154,8154,8154,8158,8156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":211,"indent":0,"parameters":[1]},{"code":356,"indent":0,"parameters":["FocusCamera [1] [1] [1]"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":0,"y":0},
-{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People2","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":118,"indent":0,"parameters":["loop"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Sound Test"]},{"code":102,"indent":0,"parameters":[["Title Theme","Opening Theme","House Theme","Forest Theme","Horror","More"],-1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Title Theme"]},{"code":241,"indent":1,"parameters":[{"name":"ActualHouseTheme","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Opening Theme"]},{"code":241,"indent":1,"parameters":[{"name":"IntroCutscene","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"House Theme"]},{"code":241,"indent":1,"parameters":[{"name":"TitleTheme","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Forest Theme"]},{"code":241,"indent":1,"parameters":[{"name":"Forest","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Horror"]},{"code":241,"indent":1,"parameters":[{"name":"Horror","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[5,"More"]},{"code":102,"indent":1,"parameters":[["Original Lily","Underground","Back"],2,0,2,0]},{"code":402,"indent":1,"parameters":[0,"Original Lily"]},{"code":241,"indent":2,"parameters":[{"name":"OriginalLily","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"Underground"]},{"code":241,"indent":2,"parameters":[{"name":"UndergroundMagic","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[2,"Back"]},{"code":119,"indent":2,"parameters":["loop"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":3,"y":4},
-{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":126,"indent":0,"parameters":[1,0,0,1]},{"code":126,"indent":0,"parameters":[2,0,0,1]},{"code":126,"indent":0,"parameters":[3,0,0,1]},{"code":126,"indent":0,"parameters":[4,0,0,1]},{"code":126,"indent":0,"parameters":[5,0,0,1]},{"code":126,"indent":0,"parameters":[6,0,0,1]},{"code":126,"indent":0,"parameters":[7,0,0,1]},{"code":127,"indent":0,"parameters":[1,0,0,1,false]},{"code":127,"indent":0,"parameters":[2,0,0,1,false]},{"code":127,"indent":0,"parameters":[3,0,0,1,false]},{"code":127,"indent":0,"parameters":[4,0,0,1,false]},{"code":127,"indent":0,"parameters":[5,0,0,1,false]},{"code":127,"indent":0,"parameters":[6,0,0,1,false]},{"code":127,"indent":0,"parameters":[7,0,0,1,false]},{"code":127,"indent":0,"parameters":[8,0,0,1,false]},{"code":127,"indent":0,"parameters":[9,0,0,1,false]},{"code":127,"indent":0,"parameters":[10,0,0,1,false]},{"code":127,"indent":0,"parameters":[11,0,0,1,false]},{"code":127,"indent":0,"parameters":[12,0,0,1,false]},{"code":127,"indent":0,"parameters":[13,0,0,1,false]},{"code":127,"indent":0,"parameters":[14,0,0,1,false]},{"code":127,"indent":0,"parameters":[15,0,0,1,false]},{"code":128,"indent":0,"parameters":[1,0,0,1,false]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":4},
-{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Nature","direction":2,"pattern":1,"characterIndex":5},"list":[{"code":322,"indent":0,"parameters":[1,"Lily",1,"Actor1",0,"Actor1_1"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":35,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":4},
-{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":356,"indent":0,"parameters":["AUTOSAVE"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":5},
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Papa","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":7,"y":6},
-{"id":7,"name":"EV007","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Lily","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":241,"indent":0,"parameters":[{"name":"","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Something smells bad..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]What are you pouring?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Hey, I thought I told you to wait in the van."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]It smells like the stove."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Look... You're not going to like seeing this. Go back to the van."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]Is this Papa's punishment?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]Can I help?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Sure kiddo. You deserve it as much as me."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"KeroseneHouse",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":223,"indent":0,"parameters":[[-255,-255,-255,0],1,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You pour the kerosene all over the base of the house."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"GardenBurning",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Both of you drench the garden, giving its residents one last drink."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Finally..."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"WellBurn",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You send some down for Papa to deal with."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Once we throw the lighter, there's no going back."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]No going back..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]I soaked the azoth hair in the garden with the tanks from the shed."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]If the alchemists still have it growing around the campus, it should light it up like a fireball."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]Bye Papa."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]...Rest in piss, Papa."]},{"code":230,"indent":0,"parameters":[300]},{"code":121,"indent":0,"parameters":[48,48,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Despite the rain, the house bursts into violent flames."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["...There is no more house to wake up in."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The heat is intense even from a distance."]},{"code":121,"indent":0,"parameters":[48,48,1]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["And yet..."]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"BurnWatch1",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":121,"indent":0,"parameters":[49,49,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]*sniff*"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]It's okay to still love him."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]I... I still don't know why he hurt me..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]No matter what... He said I was a bad girl..."]},{"code":121,"indent":0,"parameters":[49,49,1]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"BurnWatch1",0,0,0,0,100,100,255,0]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"TheHug",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["She pulls you in close."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Adults don't hurt kids."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Lily, you didn't deserve anything he did to you."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Just because someone's your papa, it doesn't mean they're right."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You feel tears that don't belong to you begin to fall."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The hug tightens on both ends."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Lily needed this hug for a long time."]},{"code":242,"indent":0,"parameters":[5]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,0,0,400,true]},{"code":211,"indent":0,"parameters":[0]},{"code":355,"indent":0,"parameters":["OrangeGreenworks.activateAchievement('TrueEnd');"]},{"code":230,"indent":0,"parameters":[500]},{"code":201,"indent":0,"parameters":[0,64,1,0,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":8,"y":7},
-{"id":8,"name":"EV008","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Lily","direction":2,"pattern":1,"characterIndex":4},"list":[{"code":231,"indent":0,"parameters":[1,"Lee",0,0,0,-466,100,100,255,0]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,255,0,999,true]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":4},
-{"id":9,"name":"EV009","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"FleshMonsters","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":6,"moveType":0,"priorityType":2,"stepAnime":true,"through":true,"trigger":0,"walkAnime":true}],"x":11,"y":5},
-{"id":10,"name":"EV010","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Nature","direction":4,"pattern":2,"characterIndex":1},"list":[{"code":355,"indent":0,"parameters":["alert('I cant do this anymore.');"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":11,"y":7},
-{"id":11,"name":"EV011","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":352,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":12,"y":5},
-{"id":12,"name":"EV012","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Papa","direction":2,"pattern":1,"characterIndex":2},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Tip: \\Shake\\c[2]V2h5IGRvIEkgb25seSByZW1lbW  JlciBhcyBJJ20"]},{"code":401,"indent":0,"parameters":["gZHlpbmc/IFdoZW4g SSB3YWtlIHVwIGluIGEgbmV3IGJ"]},{"code":401,"indent":0,"parameters":[" vZHkgSSdtIGxlZnQgd2l0aCBub3RoaW"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\Shake\\c[2]5nIGJ1dCB3aGF0IHRoZXkgd2FudCBtZ SB0byByZW1lbWJlci4="]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":6,"y":4},
-{"id":13,"name":"EV013","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Nature","direction":2,"pattern":1,"characterIndex":4},"list":[{"code":356,"indent":0,"parameters":["openoverlay"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":8,"y":4},
-{"id":14,"name":"EV014","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Nature","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":112,"indent":0,"parameters":[]},{"code":245,"indent":1,"parameters":[{"name":"Storm2","volume":65,"pitch":50,"pan":0}]},{"code":231,"indent":1,"parameters":[1,"BurningHouse1",0,0,0,0,100,100,255,0]},{"code":230,"indent":1,"parameters":[8]},{"code":231,"indent":1,"parameters":[2,"BurningHouse2",0,0,0,0,100,100,255,0]},{"code":230,"indent":1,"parameters":[8]},{"code":231,"indent":1,"parameters":[3,"BurningHouse3",0,0,0,0,100,100,255,0]},{"code":230,"indent":1,"parameters":[8]},{"code":235,"indent":1,"parameters":[2]},{"code":235,"indent":1,"parameters":[3]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":4},
-{"id":15,"name":"EV015","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":40,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":6,"pattern":1,"characterIndex":5},"list":[{"code":241,"indent":0,"parameters":[{"name":"","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Something smells bad..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]What are you pouring?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Hey, I thought I told you to wait in the van."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]It smells like the stove."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Look... You're not going to like seeing this. Go back to the van."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]Is this Papa's punishment?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]Can I help?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Sure kiddo. You deserve it as much as me."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"KeroseneHouse",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":223,"indent":0,"parameters":[[-255,-255,-255,0],1,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You pour the kerosene all over the base of the house."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"GardenBurning",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Both of you drench the garden, giving its residents one last drink."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Finally..."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"WellBurn",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You send some down for Papa to deal with."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Once we throw the lighter, there's no going back."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]No going back..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]I soaked the azoth hair in the garden with the tanks from the shed."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]If the alchemists still have it growing around the campus, it should light it up like a fireball."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]Bye Papa."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]...Rest in piss, Papa."]},{"code":230,"indent":0,"parameters":[300]},{"code":121,"indent":0,"parameters":[48,48,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Despite the rain, the house bursts into violent flames."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["...There is no more house to wake up in."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The heat is intense even from a distance."]},{"code":121,"indent":0,"parameters":[48,48,1]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["And yet..."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"BurnWatch1",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":121,"indent":0,"parameters":[49,49,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]*sniff*"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]It's okay to still love him."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]I... I still don't know why he hurt me..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Lily Version \\v[10]>\\c[5]No matter what... He said I was a bad girl..."]},{"code":121,"indent":0,"parameters":[49,49,1]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"BurnWatch1",0,0,0,0,100,100,255,0]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"TheHug",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["She pulls you in close."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Adults don't hurt kids."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Lily, you didn't deserve anything he did to you."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Original Lily>\\c[5]Just because someone's your papa, it doesn't mean they're right."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You feel tears that don't belong to you begin to fall."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The hug tightens on both ends."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Lily needed this hug for a long time."]},{"code":242,"indent":0,"parameters":[5]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,0,0,400,true]},{"code":211,"indent":0,"parameters":[0]},{"code":355,"indent":0,"parameters":["OrangeGreenworks.activateAchievement('TrueEnd');"]},{"code":230,"indent":0,"parameters":[500]},{"code":201,"indent":0,"parameters":[0,64,1,0,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":6},
-{"id":16,"name":"EV016","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"LilyFrogCostume","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":322,"indent":0,"parameters":[1,"LilyFrogCostume",0,"Actor1",1,""]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":6},
-{"id":17,"name":"EV017","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"LilyCostumes","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":322,"indent":0,"parameters":[1,"LilyCostumes",1,"Actor1",2,""]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":3,"y":7},
-{"id":18,"name":"EV018","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":19,"variableValid":false,"variableValue":5},"directionFix":true,"image":{"tileId":0,"characterName":"Damage3","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":241,"indent":0,"parameters":[{"name":"","volume":90,"pitch":100,"pan":0}]},{"code":250,"indent":0,"parameters":[{"name":"MermaidScream","volume":100,"pitch":150,"pan":0}]},{"code":223,"indent":0,"parameters":[[-255,-255,-255,0],1,false]},{"code":230,"indent":0,"parameters":[120]},{"code":231,"indent":0,"parameters":[1,"ForestBeast",0,0,0,-466,100,100,255,0]},{"code":230,"indent":0,"parameters":[200]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["\\n<Creature>\\c[2]Hungry..."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["\\n<Creature>\\c[2]Need more! Need more!"]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,0,0,999,false]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["The creature bites into you, ripping muscle from bone."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Your screams are heard by nobody, but the creature finally feels full."]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,0,0,100,true]},{"code":250,"indent":0,"parameters":[{"name":"CancelSound","volume":100,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"DeadEnd1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"CancelSound","volume":100,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"DeadEnd2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"CancelSound","volume":100,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"DeadEnd5",0,0,0,0,100,100,255,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":7,"y":4},
-{"id":19,"name":"EV019","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":23,"variableValid":false,"variableValue":14},"directionFix":false,"image":{"tileId":0,"characterName":"LilyRoseCostume","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":223,"indent":0,"parameters":[[-255,-255,-255,0],1,false]},{"code":241,"indent":0,"parameters":[{"name":"","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You sure threw out a lot of things."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Why were you gathering all this stuff again?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Oh well, there's still room in the can."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[2,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[2,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[2,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"JokeEnd2",0,0,0,0,100,100,255,0]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":231,"indent":0,"parameters":[2,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[2,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[2]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Uh... dude? Something weird's happening."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]What's up?"]},{"code":231,"indent":0,"parameters":[3,"JokeEnd3",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Oh."]},{"code":231,"indent":0,"parameters":[4,"JokeEnd4",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]She's literally putting everything in the trash."]},{"code":231,"indent":0,"parameters":[5,"JokeEnd5",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Like, there shouldn't be that much room, right?"]},{"code":231,"indent":0,"parameters":[6,"JokeEnd6",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Let me check the notes."]},{"code":231,"indent":0,"parameters":[7,"JokeEnd7",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Did this happen before?"]},{"code":231,"indent":0,"parameters":[8,"JokeEnd8",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]I seriously can't figure out why she's doing this."]},{"code":231,"indent":0,"parameters":[9,"JokeEnd9",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Hold on... hold on..."]},{"code":231,"indent":0,"parameters":[10,"JokeEnd10",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Okay, it looks like she threw out literally everything she could use as rope."]},{"code":231,"indent":0,"parameters":[11,"JokeEnd11",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]But now she's associating putting rope in the trash like putting it in the well."]},{"code":231,"indent":0,"parameters":[12,"JokeEnd12",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Okay, but why the plunger and all that other crap?"]},{"code":231,"indent":0,"parameters":[13,"JokeEnd13",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]I think she's just stuck in a loop since there's no goal now?"]},{"code":231,"indent":0,"parameters":[14,"JokeEnd14",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Huh."]},{"code":231,"indent":0,"parameters":[15,"JokeEnd15",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Does that mean this run was a success?"]},{"code":231,"indent":0,"parameters":[16,"JokeEnd16",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Nah, she still got dressed and left the house."]},{"code":231,"indent":0,"parameters":[17,"JokeEnd17",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Yeah I guess."]},{"code":231,"indent":0,"parameters":[18,"JokeEnd18",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Also she's kind of like a reverse hoarder."]},{"code":231,"indent":0,"parameters":[19,"JokeEnd21",0,0,0,-100,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Oh shit, she got the weed whacker."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Papa>\\c[1]SHE WHAT?!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Blue Cloaked Figure>\\c[2]Professor!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Papa>\\c[1]I'm going to fix it myself! It doesn't need to be thrown out, I can fix it!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]The one covered in rust?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Papa>\\c[1]Not now, Gunther!"]},{"code":231,"indent":0,"parameters":[20,"JokeEnd22",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Papa>\\c[1]It's time to activate the \"Loop-Breaker\"!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Oh, that's what that button is?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Papa>\\c[1]I'm not going to let you throw out perfectly good equipment you piece of shit!"]},{"code":231,"indent":0,"parameters":[21,"Finger",0,0,0,-200,100,100,255,0]},{"code":232,"indent":0,"parameters":[21,0,0,0,0,0,100,100,255,0,150,true]},{"code":230,"indent":0,"parameters":[60]},{"code":231,"indent":0,"parameters":[22,"JokeEnd23",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[200]},{"code":231,"indent":0,"parameters":[23,"JokeEnd24",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"LilySound2","volume":90,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[24,"JokeEnd25",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[60]},{"code":231,"indent":0,"parameters":[25,"JokeEnd26",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":[""]},{"code":108,"indent":0,"parameters":["Chomp"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Gray Cloaked Figure>\\c[2]Hey what the fuck was that\\^                 ."]},{"code":355,"indent":0,"parameters":["$gameScreen.clearPictures();"]},{"code":250,"indent":0,"parameters":[{"name":"CancelSound","volume":100,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"DeadEnd6",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"CancelSound","volume":100,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"DeadEnd7",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"CancelSound","volume":100,"pitch":50,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"DeadEnd8",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[500]},{"code":117,"indent":0,"parameters":[17]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":7}
-]
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n",
+  "parallaxLoopX": true,
+  "parallaxLoopY": false,
+  "parallaxName": "Water",
+  "parallaxShow": true,
+  "parallaxSx": 8,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 14,
+  "data": [
+    8147, 8155, 8154, 8154, 8154, 8154, 8158, 8151, 8155, 8154, 8154, 8154,
+    8158, 8150, 8149, 7906, 7906, 7906, 7906, 7906, 7906, 8149, 7906, 7906,
+    7906, 7906, 7906, 8149, 8149, 7904, 7904, 7904, 7904, 7904, 7904, 8157,
+    7904, 7904, 7904, 7904, 7904, 8149, 8149, 7912, 7912, 7912, 7912, 7912,
+    7912, 7911, 7912, 7912, 7912, 7912, 7912, 8149, 8149, 3234, 3220, 3220,
+    3220, 3220, 3236, 7909, 3234, 3220, 3220, 3220, 3236, 8149, 8149, 3216,
+    3200, 3200, 3200, 3200, 3224, 7917, 3216, 3200, 3200, 3200, 3224, 8149,
+    8157, 3240, 3228, 3228, 3208, 3200, 3202, 3220, 3201, 3200, 3200, 3200,
+    3224, 8149, 1544, 1544, 1544, 1544, 3216, 3200, 3200, 3200, 3200, 3200,
+    3200, 3200, 3224, 8149, 1544, 1544, 1544, 1544, 3240, 3228, 3228, 3228,
+    3228, 3228, 3228, 3228, 3238, 8149, 1544, 1544, 1544, 1544, 8155, 8154,
+    8154, 8154, 8154, 8154, 8154, 8154, 8158, 8156, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0,
+    5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 211, "indent": 0, "parameters": [1] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["FocusCamera [1] [1] [1]"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 118, "indent": 0, "parameters": ["loop"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Sound Test"] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Title Theme",
+                  "Opening Theme",
+                  "House Theme",
+                  "Forest Theme",
+                  "Horror",
+                  "More"
+                ],
+                -1,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Title Theme"] },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "ActualHouseTheme",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Opening Theme"] },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "IntroCutscene",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "House Theme"] },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                { "name": "TitleTheme", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Forest Theme"] },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                { "name": "Forest", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Horror"] },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                { "name": "Horror", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [5, "More"] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [
+                ["Original Lily", "Underground", "Back"],
+                2,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Original Lily"] },
+            {
+              "code": 241,
+              "indent": 2,
+              "parameters": [
+                { "name": "OriginalLily", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Underground"] },
+            {
+              "code": 241,
+              "indent": 2,
+              "parameters": [
+                {
+                  "name": "UndergroundMagic",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [2, "Back"] },
+            { "code": 119, "indent": 2, "parameters": ["loop"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 4
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
+            { "code": 126, "indent": 0, "parameters": [2, 0, 0, 1] },
+            { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
+            { "code": 126, "indent": 0, "parameters": [4, 0, 0, 1] },
+            { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
+            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
+            { "code": 126, "indent": 0, "parameters": [7, 0, 0, 1] },
+            { "code": 127, "indent": 0, "parameters": [1, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [2, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [3, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [4, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [5, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [6, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [7, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [8, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [9, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [10, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [11, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [12, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [13, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [14, 0, 0, 1, false] },
+            { "code": 127, "indent": 0, "parameters": [15, 0, 0, 1, false] },
+            { "code": 128, "indent": 0, "parameters": [1, 0, 0, 1, false] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 4
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Nature",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {
+              "code": 322,
+              "indent": 0,
+              "parameters": [1, "Lily", 1, "Actor1", 0, "Actor1_1"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [6], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 356, "indent": 0, "parameters": ["AUTOSAVE"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 5
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Papa",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 6
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Lily",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Something smells bad..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]What are you pouring?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Hey, I thought I told you to wait in the van."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]It smells like the stove."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Look... You're not going to like seeing this. Go back to the van."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]Is this Papa's punishment?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]Can I help?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Sure kiddo. You deserve it as much as me."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "KeroseneHouse", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-255, -255, -255, 0], 1, false]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You pour the kerosene all over the base of the house."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "GardenBurning", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Both of you drench the garden, giving its residents one last drink."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Finally..."] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "WellBurn", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You send some down for Papa to deal with."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Once we throw the lighter, there's no going back."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]No going back..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]I soaked the azoth hair in the garden with the tanks from the shed."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]If the alchemists still have it growing around the campus, it should light it up like a fireball."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]Bye Papa."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]...Rest in piss, Papa."]
+            },
+            { "code": 230, "indent": 0, "parameters": [300] },
+            { "code": 121, "indent": 0, "parameters": [48, 48, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Despite the rain, the house bursts into violent flames."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...There is no more house to wake up in."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The heat is intense even from a distance."]
+            },
+            { "code": 121, "indent": 0, "parameters": [48, 48, 1] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["And yet..."] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "BurnWatch1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 121, "indent": 0, "parameters": [49, 49, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]*sniff*"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]It's okay to still love him."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]I... I still don't know why he hurt me..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]No matter what... He said I was a bad girl..."
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [49, 49, 1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "BurnWatch1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "TheHug", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["She pulls you in close."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]Adults don't hurt kids."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Lily, you didn't deserve anything he did to you."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Just because someone's your papa, it doesn't mean they're right."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You feel tears that don't belong to you begin to fall."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The hug tightens on both ends."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Lily needed this hug for a long time."]
+            },
+            { "code": 242, "indent": 0, "parameters": [5] },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 0, 0, 400, true]
+            },
+            { "code": 211, "indent": 0, "parameters": [0] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["OrangeGreenworks.activateAchievement('TrueEnd');"]
+            },
+            { "code": 230, "indent": 0, "parameters": [500] },
+            { "code": 201, "indent": 0, "parameters": [0, 64, 1, 0, 0, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 7
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Lily",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Lee", 0, 0, 0, -466, 100, 100, 255, 0]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 999, true]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 4
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "FleshMonsters",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 6,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": true,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 5
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Nature",
+            "direction": 4,
+            "pattern": 2,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["alert('I cant do this anymore.');"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 7
+    },
+    {
+      "id": 11,
+      "name": "EV011",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 352, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 5
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Papa",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tip: \\Shake\\c[2]V2h5IGRvIEkgb25seSByZW1lbW  JlciBhcyBJJ20"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["gZHlpbmc/IFdoZW4g SSB3YWtlIHVwIGluIGEgbmV3IGJ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [" vZHkgSSdtIGxlZnQgd2l0aCBub3RoaW"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\Shake\\c[2]5nIGJ1dCB3aGF0IHRoZXkgd2FudCBtZ SB0byByZW1lbWJlci4="
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 4
+    },
+    {
+      "id": 13,
+      "name": "EV013",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Nature",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            { "code": 356, "indent": 0, "parameters": ["openoverlay"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 4
+    },
+    {
+      "id": 14,
+      "name": "EV014",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Nature",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            { "code": 112, "indent": 0, "parameters": [] },
+            {
+              "code": 245,
+              "indent": 1,
+              "parameters": [
+                { "name": "Storm2", "volume": 65, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [1, "BurningHouse1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 1, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [2, "BurningHouse2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 1, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [3, "BurningHouse3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 1, "parameters": [8] },
+            { "code": 235, "indent": 1, "parameters": [2] },
+            { "code": 235, "indent": 1, "parameters": [3] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 4
+    },
+    {
+      "id": 15,
+      "name": "EV015",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 40,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Something smells bad..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]What are you pouring?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Hey, I thought I told you to wait in the van."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]It smells like the stove."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Look... You're not going to like seeing this. Go back to the van."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]Is this Papa's punishment?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]Can I help?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Sure kiddo. You deserve it as much as me."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "KeroseneHouse", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-255, -255, -255, 0], 1, false]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You pour the kerosene all over the base of the house."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "GardenBurning", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Both of you drench the garden, giving its residents one last drink."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Finally..."] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "WellBurn", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You send some down for Papa to deal with."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Once we throw the lighter, there's no going back."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]No going back..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]I soaked the azoth hair in the garden with the tanks from the shed."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]If the alchemists still have it growing around the campus, it should light it up like a fireball."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]Bye Papa."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]...Rest in piss, Papa."]
+            },
+            { "code": 230, "indent": 0, "parameters": [300] },
+            { "code": 121, "indent": 0, "parameters": [48, 48, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Despite the rain, the house bursts into violent flames."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...There is no more house to wake up in."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The heat is intense even from a distance."]
+            },
+            { "code": 121, "indent": 0, "parameters": [48, 48, 1] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["And yet..."] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "BurnWatch1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 121, "indent": 0, "parameters": [49, 49, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]*sniff*"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]It's okay to still love him."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]I... I still don't know why he hurt me..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lily Version \\v[10]>\\c[5]No matter what... He said I was a bad girl..."
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [49, 49, 1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "BurnWatch1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "TheHug", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["She pulls you in close."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Original Lily>\\c[5]Adults don't hurt kids."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Lily, you didn't deserve anything he did to you."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Original Lily>\\c[5]Just because someone's your papa, it doesn't mean they're right."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You feel tears that don't belong to you begin to fall."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The hug tightens on both ends."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Lily needed this hug for a long time."]
+            },
+            { "code": 242, "indent": 0, "parameters": [5] },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 0, 0, 400, true]
+            },
+            { "code": 211, "indent": 0, "parameters": [0] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["OrangeGreenworks.activateAchievement('TrueEnd');"]
+            },
+            { "code": 230, "indent": 0, "parameters": [500] },
+            { "code": 201, "indent": 0, "parameters": [0, 64, 1, 0, 0, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 6
+    },
+    {
+      "id": 16,
+      "name": "EV016",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "LilyFrogCostume",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 322,
+              "indent": 0,
+              "parameters": [1, "LilyFrogCostume", 0, "Actor1", 1, ""]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 6
+    },
+    {
+      "id": 17,
+      "name": "EV017",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "LilyCostumes",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 322,
+              "indent": 0,
+              "parameters": [1, "LilyCostumes", 1, "Actor1", 2, ""]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 7
+    },
+    {
+      "id": 18,
+      "name": "EV018",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 19,
+            "variableValid": false,
+            "variableValue": 5
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "Damage3",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MermaidScream",
+                  "volume": 100,
+                  "pitch": 150,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-255, -255, -255, 0], 1, false]
+            },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "ForestBeast", 0, 0, 0, -466, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [200] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 0, 0, 999, false]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The creature bites into you, ripping muscle from bone."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Your screams are heard by nobody, but the creature finally feels full."
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 0, 0, 100, true]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "CancelSound", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "DeadEnd1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "CancelSound", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "DeadEnd2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "CancelSound", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "DeadEnd5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 4
+    },
+    {
+      "id": 19,
+      "name": "EV019",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 23,
+            "variableValid": false,
+            "variableValue": 14
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "LilyRoseCostume",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-255, -255, -255, 0], 1, false]
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You sure threw out a lot of things."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Why were you gathering all this stuff again?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Oh well, there's still room in the can."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "JokeEnd2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 1] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]Uh... dude? Something weird's happening."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]What's up?"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "JokeEnd3", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]Oh."]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [4, "JokeEnd4", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]She's literally putting everything in the trash."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [5, "JokeEnd5", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]Like, there shouldn't be that much room, right?"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [6, "JokeEnd6", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Let me check the notes."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [7, "JokeEnd7", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]Did this happen before?"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [8, "JokeEnd8", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]I seriously can't figure out why she's doing this."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [9, "JokeEnd9", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Hold on... hold on..."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [10, "JokeEnd10", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Okay, it looks like she threw out literally everything she could use as rope."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [11, "JokeEnd11", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]But now she's associating putting rope in the trash like putting it in the well."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [12, "JokeEnd12", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]Okay, but why the plunger and all that other crap?"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [13, "JokeEnd13", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]I think she's just stuck in a loop since there's no goal now?"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [14, "JokeEnd14", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Huh."]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [15, "JokeEnd15", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]Does that mean this run was a success?"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [16, "JokeEnd16", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Nah, she still got dressed and left the house."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [17, "JokeEnd17", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Yeah I guess."]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [18, "JokeEnd18", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Blue Cloaked Figure>\\c[2]Also she's kind of like a reverse hoarder."
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [19, "JokeEnd21", 0, 0, 0, -100, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Oh shit, she got the weed whacker."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Papa>\\c[1]SHE WHAT?!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Professor!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Papa>\\c[1]I'm going to fix it myself! It doesn't need to be thrown out, I can fix it!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]The one covered in rust?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Papa>\\c[1]Not now, Gunther!"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [20, "JokeEnd22", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Papa>\\c[1]It's time to activate the \"Loop-Breaker\"!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Oh, that's what that button is?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Papa>\\c[1]I'm not going to let you throw out perfectly good equipment you piece of shit!"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [21, "Finger", 0, 0, 0, -200, 100, 100, 255, 0]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [21, 0, 0, 0, 0, 0, 100, 100, 255, 0, 150, true]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [22, "JokeEnd23", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [200] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [23, "JokeEnd24", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "LilySound2", "volume": 90, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [24, "JokeEnd25", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [25, "JokeEnd26", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 108, "indent": 0, "parameters": ["Chomp"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Gray Cloaked Figure>\\c[2]Hey what the fuck was that\\^                 ."
+              ]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameScreen.clearPictures();"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "CancelSound", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "DeadEnd6", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "CancelSound", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "DeadEnd7", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "CancelSound", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "DeadEnd8", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [500] },
+            { "code": 117, "indent": 0, "parameters": [17] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 7
+    }
+  ]
 }

@@ -1,24 +1,1915 @@
 {
-"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"UndergroundMagic","pan":0,"pitch":100,"volume":85},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":10,"note":"<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"!CageRoom","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":14,
-"data":[2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2868,2892,2892,2892,2892,2872,2864,2864,2864,2864,2864,2864,2868,2892,2902,2850,2836,2836,2852,2904,2892,2892,2892,2872,2864,2892,2902,2850,2836,2817,2816,2816,2818,2836,2837,2849,2861,2880,2864,2836,2836,2817,2816,2816,2816,2816,2816,2816,2840,2898,2884,2865,2864,2844,2844,2844,2844,2844,2844,2844,2844,2828,2854,2880,2864,2864,2864,2884,2884,2884,2884,2884,2884,2884,2900,2848,2898,2865,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2888,2860,2880,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2866,2884,2865,2864,2864,2864,2864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":356,"indent":0,"parameters":["FocusCamera [1] [1] [1]"]},{"code":311,"indent":0,"parameters":[0,0,1,0,9999,false]},{"code":111,"indent":0,"parameters":[1,16,0,0,0]},{"code":284,"indent":1,"parameters":["!CageRoom",false,false,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,16,0,1,0]},{"code":284,"indent":1,"parameters":["!CageRoomDeadFred",false,false,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,16,0,2,0]},{"code":284,"indent":1,"parameters":["!CageRoomMissingFred",false,false,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":0,"y":0},
-{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":201,"indent":0,"parameters":[0,48,12,5,0,2]},{"code":250,"indent":0,"parameters":[{"name":"Select","volume":100,"pitch":50,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":0,"y":5},
-{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":201,"indent":0,"parameters":[0,51,6,4,2,2]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":117,"indent":0,"parameters":[36]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":35,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":231,"indent":0,"parameters":[1,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":2},
-{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":121,"indent":0,"parameters":[23,23,0]},{"code":356,"indent":0,"parameters":["AUTOSAVE"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":36,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":36,"indent":null}]},{"code":117,"indent":0,"parameters":[34]},{"code":214,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":1,"y":0},
-{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":201,"indent":0,"parameters":[0,51,6,4,2,2]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":117,"indent":0,"parameters":[36]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":35,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":231,"indent":0,"parameters":[1,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":6,"y":2},
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":201,"indent":0,"parameters":[0,51,6,4,2,2]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":117,"indent":0,"parameters":[36]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":35,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":231,"indent":0,"parameters":[1,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":7,"y":2},
-{"id":7,"name":"Freddy Fungus","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["There's a man sleeping on the couch."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The man has a light dusting of cheese powder on his fingers and beard."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["His nametag reads \"Freddy Fungus\"."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There might be something in his pockets, but you don't want to risk waking him up."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You are in a strange place. You don't know who to trust."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":4,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":16,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["A bleeding corpse is on the couch."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You did this."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":111,"indent":1,"parameters":[10,4,false]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You already took everything you may have needed."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["But was it worth it?"]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Going through the corpse's pockets, you find an ID card reading \"Master ID\"."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Take it?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":128,"indent":3,"parameters":[4,0,0,1,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You got the \\c[2]Master ID Card\\c[0]."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You've dirtied your hands for nothing."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You're a murderer."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":16,"variableValid":true,"variableValue":2},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The couch has a red stain on it."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["It looks like someone tried to scrub out the stain before giving up."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["They clearly didn't try the asprin or lemon juice method."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["As impressive as it would be to take the couch, you can't."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Oh wait, did you want to check in the cushions or underneath it?"]},{"code":111,"indent":1,"parameters":[10,4,false]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Unfortunately there's nothing there."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Well... There's an ID card here."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Take it?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":128,"indent":3,"parameters":[4,0,0,1,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You got the \\c[2]Master ID Card\\c[0]."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You've still dirtied your hands for nothing."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Looking at this couch makes you tremble for some reason."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":3},
-{"id":8,"name":"Freddy Fungus","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["There's a man sleeping on the couch."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The man has a light dusting of cheese powder on his fingers and beard."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["His nametag reads \"Freddy Fungus\"."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There might be something in his pockets, but you don't want to risk waking him up."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You are in a strange place. You don't know who to trust."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":4,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":16,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["A bleeding corpse is on the couch."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You did this."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":111,"indent":1,"parameters":[10,4,false]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You already took everything you may have needed."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["But was it worth it?"]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Going through the corpse's pockets, you find an ID card reading \"Master ID\"."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Take it?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":128,"indent":3,"parameters":[4,0,0,1,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You got the \\c[2]Master ID Card\\c[0]."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You've dirtied your hands for nothing."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You're a murderer."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":16,"variableValid":true,"variableValue":2},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The couch has a red stain on it."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["It looks like someone tried to scrub out the stain before giving up."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["They clearly didn't try the asprin or lemon juice method."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["As impressive as it would be to take the couch, you can't."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Oh wait, did you want to check in the cushions or underneath it?"]},{"code":111,"indent":1,"parameters":[10,4,false]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Unfortunately there's nothing there."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Well... There's an ID card here."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Take it?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":128,"indent":3,"parameters":[4,0,0,1,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You got the \\c[2]Master ID Card\\c[0]."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You've still dirtied your hands for nothing."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Looking at this couch makes you tremble for some reason."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":3},
-{"id":9,"name":"Freddy Fungus","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["There's a man sleeping on the couch."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The man has a light dusting of cheese powder on his fingers and beard."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["His nametag reads \"Freddy Fungus\"."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["There might be something in his pockets, but you don't want to risk waking him up."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You are in a strange place. You don't know who to trust."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":4,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":16,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["A bleeding corpse is on the couch."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You did this."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":111,"indent":1,"parameters":[10,4,false]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You already took everything you may have needed."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["But was it worth it?"]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Going through the corpse's pockets, you find an ID card reading \"Master ID\"."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Take it?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":128,"indent":3,"parameters":[4,0,0,1,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You got the \\c[2]Master ID Card\\c[0]."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You've dirtied your hands for nothing."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You're a murderer."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":16,"variableValid":true,"variableValue":2},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The couch has a red stain on it."]},{"code":102,"indent":0,"parameters":[["Look","Take","Check Status","Items","Back"],4,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Look"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["It looks like someone tried to scrub out the stain before giving up."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["They clearly didn't try the asprin or lemon juice method."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Take"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["As impressive as it would be to take the couch, you can't."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Oh wait, did you want to check in the cushions or underneath it?"]},{"code":111,"indent":1,"parameters":[10,4,false]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Unfortunately there's nothing there."]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Well... There's an ID card here."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Take it?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":128,"indent":3,"parameters":[4,0,0,1,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You got the \\c[2]Master ID Card\\c[0]."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["You've still dirtied your hands for nothing."]},{"code":115,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Check Status"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Looking at this couch makes you tremble for some reason."]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Items"]},{"code":104,"indent":1,"parameters":[24,1]},{"code":117,"indent":1,"parameters":[37]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Back"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":11,"y":3},
-null,
-null,
-null,
-{"id":13,"name":"EV013","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":201,"indent":0,"parameters":[0,48,12,6,0,2]},{"code":250,"indent":0,"parameters":[{"name":"Select","volume":100,"pitch":50,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":0,"y":6},
-null,
-null,
-null,
-null
-]
+  "autoplayBgm": true,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "UndergroundMagic", "pan": 0, "pitch": 100, "volume": 85 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "!CageRoom",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 14,
+  "data": [
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2868, 2892, 2892, 2892, 2892,
+    2872, 2864, 2864, 2864, 2864, 2864, 2864, 2868, 2892, 2902, 2850, 2836,
+    2836, 2852, 2904, 2892, 2892, 2892, 2872, 2864, 2892, 2902, 2850, 2836,
+    2817, 2816, 2816, 2818, 2836, 2837, 2849, 2861, 2880, 2864, 2836, 2836,
+    2817, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 2898, 2884, 2865, 2864,
+    2844, 2844, 2844, 2844, 2844, 2844, 2844, 2844, 2828, 2854, 2880, 2864,
+    2864, 2864, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2900, 2848, 2898,
+    2865, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2888,
+    2860, 2880, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2866, 2884, 2865, 2864, 2864, 2864, 2864, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["FocusCamera [1] [1] [1]"]
+            },
+            {
+              "code": 311,
+              "indent": 0,
+              "parameters": [0, 0, 1, 0, 9999, false]
+            },
+            { "code": 111, "indent": 0, "parameters": [1, 16, 0, 0, 0] },
+            {
+              "code": 284,
+              "indent": 1,
+              "parameters": ["!CageRoom", false, false, 0, 0]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [1, 16, 0, 1, 0] },
+            {
+              "code": 284,
+              "indent": 1,
+              "parameters": ["!CageRoomDeadFred", false, false, 0, 0]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [1, 16, 0, 2, 0] },
+            {
+              "code": 284,
+              "indent": 1,
+              "parameters": ["!CageRoomMissingFred", false, false, 0, 0]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 201, "indent": 0, "parameters": [0, 48, 12, 5, 0, 2] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Select", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 5
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 201, "indent": 0, "parameters": [0, 51, 6, 4, 2, 2] },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 1] },
+            { "code": 117, "indent": 0, "parameters": [36] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [6], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 2
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [23, 23, 0] },
+            { "code": 356, "indent": 0, "parameters": ["AUTOSAVE"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 36, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 36, "indent": null }]
+            },
+            { "code": 117, "indent": 0, "parameters": [34] },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 0
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 201, "indent": 0, "parameters": [0, 51, 6, 4, 2, 2] },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 1] },
+            { "code": 117, "indent": 0, "parameters": [36] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [6], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 2
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 201, "indent": 0, "parameters": [0, 51, 6, 4, 2, 2] },
+            { "code": 121, "indent": 0, "parameters": [23, 23, 1] },
+            { "code": 117, "indent": 0, "parameters": [36] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [6], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 2
+    },
+    {
+      "id": 7,
+      "name": "Freddy Fungus",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There's a man sleeping on the couch."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "The man has a light dusting of cheese powder on his fingers and beard."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["His nametag reads \"Freddy Fungus\"."]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "There might be something in his pockets, but you don't want to risk waking him up."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "You are in a strange place. You don't know who to trust."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 4,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["A bleeding corpse is on the couch."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["You did this."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 111, "indent": 1, "parameters": [10, 4, false] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["You already took everything you may have needed."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["But was it worth it?"]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Going through the corpse's pockets, you find an ID card reading \"Master ID\"."
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 128, "indent": 3, "parameters": [4, 0, 0, 1, false] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You've dirtied your hands for nothing."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["You're a murderer."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The couch has a red stain on it."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "It looks like someone tried to scrub out the stain before giving up."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "They clearly didn't try the asprin or lemon juice method."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "As impressive as it would be to take the couch, you can't."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Oh wait, did you want to check in the cushions or underneath it?"
+              ]
+            },
+            { "code": 111, "indent": 1, "parameters": [10, 4, false] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Unfortunately there's nothing there."]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Well... There's an ID card here."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 128, "indent": 3, "parameters": [4, 0, 0, 1, false] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You've still dirtied your hands for nothing."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Looking at this couch makes you tremble for some reason."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 3
+    },
+    {
+      "id": 8,
+      "name": "Freddy Fungus",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There's a man sleeping on the couch."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "The man has a light dusting of cheese powder on his fingers and beard."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["His nametag reads \"Freddy Fungus\"."]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "There might be something in his pockets, but you don't want to risk waking him up."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "You are in a strange place. You don't know who to trust."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 4,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["A bleeding corpse is on the couch."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["You did this."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 111, "indent": 1, "parameters": [10, 4, false] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["You already took everything you may have needed."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["But was it worth it?"]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Going through the corpse's pockets, you find an ID card reading \"Master ID\"."
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 128, "indent": 3, "parameters": [4, 0, 0, 1, false] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You've dirtied your hands for nothing."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["You're a murderer."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The couch has a red stain on it."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "It looks like someone tried to scrub out the stain before giving up."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "They clearly didn't try the asprin or lemon juice method."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "As impressive as it would be to take the couch, you can't."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Oh wait, did you want to check in the cushions or underneath it?"
+              ]
+            },
+            { "code": 111, "indent": 1, "parameters": [10, 4, false] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Unfortunately there's nothing there."]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Well... There's an ID card here."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 128, "indent": 3, "parameters": [4, 0, 0, 1, false] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You've still dirtied your hands for nothing."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Looking at this couch makes you tremble for some reason."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 3
+    },
+    {
+      "id": 9,
+      "name": "Freddy Fungus",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There's a man sleeping on the couch."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "The man has a light dusting of cheese powder on his fingers and beard."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["His nametag reads \"Freddy Fungus\"."]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "There might be something in his pockets, but you don't want to risk waking him up."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "You are in a strange place. You don't know who to trust."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 4,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["A bleeding corpse is on the couch."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["You did this."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 111, "indent": 1, "parameters": [10, 4, false] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["You already took everything you may have needed."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["But was it worth it?"]
+            },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Going through the corpse's pockets, you find an ID card reading \"Master ID\"."
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 128, "indent": 3, "parameters": [4, 0, 0, 1, false] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You've dirtied your hands for nothing."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["You're a murderer."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 16,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The couch has a red stain on it."]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Look", "Take", "Check Status", "Items", "Back"],
+                4,
+                0,
+                1,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "It looks like someone tried to scrub out the stain before giving up."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "They clearly didn't try the asprin or lemon juice method."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "As impressive as it would be to take the couch, you can't."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Oh wait, did you want to check in the cushions or underneath it?"
+              ]
+            },
+            { "code": 111, "indent": 1, "parameters": [10, 4, false] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Unfortunately there's nothing there."]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Well... There's an ID card here."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 128, "indent": 3, "parameters": [4, 0, 0, 1, false] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["You've still dirtied your hands for nothing."]
+            },
+            { "code": 115, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Looking at this couch makes you tremble for some reason."
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 104, "indent": 1, "parameters": [24, 1] },
+            { "code": 117, "indent": 1, "parameters": [37] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 3
+    },
+    null,
+    null,
+    null,
+    {
+      "id": 13,
+      "name": "EV013",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 201, "indent": 0, "parameters": [0, 48, 12, 6, 0, 2] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Select", "volume": 100, "pitch": 50, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 6
+    },
+    null,
+    null,
+    null,
+    null
+  ]
 }

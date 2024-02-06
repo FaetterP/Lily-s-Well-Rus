@@ -1,19 +1,829 @@
 {
-"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"Forest","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":10,"note":"<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":14,
-"data":[2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2868,2892,2892,2892,2892,2892,2892,2892,2864,2864,2864,2864,2864,2868,2902,2850,2836,2836,2836,2836,2836,2836,2892,2892,2892,2892,2892,2902,2850,2817,2816,2816,2816,2816,2816,2816,2836,2836,2836,2836,2836,2836,2817,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2820,2844,2844,2844,2844,2844,2844,2844,2844,2844,2844,2844,2844,2844,2854,2898,2884,2884,2884,2884,2884,2884,2884,2884,2884,2884,2884,2884,2884,2865,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,2864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":223,"indent":0,"parameters":[[0,0,0,0],1,false]},{"code":211,"indent":0,"parameters":[0]},{"code":317,"indent":0,"parameters":[0,1,0,0,1,11]},{"code":316,"indent":0,"parameters":[0,1,0,1,11,false]},{"code":126,"indent":0,"parameters":[16,0,0,1]},{"code":122,"indent":0,"parameters":[10,10,0,0,5]},{"code":122,"indent":0,"parameters":[10,10,1,1,11]},{"code":322,"indent":0,"parameters":[1,"Lily",0,"Actor1",0,""]},{"code":111,"indent":0,"parameters":[1,7,0,3,4]},{"code":122,"indent":1,"parameters":[7,7,0,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,76,0]},{"code":121,"indent":1,"parameters":[83,83,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,75,0]},{"code":121,"indent":1,"parameters":[82,82,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,62,0]},{"code":121,"indent":1,"parameters":[81,81,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,77,0]},{"code":121,"indent":1,"parameters":[84,84,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":356,"indent":0,"parameters":["FocusCamera [1] [1] [1]"]},{"code":111,"indent":0,"parameters":[0,74,0]},{"code":356,"indent":1,"parameters":["AUTOSAVE"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Skip the intro?"]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":201,"indent":2,"parameters":[0,2,7,5,2,2]},{"code":115,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":241,"indent":0,"parameters":[{"name":"IntroCutscene","volume":90,"pitch":100,"pan":0}]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro1",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["It is a cold rainy day in the Tabacchi household."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro2",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You are Lily."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Lily is a young innocent girl, nine years of age."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You live in a modest home with your Papa."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro3",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["On this cold and rainy day, you are knitting on the couch while Papa packs his things."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Tonight he needs to go to work in order to teach a night class."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["As Lily is a good child, Papa trusts you to stay safe while he is gone."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro4",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Before he leaves, Papa makes hot dogs and the boxed mac and cheese."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["He helps you pour the cheese sauce on your hot dog in order to make it taste better."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You enjoy your meal together, ignorant of future events."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Papa puts you to bed with the sounds of rain lulling you to sleep."]},{"code":235,"indent":0,"parameters":[1]},{"code":241,"indent":0,"parameters":[{"name":"IntroCutscene","volume":0,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\|.\\|.\\|."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Voice>\\c[5]...elp. someon... ..lp..."]},{"code":231,"indent":0,"parameters":[1,"LilyEyes3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[10]},{"code":231,"indent":0,"parameters":[2,"LilyEyes2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[10]},{"code":231,"indent":0,"parameters":[3,"LilyEyes1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[10]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":231,"indent":0,"parameters":[1,"LilyEyes1",0,0,0,0,100,100,255,0]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You awaken to the sound of a voice."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Voice>\\c[5].... .e... Lily..."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro6",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The voice seems to come from outside."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You look out your bedside window."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Nobody. There's nobody among the rain and darkness."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Was it a dream? You open your window a crack to listen closer."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Voice>\\c[5]Please... It hurts..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Voice>\\c[5]Help..."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro7",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The well. Someone is in the well."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The rope normally hanging from it has vanished."]},{"code":250,"indent":0,"parameters":[{"name":"Transition","volume":100,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[3,"Transition1",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition2",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition3",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[1,"Intro5",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"Transition4",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":231,"indent":0,"parameters":[3,"Transition5",0,0,0,0,100,100,255,0]},{"code":230,"indent":0,"parameters":[8]},{"code":235,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You are a good girl, so you get out of bed to go help."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Read instructions?"]},{"code":102,"indent":0,"parameters":[["Yes","No"],1,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Yes"]},{"code":117,"indent":1,"parameters":[24]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The instructions can be viewed at any time from the Files tab in the Stuff menu."]},{"code":235,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[74,74,0]},{"code":201,"indent":0,"parameters":[0,2,7,5,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":1,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":63,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":211,"indent":0,"parameters":[0]},{"code":111,"indent":0,"parameters":[0,76,0]},{"code":121,"indent":1,"parameters":[83,83,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,75,0]},{"code":121,"indent":1,"parameters":[82,82,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,62,0]},{"code":121,"indent":1,"parameters":[81,81,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,77,0]},{"code":121,"indent":1,"parameters":[84,84,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[85,85,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Would you like to completely start from scratch or continue from the night where it ended? NOTE: Costumes will carry over."]},{"code":102,"indent":0,"parameters":[["Start From Scratch","Continue","Back"],2,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Start From Scratch"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Okay."]},{"code":121,"indent":1,"parameters":[1,80,1]},{"code":122,"indent":1,"parameters":[1,20,0,0,0]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["..."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Returning to title screen..."]},{"code":354,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Continue"]},{"code":121,"indent":1,"parameters":[63,63,1]},{"code":121,"indent":1,"parameters":[40,40,1]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Back"]},{"code":354,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":0,"y":0},
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null,
-null
-]
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "Forest", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 14,
+  "data": [
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2868, 2892, 2892, 2892,
+    2892, 2892, 2892, 2892, 2864, 2864, 2864, 2864, 2864, 2868, 2902, 2850,
+    2836, 2836, 2836, 2836, 2836, 2836, 2892, 2892, 2892, 2892, 2892, 2902,
+    2850, 2817, 2816, 2816, 2816, 2816, 2816, 2816, 2836, 2836, 2836, 2836,
+    2836, 2836, 2817, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2820, 2844, 2844, 2844,
+    2844, 2844, 2844, 2844, 2844, 2844, 2844, 2844, 2844, 2844, 2854, 2898,
+    2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884,
+    2884, 2865, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[0, 0, 0, 0], 1, false]
+            },
+            { "code": 211, "indent": 0, "parameters": [0] },
+            { "code": 317, "indent": 0, "parameters": [0, 1, 0, 0, 1, 11] },
+            { "code": 316, "indent": 0, "parameters": [0, 1, 0, 1, 11, false] },
+            { "code": 126, "indent": 0, "parameters": [16, 0, 0, 1] },
+            { "code": 122, "indent": 0, "parameters": [10, 10, 0, 0, 5] },
+            { "code": 122, "indent": 0, "parameters": [10, 10, 1, 1, 11] },
+            {
+              "code": 322,
+              "indent": 0,
+              "parameters": [1, "Lily", 0, "Actor1", 0, ""]
+            },
+            { "code": 111, "indent": 0, "parameters": [1, 7, 0, 3, 4] },
+            { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 76, 0] },
+            { "code": 121, "indent": 1, "parameters": [83, 83, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 75, 0] },
+            { "code": 121, "indent": 1, "parameters": [82, 82, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 62, 0] },
+            { "code": 121, "indent": 1, "parameters": [81, 81, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 77, 0] },
+            { "code": 121, "indent": 1, "parameters": [84, 84, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["FocusCamera [1] [1] [1]"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 74, 0] },
+            { "code": 356, "indent": 1, "parameters": ["AUTOSAVE"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Skip the intro?"] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 201, "indent": 2, "parameters": [0, 2, 7, 5, 2, 2] },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "IntroCutscene",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It is a cold rainy day in the Tabacchi household."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["You are Lily."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lily is a young innocent girl, nine years of age."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You live in a modest home with your Papa."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "On this cold and rainy day, you are knitting on the couch while Papa packs his things."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tonight he needs to go to work in order to teach a night class."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "As Lily is a good child, Papa trusts you to stay safe while he is gone."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Before he leaves, Papa makes hot dogs and the boxed mac and cheese."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "He helps you pour the cheese sauce on your hot dog in order to make it taste better."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You enjoy your meal together, ignorant of future events."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Papa puts you to bed with the sounds of rain lulling you to sleep."
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "IntroCutscene", "volume": 0, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\|.\\|.\\|."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Voice>\\c[5]...elp. someon... ..lp..."]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "LilyEyes3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "LilyEyes2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "LilyEyes1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "LilyEyes1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You awaken to the sound of a voice."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Voice>\\c[5].... .e... Lily..."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro6", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The voice seems to come from outside."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You look out your bedside window."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nobody. There's nobody among the rain and darkness."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Was it a dream? You open your window a crack to listen closer."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Voice>\\c[5]Please... It hurts..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Voice>\\c[5]Help..."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro7", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The well. Someone is in the well."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The rope normally hanging from it has vanished."]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Intro5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You are a good girl, so you get out of bed to go help."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Read instructions?"] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 117, "indent": 1, "parameters": [24] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The instructions can be viewed at any time from the Files tab in the Stuff menu."
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 121, "indent": 0, "parameters": [74, 74, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 2, 7, 5, 0, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 1,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 63,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 211, "indent": 0, "parameters": [0] },
+            { "code": 111, "indent": 0, "parameters": [0, 76, 0] },
+            { "code": 121, "indent": 1, "parameters": [83, 83, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 75, 0] },
+            { "code": 121, "indent": 1, "parameters": [82, 82, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 62, 0] },
+            { "code": 121, "indent": 1, "parameters": [81, 81, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 0, "parameters": [0, 77, 0] },
+            { "code": 121, "indent": 1, "parameters": [84, 84, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [85, 85, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Would you like to completely start from scratch or continue from the night where it ended? NOTE: Costumes will carry over."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["Start From Scratch", "Continue", "Back"],
+                2,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [0, "Start From Scratch"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Okay."] },
+            { "code": 121, "indent": 1, "parameters": [1, 80, 1] },
+            { "code": 122, "indent": 1, "parameters": [1, 20, 0, 0, 0] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Returning to title screen..."]
+            },
+            { "code": 354, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Continue"] },
+            { "code": 121, "indent": 1, "parameters": [63, 63, 1] },
+            { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Back"] },
+            { "code": 354, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }
