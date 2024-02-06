@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"This key opens the shed. It's \nnormally kept locked at night.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":24,"name":"Shed Key","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"An ID Card with the name\nAntonio Tabacchi on it.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":29,"name":"ID Card","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"A key with room number 902\nengraved in it.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":25,"name":"Office Key","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"An ID Card that reads\n\"College of Azoth Master ID\".","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":29,"name":"Master ID Card","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
