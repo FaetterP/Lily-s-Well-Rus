@@ -1161,9 +1161,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1174,7 +1174,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 7] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1247,9 +1247,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1260,7 +1260,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 6] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1333,9 +1333,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1346,7 +1346,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 5] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1419,9 +1419,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1432,7 +1432,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 4] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1505,9 +1505,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1518,7 +1518,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 3] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1591,9 +1591,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1604,7 +1604,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 2] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1677,9 +1677,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 225, "indent": 1, "parameters": [9, 2, 300, true] },
             {
               "code": 250,
@@ -1690,7 +1690,7 @@
             },
             { "code": 122, "indent": 1, "parameters": [12, 12, 0, 0, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

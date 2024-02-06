@@ -185,14 +185,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -200,11 +200,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -212,11 +212,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -465,14 +465,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -480,11 +480,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -492,11 +492,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -560,14 +560,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -575,11 +575,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -587,11 +587,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -655,14 +655,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -670,11 +670,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -682,11 +682,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -750,14 +750,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -765,11 +765,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -777,11 +777,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -845,14 +845,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -860,11 +860,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -872,11 +872,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -940,14 +940,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -955,11 +955,11 @@
               "parameters": ["It's the inside of the well."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["No."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -967,11 +967,11 @@
               "parameters": ["Your tears are making your cheeks sting."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1035,14 +1035,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Назад"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1056,11 +1056,11 @@
               "parameters": ["It's the same as in the garden."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Not again."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1068,7 +1068,7 @@
               "parameters": ["Dry heaving is becoming normal for you now."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1132,14 +1132,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Назад"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1153,11 +1153,11 @@
               "parameters": ["It's the same as in the garden."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Not again."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1165,7 +1165,7 @@
               "parameters": ["Dry heaving is becoming normal for you now."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1229,14 +1229,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Назад"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1250,11 +1250,11 @@
               "parameters": ["It's the same as in the garden."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Not again."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1262,7 +1262,7 @@
               "parameters": ["Dry heaving is becoming normal for you now."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1326,14 +1326,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Назад"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1347,11 +1347,11 @@
               "parameters": ["It's the same as in the garden."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Not again."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1359,7 +1359,7 @@
               "parameters": ["Dry heaving is becoming normal for you now."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

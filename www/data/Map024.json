@@ -143,13 +143,13 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             { "code": 201, "indent": 2, "parameters": [0, 2, 7, 5, 2, 2] },
             { "code": 115, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -666,12 +666,12 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 117, "indent": 1, "parameters": [24] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -759,7 +759,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Start From Scratch", "Continue", "Back"],
+                ["Start From Scratch", "Continue", "Назад"],
                 2,
                 0,
                 1,
@@ -789,7 +789,7 @@
             { "code": 121, "indent": 1, "parameters": [63, 63, 1] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Назад"] },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },

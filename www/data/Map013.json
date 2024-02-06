@@ -225,14 +225,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -242,7 +242,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -258,9 +258,9 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             { "code": 127, "indent": 2, "parameters": [6, 0, 0, 1, false] },
             {
               "code": 250,
@@ -278,18 +278,18 @@
             { "code": 121, "indent": 2, "parameters": [6, 6, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have no pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 115, "indent": 2, "parameters": [] },
@@ -301,7 +301,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -311,17 +311,17 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -425,14 +425,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -440,7 +440,7 @@
               "parameters": ["You don't remember seeing Papa use these much."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -456,9 +456,9 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["Да", "Нет"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             {
               "code": 250,
               "indent": 2,
@@ -474,18 +474,18 @@
               "parameters": ["You took the \\c[4]bolt cutters\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have no pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 115, "indent": 2, "parameters": [] },
@@ -497,7 +497,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -507,17 +507,17 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -677,14 +677,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -694,7 +694,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -702,14 +702,14 @@
               "parameters": ["It's really nothing more than dead weight."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have no pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 115, "indent": 2, "parameters": [] },
@@ -721,7 +721,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -731,17 +731,17 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -805,29 +805,29 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Used for gardening."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Too smelly."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have no pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 115, "indent": 2, "parameters": [] },
@@ -839,7 +839,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -849,17 +849,17 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+                "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -942,14 +942,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -963,7 +963,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -973,7 +973,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -989,11 +989,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1105,14 +1105,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1126,7 +1126,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1136,7 +1136,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1152,11 +1152,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1268,14 +1268,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1289,7 +1289,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1299,7 +1299,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1315,11 +1315,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1431,14 +1431,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1452,7 +1452,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1462,7 +1462,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1478,11 +1478,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1594,14 +1594,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1615,7 +1615,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1625,7 +1625,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1641,11 +1641,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1757,14 +1757,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1778,7 +1778,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1788,7 +1788,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1804,11 +1804,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1920,14 +1920,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1941,7 +1941,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1951,7 +1951,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1967,11 +1967,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2083,14 +2083,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2104,7 +2104,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2114,7 +2114,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2130,11 +2130,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2246,14 +2246,14 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Look", "Take", "Check Status", "Items", "Back"],
+                ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
                 4,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2267,7 +2267,7 @@
               "parameters": ["It may be important."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2277,7 +2277,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -2293,11 +2293,11 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
             { "code": 117, "indent": 1, "parameters": [37] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

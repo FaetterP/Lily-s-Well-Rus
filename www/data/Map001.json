@@ -233,7 +233,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Original Lily", "Underground", "Back"],
+                ["Original Lily", "Underground", "Назад"],
                 2,
                 0,
                 2,
@@ -263,7 +263,7 @@
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Back"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Назад"] },
             { "code": 119, "indent": 2, "parameters": ["loop"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },

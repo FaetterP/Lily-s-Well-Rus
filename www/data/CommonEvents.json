@@ -7,7 +7,7 @@
       { "code": 320, "indent": 1, "parameters": [2, ""] },
       { "code": 303, "indent": 1, "parameters": [2, 16] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Look"] },
+      { "code": 401, "indent": 1, "parameters": ["Осмотреть"] },
       { "code": 230, "indent": 1, "parameters": [60] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
@@ -79,11 +79,11 @@
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 1, "parameters": ["Use it to descend?"] },
-      { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 1, "parameters": [0, "Да"] },
       { "code": 119, "indent": 2, "parameters": ["down"] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [1, "No"] },
+      { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -112,8 +112,8 @@
         "indent": 1,
         "parameters": ["Tie them together and begin descent?"]
       },
-      { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 1, "parameters": [0, "Да"] },
       { "code": 121, "indent": 2, "parameters": [44, 44, 0] },
       { "code": 118, "indent": 2, "parameters": ["down"] },
       {
@@ -239,7 +239,7 @@
       { "code": 230, "indent": 2, "parameters": [8] },
       { "code": 235, "indent": 2, "parameters": [1] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [1, "No"] },
+      { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -346,8 +346,8 @@
         "indent": 0,
         "parameters": ["It's a letter addressed to Papa. Read it?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 2, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 2, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       { "code": 401, "indent": 1, "parameters": ["Dear Tony,"] },
       {
@@ -400,7 +400,7 @@
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       { "code": 401, "indent": 1, "parameters": ["-VIC"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -440,8 +440,8 @@
           "Cut and take the \\c[5]tire swing rope \\c[0]for climbing?"
         ]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 127, "indent": 4, "parameters": [1, 0, 0, 1, false] },
       { "code": 122, "indent": 4, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 4, "parameters": [5, 5, 0] },
@@ -459,7 +459,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -498,8 +498,8 @@
           "Cut and take the \\c[5]blue thorned vine \\c[0]for climbing?"
         ]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 127, "indent": 4, "parameters": [3, 0, 0, 1, false] },
       { "code": 122, "indent": 4, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 4, "parameters": [8, 8, 0] },
@@ -519,7 +519,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -558,8 +558,8 @@
           "Cut and take the \\c[5]yellow flowering vine \\c[0]for climbing?"
         ]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 127, "indent": 4, "parameters": [12, 0, 0, 1, false] },
       { "code": 122, "indent": 4, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 4, "parameters": [9, 9, 0] },
@@ -579,7 +579,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -618,8 +618,8 @@
           "Cut and take the \\c[5]red berry vine \\c[0]for climbing?"
         ]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 127, "indent": 4, "parameters": [13, 0, 0, 1, false] },
       { "code": 122, "indent": 4, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 4, "parameters": [10, 10, 0] },
@@ -639,7 +639,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -711,8 +711,8 @@
         "indent": 2,
         "parameters": ["Cut and take the oily hair for \\c[5]rope\\c[0]?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 127, "indent": 3, "parameters": [10, 0, 0, 1, false] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 3, "parameters": [31, 31, 0] },
@@ -732,7 +732,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -764,8 +764,8 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Do it?"] },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       {
         "code": 223,
         "indent": 3,
@@ -796,7 +796,7 @@
       { "code": 223, "indent": 3, "parameters": [[0, 0, 0, 0], 1, false] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -823,8 +823,8 @@
         "indent": 2,
         "parameters": ["Cut it and use it as \\c[5]rope\\c[0]?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 127, "indent": 3, "parameters": [9, 0, 0, 1, false] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 3, "parameters": [36, 36, 0] },
@@ -844,7 +844,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -857,8 +857,8 @@
       { "code": 111, "indent": 2, "parameters": [1, 16, 0, 0, 0] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 3, "parameters": ["..."] },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       {
         "code": 241,
         "indent": 4,
@@ -911,7 +911,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -984,8 +984,8 @@
           "There's a receipt from a place called Sac Supply. Read it?"
         ]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 1, "parameters": ["20 Amer Cr - $XX.XX"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1011,7 +1011,7 @@
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -1181,8 +1181,8 @@
         "indent": 3,
         "parameters": ["Cut and take the \\c[5]chains \\c[0]for climbing?"]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 127, "indent": 4, "parameters": [7, 0, 0, 1, false] },
       { "code": 122, "indent": 4, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 4, "parameters": [12, 12, 0] },
@@ -1202,7 +1202,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -1236,8 +1236,8 @@
         "indent": 2,
         "parameters": ["Cut it and use it as \\c[5]rope\\c[0]?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 127, "indent": 3, "parameters": [9, 0, 0, 1, false] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 1, 0, 1] },
       { "code": 121, "indent": 3, "parameters": [36, 36, 0] },
@@ -1257,7 +1257,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -1277,8 +1277,8 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Cut them?"] },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [37, 37, 0] },
       { "code": 201, "indent": 3, "parameters": [0, 48, 6, 8, 8, 2] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -1291,7 +1291,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -1331,8 +1331,8 @@
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 3, "parameters": ["Break the lock anyway?"] },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       {
         "code": 250,
         "indent": 4,
@@ -1355,7 +1355,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
@@ -1399,8 +1399,8 @@
         "indent": 2,
         "parameters": ["Place the rock in the water?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       {
         "code": 250,
         "indent": 3,
@@ -1430,7 +1430,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -1459,12 +1459,12 @@
           "The rock is very heavy... Would you like to put it back?"
         ]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [30, 30, 0] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -1482,12 +1482,12 @@
           "The rock is very heavy... Would you like to put it back?"
         ]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [30, 30, 0] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -1505,12 +1505,12 @@
           "The rock is very heavy... Would you like to put it back?"
         ]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [30, 30, 0] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -1541,8 +1541,8 @@
         "indent": 0,
         "parameters": ["There's a worn birthday card. Read it?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 2, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 2, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -1588,7 +1588,7 @@
         "parameters": ["\"With Love, Auntie Mifiyu\""]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -1615,8 +1615,8 @@
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 1, "parameters": ["Try to open the safe?"] },
-      { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 1, "parameters": [0, "Да"] },
       { "code": 103, "indent": 2, "parameters": [8, 6] },
       { "code": 111, "indent": 2, "parameters": [1, 8, 0, 72084, 0] },
       { "code": 121, "indent": 3, "parameters": [19, 19, 0] },
@@ -1671,7 +1671,7 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [1, "No"] },
+      { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -1691,9 +1691,9 @@
       {
         "code": 102,
         "indent": 2,
-        "parameters": [["Look", "Take", "Check Status", "Back"], 3, 0, 1, 0]
+        "parameters": [["Осмотреть", "Взять", "Проверить статус", "Назад"], 3, 0, 1, 0]
       },
-      { "code": 402, "indent": 2, "parameters": [0, "Look"] },
+      { "code": 402, "indent": 2, "parameters": [0, "Осмотреть"] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -1707,7 +1707,7 @@
         "parameters": ["It could make for a good rope."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Take"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Взять"] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -1720,8 +1720,8 @@
         "indent": 3,
         "parameters": ["Take the bull whip as \\c[5]rope\\c[0]?"]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       {
         "code": 250,
         "indent": 4,
@@ -1739,18 +1739,18 @@
         "parameters": ["You took the \\c[5]bull whip\\c[0]."]
       },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [2, "Check Status"] },
+      { "code": 402, "indent": 2, "parameters": [2, "Проверить статус"] },
       { "code": 111, "indent": 3, "parameters": [1, 4, 0, 0, 0] },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
         "parameters": [
-          "You currently have no pieces of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
         ]
       },
       { "code": 115, "indent": 4, "parameters": [] },
@@ -1762,7 +1762,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
         ]
       },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -1772,13 +1772,13 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
         ]
       },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 412, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [3, "Back"] },
+      { "code": 402, "indent": 2, "parameters": [3, "Назад"] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -1809,8 +1809,8 @@
         "indent": 1,
         "parameters": ["Knit the ball of yarn into a \\c[5]knitted rope\\c[0]?"]
       },
-      { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 1, "parameters": [0, "Да"] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["..."] },
       { "code": 121, "indent": 2, "parameters": [21, 21, 0] },
@@ -1824,7 +1824,7 @@
       },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [1, "No"] },
+      { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -1868,8 +1868,8 @@
         "indent": 3,
         "parameters": ["Knit the ball of yarn into a \\c[5]knitted rope\\c[0]?"]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 4, "parameters": ["..."] },
       { "code": 121, "indent": 4, "parameters": [21, 21, 0] },
@@ -1888,7 +1888,7 @@
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1915,8 +1915,8 @@
         "indent": 2,
         "parameters": ["Use them to pull in the key?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [38, 38, 0] },
       {
         "code": 250,
@@ -1934,7 +1934,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -1966,8 +1966,8 @@
           "It's a book on the local plant life in your area. Read it?"
         ]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 118, "indent": 1, "parameters": ["loop"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
@@ -2102,8 +2102,8 @@
         "indent": 2,
         "parameters": ["Keep reading this section?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -2162,7 +2162,7 @@
       },
       { "code": 119, "indent": 3, "parameters": ["loop"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 119, "indent": 3, "parameters": ["loop"] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -2218,8 +2218,8 @@
         "indent": 2,
         "parameters": ["Keep reading this section?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -2290,8 +2290,8 @@
         "indent": 3,
         "parameters": ["Keep reading this section?"]
       },
-      { "code": 102, "indent": 3, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 3, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -2332,8 +2332,8 @@
         "indent": 4,
         "parameters": ["Keep reading this section?"]
       },
-      { "code": 102, "indent": 4, "parameters": [["Yes", "No"], 1, 0, 2, 0] },
-      { "code": 402, "indent": 4, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 4, "parameters": [["Да", "Нет"], 1, 0, 2, 0] },
+      { "code": 402, "indent": 4, "parameters": [0, "Да"] },
       { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -2376,17 +2376,17 @@
       },
       { "code": 119, "indent": 5, "parameters": ["loop"] },
       { "code": 0, "indent": 5, "parameters": [] },
-      { "code": 402, "indent": 4, "parameters": [1, "No"] },
+      { "code": 402, "indent": 4, "parameters": [1, "Нет"] },
       { "code": 119, "indent": 5, "parameters": ["loop"] },
       { "code": 0, "indent": 5, "parameters": [] },
       { "code": 404, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
-      { "code": 402, "indent": 3, "parameters": [1, "No"] },
+      { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
       { "code": 119, "indent": 4, "parameters": ["loop"] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 404, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 119, "indent": 3, "parameters": ["loop"] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -2472,7 +2472,7 @@
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -2571,8 +2571,8 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Put it in?"] },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [18, 18, 0] },
       {
         "code": 250,
@@ -2598,7 +2598,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -2800,7 +2800,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Version 1.1.1", "Version 2.0.0", "No"], 2, 0, 1, 0]
+        "parameters": [["Version 1.1.1", "Version 2.0.0", "Нет"], 2, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Version 1.1.1"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -2863,7 +2863,7 @@
       { "code": 401, "indent": 1, "parameters": ["SolidState <line break>"] },
       { "code": 401, "indent": 1, "parameters": ["Purrine <line break>"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "No"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       {
@@ -2887,8 +2887,8 @@
         "indent": 0,
         "parameters": ["It's a letter with a red wax seal. Read it?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
@@ -2940,7 +2940,7 @@
         "parameters": ["-President Wolfgang Eybler"]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -2959,8 +2959,8 @@
         "indent": 0,
         "parameters": ["It's a letter with a coffee mug stain. Read it?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
@@ -3002,7 +3002,7 @@
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 1, "parameters": ["-Mirror Council"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -3021,8 +3021,8 @@
         "indent": 0,
         "parameters": ["It's a letter with terrible handwriting. Read it?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       { "code": 401, "indent": 1, "parameters": ["Hey."] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3084,7 +3084,7 @@
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -3103,8 +3103,8 @@
         "indent": 0,
         "parameters": ["It's a letter with a fancy envelope. Read it?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       { "code": 401, "indent": 1, "parameters": ["Hello Antonio!"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3170,7 +3170,7 @@
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       { "code": 401, "indent": 1, "parameters": ["-Mags"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -3197,8 +3197,8 @@
         "indent": 2,
         "parameters": ["Toss the jerky into the woods?"]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       {
         "code": 250,
         "indent": 3,
@@ -3223,7 +3223,7 @@
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -3499,8 +3499,8 @@
           "There's a folder containing documents on Generation Iteration Development. Read it?"
         ]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -3582,7 +3582,7 @@
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -3911,8 +3911,8 @@
         "indent": 0,
         "parameters": ["Would you like to wear Lily's default outfit?"]
       },
-      { "code": 102, "indent": 0, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
       {
         "code": 250,
@@ -3923,7 +3923,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -3955,9 +3955,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 1] },
       {
         "code": 250,
@@ -3968,7 +3968,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Info"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -4027,9 +4027,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 2] },
       {
         "code": 250,
@@ -4040,7 +4040,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Info"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -4099,9 +4099,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 3] },
       {
         "code": 250,
@@ -4112,7 +4112,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Info"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -4167,9 +4167,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 4] },
       {
         "code": 250,
@@ -4180,7 +4180,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Info"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -4310,9 +4310,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Check Status"], 1, 0, 2, 0]
+        "parameters": [["Да", "Нет", "Проверить статус"], 1, 0, 2, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -4330,10 +4330,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [1, 1, 0, 1, false] },
@@ -4356,10 +4356,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard them?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [2, 1, 0, 1, false] },
@@ -4384,10 +4384,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [3, 1, 0, 1, false] },
@@ -4412,10 +4412,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [12, 1, 0, 1, false] },
@@ -4442,10 +4442,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [13, 1, 0, 1, false] },
@@ -4470,10 +4470,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [15, 1, 0, 1, false] },
@@ -4498,10 +4498,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [8, 1, 0, 1, false] },
@@ -4526,10 +4526,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard them?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [4, 1, 0, 1, false] },
@@ -4554,10 +4554,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [14, 1, 0, 1, false] },
@@ -4582,10 +4582,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [11, 1, 0, 1, false] },
@@ -4610,10 +4610,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [7, 1, 0, 1, false] },
@@ -4638,10 +4638,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [6, 1, 0, 1, false] },
@@ -4666,10 +4666,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [9, 1, 0, 1, false] },
@@ -4694,10 +4694,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [10, 1, 0, 1, false] },
@@ -4722,10 +4722,10 @@
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
-      { "code": 102, "indent": 2, "parameters": [["No", "Yes"], 0, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "No"] },
+      { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "Yes"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Да"] },
       { "code": 122, "indent": 3, "parameters": [4, 4, 2, 0, 1] },
       { "code": 122, "indent": 3, "parameters": [23, 23, 1, 0, 1] },
       { "code": 127, "indent": 3, "parameters": [5, 1, 0, 1, false] },
@@ -4740,16 +4740,16 @@
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
       { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You currently have no pieces of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
         ]
       },
       { "code": 115, "indent": 2, "parameters": [] },
@@ -4761,7 +4761,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -4771,7 +4771,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -4916,14 +4916,14 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["Look", "Take", "Check Status", "Items", "Back"],
+          ["Осмотреть", "Взять", "Проверить статус", "Предметы", "Назад"],
           4,
           0,
           1,
           0
         ]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -4941,8 +4941,8 @@
           "Would you like to ignore the rock path and wade through the water?"
         ]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       {
         "code": 241,
         "indent": 3,
@@ -5028,7 +5028,7 @@
       { "code": 235, "indent": 3, "parameters": [1] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -5042,8 +5042,8 @@
           "Would you like to try and wade through to search anyway?"
         ]
       },
-      { "code": 102, "indent": 2, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-      { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+      { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+      { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       {
         "code": 241,
         "indent": 3,
@@ -5129,14 +5129,14 @@
       { "code": 235, "indent": 3, "parameters": [1] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 402, "indent": 2, "parameters": [1, "No"] },
+      { "code": 402, "indent": 2, "parameters": [1, "Нет"] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
@@ -5144,14 +5144,14 @@
         "parameters": ["There's nothing to take from the water."]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Check Status"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
       { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You currently have no pieces of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
         ]
       },
       { "code": 115, "indent": 2, "parameters": [] },
@@ -5163,7 +5163,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You currently have \\c[5]1\\c[0] piece of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя есть \\c[5]1\\c[0] часть \\c[5]верёвки\\c[0]."
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -5173,17 +5173,17 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You currently have \\c[5]\\v[4]\\c[0] pieces of \\c[5]rope material\\c[0]."
+          "В данный момент у тебя частей \\c[5]верёвки\\c[0] \\c[5]\\v[4]\\c[0]."
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "Items"] },
+      { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
       { "code": 104, "indent": 1, "parameters": [24, 1] },
       { "code": 117, "indent": 1, "parameters": [37] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [4, "Back"] },
+      { "code": 402, "indent": 0, "parameters": [4, "Назад"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -5215,9 +5215,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 5] },
       {
         "code": 250,
@@ -5228,7 +5228,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Info"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5287,9 +5287,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Yes", "No", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 6] },
       {
         "code": 250,
@@ -5300,7 +5300,7 @@
       },
       { "code": 117, "indent": 1, "parameters": [36] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "No"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Info"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
