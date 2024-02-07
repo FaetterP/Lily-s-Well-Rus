@@ -539,7 +539,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Papa's bed."] },
+            { "code": 401, "indent": 0, "parameters": ["Кровать папы."] },
             {
               "code": 102,
               "indent": 0,
@@ -557,7 +557,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This bed has always remained tidy as far as you can remember."
+                "Ты не можешь вспомнить, чтобы эта кровать хоть раз не была заправлена."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -565,7 +565,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You aren't even sure if you've seen Papa sleep in it."
+                "Ты даже не уверена, спит ли папа на ней вообще."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -574,20 +574,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You try to take the sheets off..."]
+              "parameters": ["Ты пытаешься взять простыню..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["But it seems attached to the mattress somehow."]
+              "parameters": ["Но, похоже, она как-то прикреплена к матрасу."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...Maybe there never were actual sheets and the bare mattress just looks like this???"
+                "...А может, простыни здесь никогда и не было, а просто так выглядит голый матрас???"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -703,7 +703,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This bed has always remained tidy as far as you can remember."
+               "Ты не можешь вспомнить, чтобы эта кровать хоть раз не была заправлена."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -711,7 +711,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You aren't even sure if you've seen Papa sleep in it."
+                "Ты даже не уверена, спит ли папа на ней вообще."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -720,20 +720,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You try to take the sheets off..."]
+              "parameters": ["Ты пытаешься взять простыню..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["But it seems attached to the mattress somehow."]
+              "parameters": ["Но, похоже, она как-то прикреплена к матрасу."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...Maybe there never were actual sheets and the bare mattress just looks like this???"
+                "...А может, простыни здесь никогда и не было, а просто так выглядит голый матрас???"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -849,7 +849,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This bed has always remained tidy as far as you can remember."
+               "Ты не можешь вспомнить, чтобы эта кровать хоть раз не была заправлена."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -857,7 +857,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You aren't even sure if you've seen Papa sleep in it."
+                "Ты даже не уверена, спит ли папа на ней вообще."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -866,20 +866,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You try to take the sheets off..."]
+              "parameters": ["Ты пытаешься взять простыню..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["But it seems attached to the mattress somehow."]
+              "parameters": ["Но, похоже, она как-то прикреплена к матрасу."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...Maybe there never were actual sheets and the bare mattress just looks like this???"
+                "...А может, простыни здесь никогда и не было, а просто так выглядит голый матрас???"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -995,7 +995,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This bed has always remained tidy as far as you can remember."
+               "Ты не можешь вспомнить, чтобы эта кровать хоть раз не была заправлена."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1003,7 +1003,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You aren't even sure if you've seen Papa sleep in it."
+                "Ты даже не уверена, спит ли папа на ней вообще."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1012,20 +1012,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You try to take the sheets off..."]
+              "parameters": ["Ты пытаешься взять простыню..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["But it seems attached to the mattress somehow."]
+              "parameters": ["Но, похоже, она как-то прикреплена к матрасу."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...Maybe there never were actual sheets and the bare mattress just looks like this???"
+                "...А может, простыни здесь никогда и не было, а просто так выглядит голый матрас???"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1141,7 +1141,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This bed has always remained tidy as far as you can remember."
+               "Ты не можешь вспомнить, чтобы эта кровать хоть раз не была заправлена."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1149,7 +1149,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You aren't even sure if you've seen Papa sleep in it."
+                "Ты даже не уверена, спит ли папа на ней вообще."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1158,20 +1158,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You try to take the sheets off..."]
+              "parameters": ["Ты пытаешься взять простыню..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["But it seems attached to the mattress somehow."]
+              "parameters": ["Но, похоже, она как-то прикреплена к матрасу."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...Maybe there never were actual sheets and the bare mattress just looks like this???"
+                "...А может, простыни здесь никогда и не было, а просто так выглядит голый матрас???"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1272,7 +1272,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's a big ol' hourglass."]
+              "parameters": ["Это большие старые песочные часы."]
             },
             {
               "code": 102,
@@ -1291,7 +1291,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You've always liked how hourglasses looked, but you can't flip this one by yourself."
+                "Тебе всегда нравилось, как выглядят песочные часы, но ты не можешь перевернуть их сама."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1299,7 +1299,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Sometimes Papa will flip this one for you when you ask, but even he seems to struggle with its weight."
+                "Иногда папа переворачивает их, если ты попросишь, но даже он с трудом справляется с их весом."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1307,7 +1307,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's probably more of a decoration than anything that can be of actual practical use."
+                "Вероятно, это скорее предмет интерьера, чем что-то, что может приносить пользу."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1317,7 +1317,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The scenario of you pulling this off the table only for the hourglass to crush you to death would surely make for an interesting ending."
+                "Сценарий, где ты снимаешь песочные часы со стола только для того, чтобы они раздавили тебя насмерть, несомненно был бы интересным."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1325,7 +1325,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Fortunately (or unfortunately) there is no way for you to make this even budge."
+                "К счастью (или к сожалению), ты даже не можешь сдвинуть их с места."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1426,7 +1426,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's an indent in the wall."]
+              "parameters": ["Углубление в стене."]
             },
             {
               "code": 102,
@@ -1444,16 +1444,16 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There once was a window here."]
+              "parameters": ["Когда-то здесь было окно."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Now there isn't."] },
+            { "code": 401, "indent": 1, "parameters": ["Теперь его нет."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Instead of replacing the wallpaper completely, Papa seemed to just apply more to where the hole was filled in."
+                "Вместо того, чтобы полностью заменить обои, папа просто наклеил их ещё больше на место, где была дыра."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1462,14 +1462,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["As interesting and mysterious as this looks..."]
+              "parameters": ["Как бы интересно и загадочно это ни выглядело..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It really is just a filled in hole leading to a place you can simply get to via the front door."
+                "Это просто заполненная дыра, ведущая в место, куда нельзя попасть через главную дверь."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
