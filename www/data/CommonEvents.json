@@ -7,7 +7,7 @@
       { "code": 320, "indent": 1, "parameters": [2, ""] },
       { "code": 303, "indent": 1, "parameters": [2, 16] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Осмотреть"] },
+      { "code": 401, "indent": 1, "parameters": ["Look"] },
       { "code": 230, "indent": 1, "parameters": [60] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
@@ -36,20 +36,20 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["This is the source of the voice."]
+        "parameters": ["Голос шёл отсюда."]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["All that can be heard now is the echoes of raindrops."]
+        "parameters": ["Сейчас слышно только эхо от капель дождя."]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 0,
         "parameters": [
-          "If you wish to save the person trapped in the well, you will need to construct a rope."
+          "Если ты хочешь спасти человека, оказавшегося в колодце, тебе нужно сделать верёвку."
         ]
       },
       { "code": 121, "indent": 0, "parameters": [2, 2, 0] },
@@ -66,7 +66,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["The well leads into inky darkness."]
+        "parameters": ["На дне колодца кромешная тьма."]
       },
       { "code": 111, "indent": 0, "parameters": [1, 4, 0, 1, 0] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -74,11 +74,11 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "You currently hold \\c[5]\\v[4]\\c[0] piece of possible \\c[5]rope\\c[0]."
+          "В данный момент у тебя \\c[5]\\v[4]\\c[0] предмет, который можно использовать как \\c[5]верёвку\\c[0]."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Use it to descend?"] },
+      { "code": 401, "indent": 1, "parameters": ["Спуститься вниз?"] },
       { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 1, "parameters": [0, "Да"] },
       { "code": 119, "indent": 2, "parameters": ["down"] },
@@ -93,7 +93,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "You currently hold \\c[5]\\v[4]\\c[0] pieces of possible \\c[5]rope\\c[0]."
+          "В данный момент у тебя предметов, которые можно использовать как \\c[5]верёвку\\c[0] \\c[5]\\v[4]\\c[0]."
         ]
       },
       { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
@@ -101,7 +101,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Going in without a \\c[5]rope\\c[0] is unwise."]
+        "parameters": ["Спускаться без \\c[5]верёвки\\c[0] не лучшая идея."]
       },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -110,7 +110,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Tie them together and begin descent?"]
+        "parameters": ["Связать их вместе и спуститься вниз?"]
       },
       { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 1, "parameters": [0, "Да"] },
@@ -344,23 +344,23 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["It's a letter addressed to Papa. Read it?"]
+        "parameters": ["Это письмо адресовано папе. Прочитать его?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 2, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-      { "code": 401, "indent": 1, "parameters": ["Dear Tony,"] },
+      { "code": 401, "indent": 1, "parameters": ["Дорогой Тони,"] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["I hope this letter finds you well."]
+        "parameters": ["Надеюсь, это письмо застанет тебя в добром здравии."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I am writing to you from Mother's home, as she required extra help regarding the pig farm."
+          "Я пишу из дома матери, так как ей требовалась дополнительная помощь с её свинофермой."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -368,7 +368,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She is personally doing well and has asked about you and Lily."
+          "Лично у нее все хорошо, и она спрашивала о тебе и Лили."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -376,7 +376,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Mother is especially curious about your progress on your research project."
+          "Маме особенно интересно узнать о твоих успехах в исследовательском проекте."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -384,7 +384,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "When Mother heard that you were pursuing her specialty, she was delighted to see how you would do. Please write to her and possibly send samples."
+          "Когда она узнала, что ты идёшь по её стопам, с нетерпением ждала твоих дальнейших успехов. Пожалуйста, напиши ей письмо и, если возможно, отправь образцы."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -392,13 +392,17 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I only expect to stay on the farm for the next year or so before returning to Maine. With your permission, I'd like to visit your home on the way."
+          "Я собираюсь остаться на ферме в течении следующего года или около того, прежде чем вернусь в Мэйн. С твоего разрешения, я заеду к вам по пути."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-      { "code": 401, "indent": 1, "parameters": ["Thank you for your time,"] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Спасибо за уделённое время,"]
+      },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-      { "code": 401, "indent": 1, "parameters": ["-VIC"] },
+      { "code": 401, "indent": 1, "parameters": ["-ВИК"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -420,9 +424,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": [
-          "You already cut the rope down. Nothing else to do here."
-        ]
+        "parameters": ["Ты уже срезала верёвку. Больше здесь делать нечего."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 411, "indent": 2, "parameters": [] },
@@ -430,14 +432,14 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["The rope holds strong, but the shears should cut them."]
+        "parameters": ["Верёвка крепкая, но ножницы смогут её разрезать."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Cut and take the \\c[5]tire swing rope \\c[0]for climbing?"
+          "Срезать \\c[5]верёвку с качелей\\c[0] и забрать с собой?"
         ]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
@@ -449,13 +451,13 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["The rope holds thick, but the swing goes down."]
+        "parameters": ["Без верёвки шина упала на землю."]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You took the \\c[5]tire swing rope\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]верёвку с качелей\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -477,7 +479,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -487,16 +489,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "This vine might be able to serve as a possible \\c[5]rope\\c[0]."
+          "Возможно, лозу получится использовать как \\c[5]верёвку\\c[0]."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": [
-          "Cut and take the \\c[5]blue thorned vine \\c[0]for climbing?"
-        ]
+        "parameters": ["Срезать и взять \\c[5]лозу с синими шипами\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -508,14 +508,14 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "You carefully cut down the vine and use the shears to trim down the thorns."
+          "Ты осторожно срезаешь лозу и с помощью ножниц отрезаешь с неё шипы."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You took the \\c[5]blue thorned vine\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]лозу с синими шипами\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -537,7 +537,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -547,16 +547,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "This vine might be able to serve as a possible \\c[5]rope\\c[0]."
+          "Возможно, лозу получится использовать как \\c[5]верёвку\\c[0]."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": [
-          "Cut and take the \\c[5]yellow flowering vine \\c[0]for climbing?"
-        ]
+        "parameters": ["Срезать и взять \\c[5]лозу с жёлтыми цветами\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -568,14 +566,14 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "You carefully cut down the vine, but petals and pollen still get everywhere."
+          "Ты осторожно срезаешь лозу, но лепестки и пыльца всё равно разлетаются повсюду."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You took the \\c[5]yellow flowering vine\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]лозу с жёлтыми цветами\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -597,7 +595,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -607,16 +605,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "This vine might be able to serve as a possible \\c[5]rope\\c[0]."
+          "Возможно, лозу получится использовать как \\c[5]верёвку\\c[0]."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": [
-          "Cut and take the \\c[5]red berry vine \\c[0]for climbing?"
-        ]
+        "parameters": ["Срезать и взять \\c[5]лозу с красными ягодами\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -628,14 +624,14 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "You carefully cut down the vine, squishing many berries in the process."
+          "Ты осторожно срезаешь лозу, раздавливая при этом много ягод."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You took the \\c[5]red berry vine\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]лозу с красными ягодами\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -658,7 +654,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You took all of the chain, creating a new safety hazard."
+          "Ты уже забрала цепь и создала новую угрозу безопасности."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -669,11 +665,11 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "If you tried to use the shears on these, they'd probably break."
+          "Если ты попробуешь использовать ножницы, они, вероятно, сломаются."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 3, "parameters": ["Not worth the risk."] },
+      { "code": 401, "indent": 3, "parameters": ["Лучше не рисковать."] },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
@@ -692,7 +688,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "...You aren't going to put your hands in deeper just for more hair."
+          "...Ты не собираешься совать руки в эту жидкость, просто чтобы найти там больше волос."
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -702,14 +698,14 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You might be able to cut this hair for a \\c[5]rope\\c[0]..."
+          "Ты можешь отрезать волосы, чтобы сделать \\c[5]верёвку\\c[0]..."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Cut and take the oily hair for \\c[5]rope\\c[0]?"]
+        "parameters": ["Срезать маслянистые волосы для \\c[5]верёвки\\c[0]?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -721,14 +717,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "As soon at you cut off some hair, the rest gets quickly sucked into the liquid below."
+          "Как только ты срезала несколько волос, остальные быстро всосались в жидкость внизу."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You took the \\c[5]oily hair\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]маслянистые волосы\\c[0]."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -748,7 +744,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no"
+          "нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет нет"
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -759,11 +755,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "If you jam the shears in here, it will probably stop the fan."
+          "Если ты воткнёшь сюда ножницы, скорее всего, вентилятор остановится."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Do it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Сделать это?"] },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       {
@@ -784,13 +780,13 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You jam the shears into the fan, breaking it."]
+        "parameters": ["Ты втыкаешь ножницы в вентилятор, и он ломается."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Before anything else can happen, you crawl past it."]
+        "parameters": ["Прежде чем случится что-то ещё, ты пролезаешь дальше."]
       },
       { "code": 201, "indent": 3, "parameters": [0, 42, 6, 7, 8, 0] },
       { "code": 223, "indent": 3, "parameters": [[0, 0, 0, 0], 1, false] },
@@ -807,7 +803,11 @@
       { "code": 111, "indent": 0, "parameters": [1, 3, 0, 14, 0] },
       { "code": 111, "indent": 1, "parameters": [0, 36, 0] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Nothing, including net."] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["Ничего нет, в том числе сети."]
+      },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 411, "indent": 1, "parameters": [] },
@@ -815,13 +815,13 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["The net seems to be pretty sturdy."]
+        "parameters": ["Сеть кажется довольно прочной."]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Cut it and use it as \\c[5]rope\\c[0]?"]
+        "parameters": ["Срезать её, чтобы сделать \\c[5]верёвку\\c[0]?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -833,14 +833,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You cut the net, freeing it from the stakes it was attached to."
+          "Ты срезаешь сеть, освобождая её от колышков, которыми она была прибита."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You took the \\c[5]net\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]сеть\\c[0]."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -885,7 +885,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "\\.Y\\.o\\.u \\.p\\.l\\.u\\.n\\.g\\.e\\. t\\.h\\.e\\. s\\.h\\.e\\.a\\.r\\.s \\.i\\.n\\.t\\.o\\. t\\.h\\.e\\. m\\.a\\.n\\.'s\\. n\\.e\\.c\\.k\\..\\."
+          "\\.Т\\.ы\\. \\.в\\.т\\.ы\\.к\\.а\\.е\\.ш\\.ь\\. \\.н\\.о\\.ж\\.н\\.и\\.ц\\.ы\\. \\.м\\.у\\.ж\\.ч\\.и\\.н\\.е\\. \\.в\\. \\.ш\\.е\\.ю\\.."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -893,7 +893,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "\\.H\\.e \\.t\\.r\\.i\\.e\\.s\\. t\\.o\\. s\\.c\\.r\\.e\\.a\\.m, \\.b\\.u\\.t \\.t\\.h\\.e\\. o\\.n\\.l\\.y\\. t\\.h\\.i\\.n\\.g\\. t\\.h\\.a\\.t\\. c\\.o\\.m\\.e\\.s\\. o\\.u\\.t\\. i\\.s\\. b\\.l\\.o\\.o\\.d\\. a\\.n\\.d\\. a\\. h\\.o\\.r\\.r\\.i\\.b\\.l\\.e\\. g\\.u\\.r\\.g\\.l\\.i\\.n\\.g\\. n\\.o\\.i\\.s\\.e\\.."
+          "\\.О\\.н\\. \\.п\\.ы\\.т\\.а\\.е\\.т\\.с\\.я\\. \\.з\\.а\\.к\\.р\\.и\\.ч\\.а\\.т\\.ь\\.,\\. \\.н\\.о\\. \\.е\\.д\\.и\\.н\\.с\\.т\\.в\\.е\\.н\\.н\\.о\\.е\\.,\\. \\.ч\\.т\\.о\\. \\.в\\.ы\\.х\\.о\\.д\\.и\\.т\\. \\.н\\.а\\.р\\.у\\.ж\\.у\\.,\\. \\.э\\.т\\.о\\. \\.к\\.р\\.о\\.в\\.ь\\. \\.и\\. \\.б\\.у\\.л\\.ь\\.к\\.а\\.ю\\.щ\\.и\\.й\\. \\.з\\.в\\.у\\.к\\.."
         ]
       },
       {
@@ -920,7 +920,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Haven't you done enough, you little monster?"]
+        "parameters": ["Ты ещё недостаточно наделала, маленькое чудовище?"]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -930,15 +930,13 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You already killed him. He isn't coming back."]
+        "parameters": ["Ты уже убила его. Он не вернётся."]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": [
-          "Even if it wasn't you who did it, it was still \\c[5]you\\c[0]."
-        ]
+        "parameters": ["Даже если не ты сделала это, это была \\c[5]ты\\c[0].."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -951,7 +949,11 @@
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 111, "indent": 0, "parameters": [1, 3, 0, 18, 0] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["No more hair... no..."] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Больше никаких волос... нет..."]
+      },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
@@ -959,7 +961,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["There isn't anything to snip here."]
+        "parameters": ["Здесь резать нечего."]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -981,33 +983,31 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "There's a receipt from a place called Sac Supply. Read it?"
+          "Чек из какого-то места, которое называется Доставка мешков. Прочитать?"
         ]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["20 Amer Cr - $XX.XX"] },
+      { "code": 401, "indent": 1, "parameters": ["20 Амер Хр - $XX.XX"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["5 Ado Body - $XX.XX"] },
+      { "code": 401, "indent": 1, "parameters": ["5 Адо Тело - $XX.XX"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["1 Merm Cardia - $XX.XX"] },
+      { "code": 401, "indent": 1, "parameters": ["1 Русал Кардиа - $XX.XX"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Total - $XX.XX"] },
+      { "code": 401, "indent": 1, "parameters": ["Итого - $XX.XX"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "There's a small note written at the bottom of the paper."
-        ]
+        "parameters": ["Внизу листа мелким почерком написано сообщение."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It reads: \"No new orders for a bit. Too much local attention. Watch the news.\""
+          "Там сказано: \"Пока ничего не заказывать. Слишком много внимания. Следи за новостями.\""
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -1031,9 +1031,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": [
-          "You already cut the rope down. Nothing else to do here."
-        ]
+        "parameters": ["Ты уже срезала верёвку. Больше здесь делать нечего."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1042,20 +1040,20 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You try using the bolt cutters on the rope."]
+        "parameters": ["Ты пробуешь перерезать верёвку болторезом."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["...but it just results in the rope getting squished."]
+        "parameters": ["...но он только её сминает."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You should probably think about the difference between metal and rope."
+          "Похоже, тебе стоит подумать о разнице между металлом и верёвкой."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1073,7 +1071,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1084,7 +1082,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "While you technically use the bolt cutters on the vine, it just crushes the vine."
+          "Технически, если ты используешь болторез на лозе, он её просто раздавит."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1102,7 +1100,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1113,7 +1111,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "While you technically use the bolt cutters on the vine, it just crushes the vine."
+          "Технически, если ты используешь болторез на лозе, он её просто раздавит."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1131,7 +1129,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1142,7 +1140,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "While you technically use the bolt cutters on the vine, it just crushes the vine."
+          "Технически, если ты используешь болторез на лозе, он её просто раздавит."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1161,7 +1159,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You took all of the chain, creating a new safety hazard."
+          "Ты уже забрала цепь и создала новую угрозу безопасности."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1172,14 +1170,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "The chains lining the bridge could make for a good rope."
+          "Из цепи, идущей вдоль моста, могла бы получиться хорошая веревка."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Cut and take the \\c[5]chains \\c[0]for climbing?"]
+        "parameters": ["СРезать и взять \\c[5]цепь\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -1191,14 +1189,14 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "It takes some extra strength, but you manage to snip the chain."
+          "Приходится приложить много силы, но тебе удаётся срезать цепь."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You took the \\c[5]chain\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]цепь\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -1220,7 +1218,11 @@
       { "code": 111, "indent": 0, "parameters": [1, 3, 0, 14, 0] },
       { "code": 111, "indent": 1, "parameters": [0, 36, 0] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Nothing, including net."] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["Ничего нет, в том числе сети."]
+      },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 411, "indent": 1, "parameters": [] },
@@ -1228,13 +1230,13 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["The net seems to be pretty sturdy."]
+        "parameters": ["Сеть кажется довольно прочной."]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Cut it and use it as \\c[5]rope\\c[0]?"]
+        "parameters": ["Срезать её, чтобы сделать \\c[5]верёвку\\c[0]?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -1246,14 +1248,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You cut the net, freeing it from the stakes it was attached to."
+          "Ты срезаешь сеть, освобождая её от колышков, которыми она была прибита."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You took the \\c[5]net\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]сеть\\c[0]."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1272,11 +1274,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You'd probably be able to get through the door if you cut the bars."
+          "Ты, вероятно, смогла бы пролезть через дверь, если разрезать прутья."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Cut them?"] },
+      { "code": 401, "indent": 2, "parameters": ["Разрезать их?"] },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [37, 37, 0] },
@@ -1286,7 +1288,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You break through the bars and unlock the door from the other side."
+          "Ты пробираешься через прутья и открываешь дверь с другой стороны."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1305,7 +1307,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "These bars are much too thick to use the bolt cutters on."
+          "Эти прутья слишком толстые, чтобы использовать болторез."
         ]
       },
       { "code": 115, "indent": 1, "parameters": [] },
@@ -1318,7 +1320,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["The pantry is already open."]
+        "parameters": ["Кладовка уже открыта."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1327,10 +1329,10 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You REALLY aren't allowed in the pantry."]
+        "parameters": ["Тебе СТРОГО запрещено заходить в кладовку."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 3, "parameters": ["Break the lock anyway?"] },
+      { "code": 401, "indent": 3, "parameters": ["Всё равно сломать замок?"] },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
       {
@@ -1345,13 +1347,13 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["The lock easily snaps off."]
+        "parameters": ["Замок с лёгкостью ломается."]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Papa can probably get a new one."]
+        "parameters": ["Папа всё равно может купить новый."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -1371,7 +1373,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["There isn't anything to snip here."]
+        "parameters": ["Здесь отрезать нечего."]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -1390,14 +1392,14 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "If you put the rock in the water, it might help make a path accross."
+          "Если положить камень в воду, это может помочь перебраться на другую сторону."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Place the rock in the water?"]
+        "parameters": ["Положить камень в воду?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -1426,7 +1428,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You carefully put the rock in the water."]
+        "parameters": ["Ты осторожно положила камень в воду."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1442,7 +1444,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Where the hell did you find this rock? This is something you should probably tell Ice about."
+          "Где, чёрт возьми, ты нашла ещё один камень? Может, стоит рассказать про это разработчику?"
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -1455,9 +1457,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "The rock is very heavy... Would you like to put it back?"
-        ]
+        "parameters": ["Камень очень тяжёлый... Положить его обратно?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -1478,9 +1478,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "The rock is very heavy... Would you like to put it back?"
-        ]
+        "parameters": ["Камень очень тяжёлый... Положить его обратно?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -1501,9 +1499,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "The rock is very heavy... Would you like to put it back?"
-        ]
+        "parameters": ["Камень очень тяжёлый... Положить его обратно?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -1523,7 +1519,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "If you want to put the rock down, you should at least put it in the general area you found it in."
+          "Если хочешь избавиться от камня, тебе, по крайней мере, нужно положить его туда, где ты его взяла."
         ]
       },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -1539,7 +1535,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["There's a worn birthday card. Read it?"]
+        "parameters": ["Потрёпанная открытка на день рождения. Прочитать?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 2, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
@@ -1548,29 +1544,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The front of the card has a picture of a black rabbit holding a flower."
+          "На лицевой стороне открытки изображен черный кролик, держащий цветок."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["It reads: \"Happy ONE year of being here\"."]
+        "parameters": ["Там написано: \"Ты уже целый ГОД здесь\"."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "On the inside is a picture of even more black rabbits holding flowers."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "It reads: \"Happy First Birthday Lily, July 20th, 1985\""
+          "На внутренней стороне изображено еще больше черных кроликов с цветами."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1578,14 +1566,22 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"You've grown so much in just a year! Never forget that you are surrounded by people who love you!\""
+          "Там написано: \"С первым днём рождения Лили, 20 июля 1985\""
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["\"With Love, Auntie Mifiyu\""]
+        "parameters": [
+          "\"Ты так сильно выросла всего за год! Никогда не забывай, что ты окружена людьми, которые тебя любят!\""
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["\"С любовью, тётя Мифую\""]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
@@ -1605,16 +1601,16 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["There's a safe with a keypad on it."]
+        "parameters": ["Сейф с клавиатурой."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["It seems to have space for six numbers."]
+        "parameters": ["Кажется, нужно ввести шесть цифр."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Try to open the safe?"] },
+      { "code": 401, "indent": 1, "parameters": ["Попытаться открыть сейф?"] },
       { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 1, "parameters": [0, "Да"] },
       { "code": 103, "indent": 2, "parameters": [8, 6] },
@@ -1630,7 +1626,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Oh? That seems to be the right password. What a clever child."
+          "О? Похоже, это был правильный пароль. Какой умный ребёнок."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -1648,7 +1644,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "Oh? That seems to be the right password. What a clever child."
+          "О? Похоже, это был правильный пароль. Какой умный ребёнок."
         ]
       },
       { "code": 115, "indent": 4, "parameters": [] },
@@ -1663,7 +1659,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Ah. That seems to be wrong."]
+        "parameters": ["Ах. Видимо, ты ошиблась."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -1679,32 +1675,38 @@
       { "code": 111, "indent": 0, "parameters": [0, 19, 0] },
       { "code": 111, "indent": 1, "parameters": [0, 47, 0] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["The safe is now empty."] },
+      { "code": 401, "indent": 2, "parameters": ["В сейфе пусто."] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 411, "indent": 1, "parameters": [] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["There's a long whip inside the safe."]
+        "parameters": ["В сейфе лежит длинный хлыст."]
       },
       {
         "code": 102,
         "indent": 2,
-        "parameters": [["Осмотреть", "Взять", "Проверить статус", "Назад"], 3, 0, 1, 0]
+        "parameters": [
+          ["Осмотреть", "Взять", "Проверить статус", "Назад"],
+          3,
+          0,
+          1,
+          0
+        ]
       },
       { "code": 402, "indent": 2, "parameters": [0, "Осмотреть"] },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["The whip is long and completely unfrayed."]
+        "parameters": ["Хлыст длинный и совершенно новый."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["It could make for a good rope."]
+        "parameters": ["Из него можно сделать хорошую верёвку."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 402, "indent": 2, "parameters": [1, "Взять"] },
@@ -1712,13 +1714,13 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Papa won't be happy with this."]
+        "parameters": ["Папе это не понравится."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Take the bull whip as \\c[5]rope\\c[0]?"]
+        "parameters": ["Взять бычий хлыст в качестве \\c[5]верёвки\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -1736,7 +1738,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You took the \\c[5]bull whip\\c[0]."]
+        "parameters": ["Ты взяла \\c[5]бычий хлыст\\c[0]."]
       },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 402, "indent": 3, "parameters": [1, "Нет"] },
@@ -1749,9 +1751,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": [
-          "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
-        ]
+        "parameters": ["В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -1800,14 +1800,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "You can probably knit the yarn you have into a stronger rope."
+          "У тебя наверняка получится связать из пряжи более крепкую верёвку."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Knit the ball of yarn into a \\c[5]knitted rope\\c[0]?"]
+        "parameters": ["Сделать из клубка пряжи \\c[5]вязанную верёвку\\c[0]?"]
       },
       { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 1, "parameters": [0, "Да"] },
@@ -1820,7 +1820,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["You now have the \\c[5]knitted rope\\c[0]."]
+        "parameters": ["Теперь у тебя есть \\c[5]вязанная верёвка\\c[0]."]
       },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -1836,9 +1836,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "Despite your knitting experience, there's nothing to knit here."
-        ]
+        "parameters": ["Несмотря на твои навыки вязания, здесь нечего вязать."]
       },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -1849,7 +1847,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["There isn't anything left to knit."]
+        "parameters": ["Здесь не осталось ничего для вязания."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1859,14 +1857,14 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You can probably knit the yarn you have into a stronger rope."
+          "У тебя наверняка получится связать из пряжи более крепкую верёвку."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Knit the ball of yarn into a \\c[5]knitted rope\\c[0]?"]
+        "parameters": ["Сделать из клубка пряжи \\c[5]вязанную верёвку\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -1884,7 +1882,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["You now have the \\c[5]knitted rope\\c[0]."]
+        "parameters": ["Теперь у тебя есть \\c[5]вязанная верёвка\\c[0]."]
       },
       { "code": 115, "indent": 4, "parameters": [] },
       { "code": 0, "indent": 4, "parameters": [] },
@@ -1906,14 +1904,14 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Your knitting needles are thin enough to get past the bars."
+          "Твои спицы для вязания достаточно тонкие, чтобы пройти через прутья."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Use them to pull in the key?"]
+        "parameters": ["Использовать их, чтобы достать ключи?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -1930,7 +1928,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You got the \\c[2]Office Key\\c[0]."]
+        "parameters": ["Ты получила \\c[2]ключ от офиса\\c[0]."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -1945,9 +1943,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": [
-          "Despite your knitting experience, there's nothing to knit here."
-        ]
+        "parameters": ["Несмотря на твои навыки вязания, здесь нечего вязать."]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -1963,7 +1959,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "It's a book on the local plant life in your area. Read it?"
+          "Это книга о растениях, растущих в твоём регионе. Прочитать?"
         ]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
@@ -1973,26 +1969,26 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Which section would you like to read?"]
+        "parameters": ["Какой раздел ты хочешь прочитать?"]
       },
       {
         "code": 102,
         "indent": 1,
         "parameters": [
-          ["Introduction", "Trees", "Vines", "Root Vegetables", "Stop Reading"],
+          ["Введение", "Деревья", "лозы", "Корнеплоды", "Завершить чтение"],
           4,
           0,
           1,
           0
         ]
       },
-      { "code": 402, "indent": 1, "parameters": [0, "Introduction"] },
+      { "code": 402, "indent": 1, "parameters": [0, "Введение"] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Greetings and thank you for picking up my guide for the special flora located in Bethany's Mirror, Vermont."
+          "Приветствую вас и благодарю, что выбрали мой путеводитель по особой флоре, расположенной в Бетаниз Миррор, штат Вермонт."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2000,7 +1996,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "I am Magus Bergamot, a resident of the Bethany's Mirror area since childhood. I have spent my years studying the various unique plants that only grow in this pocket of the world."
+          "Меня зовут Магус Бергамот, и я с детства живу в этом районе. Я потратил годы на изучение различных уникальных растений, которые растут только в этом уголке мира."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2008,7 +2004,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Many of these plants take on unique and unexpected roles in their ecosystems, as well as provide plenty of uses for local foragers."
+          "Многие из этих растений играют уникальную и неожиданную роль в своих экосистемах, а также широко используются местными собирателями."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2016,7 +2012,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Like with any plant or fungal life, it is important to properly identify anything you are foraging. Failure to do so can lead to extreme injury or death."
+          "Как и в случае с любыми растениями или грибами, важно правильно идентифицировать то, что вы собрали. Иначе это может привести к серьезным травмам или смерти."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2024,7 +2020,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "It is additionally important to not violate anyone's personal territory while foraging. An angry resident of Bethany's Mirror is far worse than any moose."
+          "Также во время собирательства не стоит залезать на чужую частную территорию. Разъярённый житель Бетаниз Миррор гораздо хуже лося."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2032,18 +2028,18 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "With all of that out of the way, let's take a look at the most common specimens you will find in this area."
+          "А теперь, давайте взглянем на самые распространённые виды растений, которые можно встретить в этом регионе."
         ]
       },
       { "code": 119, "indent": 2, "parameters": ["loop"] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [1, "Trees"] },
+      { "code": 402, "indent": 1, "parameters": [1, "Деревья"] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
         "parameters": [
-          "The majority of the trees found in Bethany's Mirror are the same as those in the surrounding areas. Plenty of oak, maple, and pine to go around."
+          "Большинство деревьев в Бетаниз Миррор ничем не отличаются от деревьев в окружающей местности. Вокруг растёт много дубов, кленов и сосен."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2051,7 +2047,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "The most common of the area's more unusual trees is the Nymph Mimic."
+          "Наиболее распространённый из необычных видов деревьев - это Нимфа-подражатель."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2059,7 +2055,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "It will appear as a normal birch tree, but with a female humanoid figure jutting out of the trunk."
+          "Дерево выглядит как обычная берёза, но с женской фигурой, вылезающей из ствола.."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2067,7 +2063,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Despite appearances this isn't an actual nymph, but a soulless tree."
+          "Несмотря на внешний вид, это не настоящая нимфа, а лишь бездушное дерево."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2075,7 +2071,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Theses trees seem to form from the souls of women who get lost in the woods or have their corpses dumped in the woods after being killed."
+          "Эти деревья формируются из душ женщин, которые заблудились в лесу, или чьи трупы были выброшены в лес после того, как их убили."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2083,7 +2079,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Their souls leave an imprint of sorts on a tree in Bethany's Mirror, causing it to swell with the body's shape."
+          "Их души оставляют своего рода отпечаток на деревьях в Бетаниз Миррор, из-за чего из ствол принимает форму их тела."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2091,7 +2087,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "The sap from these protrusions can be harvested and made into nymph syrup."
+          "Сок этих растений можно использовать, чтобы сделать из него сироп нимфы."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2100,7 +2096,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Keep reading this section?"]
+        "parameters": ["Продолжить читать этот раздел?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -2109,7 +2105,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Another commonly seen tree that's exclusive to this area is the Tomb Tree."
+          "Ещё одно дерево, которое можно встретить только здесь, это Могильное дерево."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2117,7 +2113,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "While harmless toward humanoids in most cases, this tree can pose a risk to small children and pets."
+          "В большинстве случаев, для людей оно безопасно, но представляет угрозу для маленьких животных и детей."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2125,7 +2121,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "The Tomb Tree appears as a dead and hollow oak tree, usually in the center of a clearing."
+          "Могильное дерево выглядит как мертвый и дуплистый дуб, обычно стоящий в центре поляны."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2133,7 +2129,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "While most small animals that come across it may be interested in making a home out of the tree's many tunnels, this is actually a trap."
+          "Многие мелкие животные, пробегающие мимо, могут захотеть пожить в одном из многочисленных отверстий в дереве, но это ловушка."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2141,7 +2137,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Thanks to the Tomb Tree's lack of leaves, it instead gains nutrients by digesting the animals that get stuck in the tar-like sap it secretes inside its tunnels."
+          "Могильное дерево не имеет листвы, поэтому оно получает питательные вещества переваривая животных, которые застревают в вязком соке, выделяемом внутри отверстий."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2149,7 +2145,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "The death of these animals is slow and full of suffering. Instead of dying of their flesh being digested, they often die of dehydration or starvation first."
+          "Смерть этих животных медленная и полна страданий. Вместо того, чтобы умереть сразу от растворения плоти, они зачастую сначала умирают от жажды и голода."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2157,7 +2153,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "If something or someone you care about gets stuck in this tree's sap, common store-bought dish soap is enough to disconnect skin from the sap."
+          "Если кто-то, кто вам важен, застрянет в соке этого дерева, обычного покупного моющего средства будет достаточно, чтобы отмыть кожу от сока."
         ]
       },
       { "code": 119, "indent": 3, "parameters": ["loop"] },
@@ -2167,7 +2163,7 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [2, "Vines"] },
+      { "code": 402, "indent": 1, "parameters": [2, "Лозы"] },
       { "code": 121, "indent": 2, "parameters": [33, 33, 0] },
       { "code": 121, "indent": 2, "parameters": [34, 34, 0] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2175,7 +2171,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "The vined plants of Bethany's Mirror can be some of the most dangerous and the most useful for foragers."
+          "Лозы, растущие в Бетаниз Миррор, являются очень опасными, но при этом очень полезными для собирателей."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2183,7 +2179,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "When looking for foraged materials, the most dangerous vine to stay away from is the Overcast Vamp-Vine."
+          "Во время собирательства самая опасная лоза, от которой стоит держаться подальше, это Сумеречная лоза-вампир."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2191,7 +2187,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "This vine can be identified by its bright purple suction cup-like leaves that only open rainy or overcast nights."
+          "Эту лозу можно узнать по её ярко-фиолетовым листьям, похожим на присоски, которые раскрываются только дождливыми или пасмурными ночами."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2199,7 +2195,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Touching these leaves will cause the vine to grab its new prey and attach as many suction cups as possible to the victim's skin."
+          "Прикоснувшись к этим листьям, лоза схватит свою добычу и прикрепит как можно больше присосок к коже жертвы."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2207,7 +2203,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "It will then use these suction cups to rip the victim's skin open and suck out all of their blood until they're bone dry."
+          "Затем она использует эти присоски, чтобы вспороть кожу жертвы и высосать всю кровь, пока добыча не высохнет до костей."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2216,7 +2212,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Keep reading this section?"]
+        "parameters": ["Продолжить читать раздел?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -2224,14 +2220,8 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Another vine that can be dangerous is the Womb Ripper."]
-      },
-      { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 3,
         "parameters": [
-          "Despite it's name, it doesn't actually rip out wombs, but its danger still cannot be underestimated."
+          "Еще одна лоза, которая может быть опасна, это Потрошитель чрева."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2239,7 +2229,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "The Womb Ripper is only dangerous for those who eat the bright red berries off of its vines. Touching or squashing the berries appears to be harmless."
+          "Несмотря на свое название, на самом деле она не вырывает внутренности, но её опасность все равно нельзя недооценивать."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2247,7 +2237,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "After being consumed, the berries will latch onto the inner linings of its new host's stomach and intestines."
+          "Потрошитель чрева опасен только для тех, кто съест его ярко-красные ягоды. Если дотронуться до ягод или раздавить их, ничего опасного не произойдёт."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2255,7 +2245,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Like a tapeworm, the seeds inside the berries will steal nutrients from the host before eventually sprouting."
+          "После съедания ягоды закрепятся на внутренних стенках желудка и кишечника своего нового хозяина."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2263,7 +2253,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Sensing the sun outside of the body, the new plants will violently burst out of the host's organs, likely leaving the host to bleed out and the new vines to grow on the nearest tree or other large object."
+          "Подобно ленточному червю, семена внутри ягод забирают питательные вещества у хозяина, прежде чем в конечном итоге прорасти."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2271,7 +2261,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "The body will be used by the Womb Ripper as extra food throughout its life."
+          "Почувствовав солнце снаружи тела, новые растения будут яростно вырываться из органов хозяина, вероятно, оставляя хозяина истекать кровью. А новые лозы прикрепятся к ближайшему дереву или другому крупному объекту."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2279,7 +2269,15 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Luckily, the Womb Ripper vine becomes very brittle shortly after seperating it from its root. This makes it easy to incinerate."
+          "Тело жертвы будет использоваться лозой на протяжении всей её жизни как дополнительный источник питательных веществ."
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "К счастью, эта лоза становится очень сухой, если её оторвать от корня. После этого её легко сжечь."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -2288,7 +2286,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Keep reading this section?"]
+        "parameters": ["Продолжить читать раздел?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
@@ -2297,7 +2295,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "One vine that is both dangerous and useful for foragers is known as Orderly's Punishment."
+          "Есть ещё одна лоза, которая одновременно полезная и опасная. Она известна как Справедливое наказание."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -2305,7 +2303,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "Often found in shady areas along tall trees, Orderly's Punishment can be easily identified by the blue thorns growing along it."
+          "Её часто можно встретить в тенистых местах около высоких деревьев. Справедливое наказание легко опознать по синим шипам."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -2313,7 +2311,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "Take extra care to not get pricked by these thorns, as they will inject an intense hallucinogen that will last around twelve hours on average. They will additionally cause an intense itchy sensation on the victim's inner organs."
+          "Будьте особенно осторожны, чтобы не уколоться этими шипами, так как они вводят сильный галлюциноген, действие которого в среднем длится около двенадцати часов. Кроме того, они вызывают сильный зуд во внутренних органах жертвы."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -2321,7 +2319,7 @@
         "code": 401,
         "indent": 4,
         "parameters": [
-          "By removing these thorns though, this vine can be used as a very helpful building material. It is capable of holding an average of 460 pounds of weight, even after being dried out."
+          "Однако, удалив эти шипы, эту лозу можно использовать как очень полезный строительный материал. Она способна выдерживать в среднем 460 фунтов веса даже после высыхания."
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -2330,7 +2328,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Keep reading this section?"]
+        "parameters": ["Продолжить читать этот раздел?"]
       },
       { "code": 102, "indent": 4, "parameters": [["Да", "Нет"], 1, 0, 2, 0] },
       { "code": 402, "indent": 4, "parameters": [0, "Да"] },
@@ -2339,7 +2337,7 @@
         "code": 401,
         "indent": 5,
         "parameters": [
-          "For those suffering from joint pains, you may want to look for the Flower of Icarus."
+          "Те, кто страдают от болей в суставах могут поискать Цветок Икара."
         ]
       },
       { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -2347,7 +2345,7 @@
         "code": 401,
         "indent": 5,
         "parameters": [
-          "This yellow flowering vine grows swiftly in the rain and thrives in deep wooded areas."
+          "Эта желтая цветущая лоза быстро растет во время дождя в густых лесистых районах."
         ]
       },
       { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -2355,7 +2353,7 @@
         "code": 401,
         "indent": 5,
         "parameters": [
-          "By licking the pollen off the flowers once a day, humanoid joints will begin to repair themselves."
+          "Если раз в день слизывать пыльцу с цветов, суставы в вашем организме начнут восстанавливаться сами по себе.."
         ]
       },
       { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -2363,7 +2361,7 @@
         "code": 401,
         "indent": 5,
         "parameters": [
-          "It is however very important to not take the vine itself or pick the flowers."
+          "Однако очень важно не пересаживать лозу и не срывать с неё цветки."
         ]
       },
       { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -2371,7 +2369,7 @@
         "code": 401,
         "indent": 5,
         "parameters": [
-          "After being removed from where it originally planted its roots, the plant will quickly start growing micro-fractures, causing it to be easily destroyed after little amounts of pressure."
+          "После срезания растения с того места, где оно пустило корни, на нём быстро начнут появляться микротрещины, в результате чего оно станет хрупким и рассыпется даже при небольшом давлении."
         ]
       },
       { "code": 119, "indent": 5, "parameters": ["loop"] },
@@ -2391,13 +2389,13 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [3, "Root Vegetables"] },
+      { "code": 402, "indent": 1, "parameters": [3, "Корнеплоды"] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Going around Bethany's Mirror, there are plenty of root vegetables that can be found only here."
+          "Проходя по окрестностям Бетаниз Миррор можно найти много корнеплодов, которые растут только здесь."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2405,7 +2403,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "This is due to the area's creation and the impact the outside has on it."
+          "Это связано с тем, как этот регион появлялся, и какое влияние оказывала окружающая среда."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2413,7 +2411,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "The Dwarf Mandragora can be found by paved roads near the area's border."
+          "Гномья мандрагора растёт рядом с вымощенными дорогами, неподалёку от границы района."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2421,7 +2419,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Despite its name, it is not in the Mandragora genus, rather the Daucus genus."
+          "Несмотря на свое название, он относится не к роду Мандрагора, а скорее к роду Морковь."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2429,7 +2427,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "They appear as inch-wide clusters of white flowers that grow at the side of the road."
+          "Они выглядят как гроздья белых цветов шириной в дюйм, которые растут на обочинах дорог."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2437,7 +2435,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Picking them will reveal a purple root vegetable in the shape of a human baby. These vegetables range from three to five inches tall."
+          "Если их сорвать, мы увидим фиолетовый корнеплод в форме человеческого младенца. Длина этого овоща варьируется от трех до пяти дюймов."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2445,7 +2443,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "They can cause mild stomach discomfort if eaten raw, but boiling them kills the toxin that causes this."
+          "Они могут вызвать легкий дискомфорт в желудке, если их есть сырыми, но варка убивает токсин, который вызывает это ощущение."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2453,7 +2451,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Dwarf Mandragora is best served with melted cheese and beef."
+          "Гномью мандрагору лучше подавать с расплавленным сыром и говядиной."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2463,12 +2461,12 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "The rest of this section's pages seem to have been cut out with scissors in order to keep the recipes."
+          "Остальные страницы этого раздела вырезаны ножницами. Похоже, там были рецепты блюд."
         ]
       },
       { "code": 119, "indent": 2, "parameters": ["loop"] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [4, "Stop Reading"] },
+      { "code": 402, "indent": 1, "parameters": [4, "Прекратить чтение"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -2567,7 +2565,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["The knife might fit in the memorial's hole..."]
+        "parameters": ["Нож мог бы пролезть в отверстие мемориала..."]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 2, "parameters": ["Put it in?"] },
@@ -2586,14 +2584,14 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You slowly stab the knife into the memorial..."]
+        "parameters": ["Ты медленно вонзаешь нож в мемориал..."]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
         "parameters": [
-          "It's a perfect fit, but you lost the \\c[4]knife\\c[0]."
+          "Всё подошло идеально, но ты осталась без \\c[4]ножа\\c[0]."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -2636,7 +2634,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "There's no more vine here left to cut. Nothing left to do, but let nature heal."
+          "Здесь больше нет лозы, которую можно срезать. Остаётся только дать природе восстановиться."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -2647,7 +2645,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You stab into the vine, but the knife isn't really effective for plant management."
+          "Ты втыкаешь нож в лозу, но он не очень хорошо подходит для ухода за растениями."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -2680,7 +2678,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You took all of the chain, creating a new safety hazard."
+          "Ты уже забрала цепь и создала новую угрозу безопасности."
         ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
@@ -2691,14 +2689,16 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You stab at the chains, but the knife just kind of slips off the metal and gets lodged in one of the chain loops."
+          "Ты ударяешь ножом по цепям, но он только скользит по металлу и застревает в одном из звеньев."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["A strong pull lets you get your (stolen) knife back."]
+        "parameters": [
+          "Сильный рывок позволяет тебе вернуть свой (украденный) нож обратно."
+        ]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -2715,7 +2715,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["A knife won't help you here."]
+        "parameters": ["Здесь тебе нож не поможет."]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -2749,7 +2749,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["List of Version 2.0.1 Patrons:"]
+        "parameters": ["Список патронов для версии 2.0.1:"]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 0, "parameters": ["Nephyriun  <line break>"] },
@@ -2795,7 +2795,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to see previous versions' patrons?"]
+        "parameters": ["Хотите посмотреть патронов предыдущих версий?"]
       },
       {
         "code": 102,
@@ -2869,7 +2869,9 @@
       {
         "code": 108,
         "indent": 0,
-        "parameters": ["Join at patreon.com/pureiceblue to be featured."]
+        "parameters": [
+          "Вступайте в patreon.com/pureiceblue чтобы оказаться здесь."
+        ]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -2885,7 +2887,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["It's a letter with a red wax seal. Read it?"]
+        "parameters": ["Письмо с красной восковой печатью. Прочитать?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
@@ -2893,14 +2895,14 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Dear College of Azoth staff members,"]
+        "parameters": ["Уважаемые сотрудники университета Азота,"]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Many of you are already aware of Project Nymph's progress at this point in time."
+          "Многие из вас уже знают о прогрессе проекта Нимфа на данный момент."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -2908,7 +2910,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "While we all certainly share excitement with the start of the iterative learning process stage, many have additionally noticed the side-effects created by the previous step."
+          "хоть мы и разделяем ваш восторг, вызванный переходом к стадии постепенного обучения, но многие уже успели обратить внимание на некоторые побочные эффекты от предыдущего этапа."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -2916,7 +2918,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Our janitorial staff is working hard to push back the mercurial flooding and the capillum tendrils. "
+          "Наш персонал по уборке упорно трудится, чтобы устранить последствия ртутного наводнения и избавиться от кератиновых усиков. "
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -2924,20 +2926,20 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "In the meantime, it is recommended to use large objects as bridges if you or your students need to cross flooded areas."
+          "Пока что мы рекомендуем использовать крупные объекты в качестве мостов, если вам или вашим ученикам необходимо пересечь затопленные участки."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["We are all very sorry for the trouble."]
+        "parameters": ["Извиняемся за доставленные неудобства."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["-President Wolfgang Eybler"]
+        "parameters": ["-Президент Вольфганг Эйблер"]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
@@ -2957,7 +2959,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["It's a letter with a coffee mug stain. Read it?"]
+        "parameters": ["Письмо с пятном от кружки кофе. Прочитать?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
@@ -2965,14 +2967,14 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Dear Residents of Bethany's Mirror,"]
+        "parameters": ["Дорогие жители Бетаниз Миррор,"]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "There was a recent case of multiple outsider vehicles making onto the roads of our community."
+          "В последнее время на наших дорогах встречалось множество неместных посетителей."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -2980,7 +2982,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Investigations have shown that they were not students of our local college, and instead ordinary Vermont residents."
+          "Мы обнаружили, что они не являются студентами местного университета. Это были обычные жители штата Вермонт."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -2988,7 +2990,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The majority of them have been directed to the outside world without issue, but some have fallen prey to our local wildlife."
+          "Большинству людей удалось вернуть обратно без особых происшествий, но некоторые стали жертвами местной дикой природы."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -2996,11 +2998,11 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "If you see an unknown vehicle without a mirror charm in their rear view window, please redirect them to the main road."
+          "Если вы увидите на дороге незнакомый транспорт без талисмана в виде зеркала на заднем стекле, пожалуйста, направьте их на главную дорогу."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["-Mirror Council"] },
+      { "code": 401, "indent": 1, "parameters": ["-Городской совет"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3019,24 +3021,24 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["It's a letter with terrible handwriting. Read it?"]
+        "parameters": ["Письмо написано ужасным почерком. Прочитать?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-      { "code": 401, "indent": 1, "parameters": ["Hey."] },
+      { "code": 401, "indent": 1, "parameters": ["Эй."] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["I wanted to check in on you."]
+        "parameters": ["Хотела узнать, как у тебя дела."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "You don't pick up when I call you, but I guess it's just safe to assume you're teaching all the time now."
+          "Ты не берёшь трубку, когда я тебе звоню. Стоит предполагать, что ты теперь всё время тратишь на преподавание."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3044,35 +3046,35 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I know it's probably lonely without me there, but I still don't have any plans to come back. I won't go down the same path as you."
+          "Знаю, что без меня наверняка одиноко без меня, но я не планирую возвращаться. Я никогда не пойду по твоим стопам."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["If you care though, I have a boyfriend now."]
+        "parameters": ["Если тебе ещё не всё равно, то у меня появился парень."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "His name's Jeremy. We're both living in an apartment under his mom's house."
+          "Его зовут Джереми. Мы оба живем в квартире под домом его мамы."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["I told him all about you and.. well..."]
+        "parameters": ["Я рассказала ему про тебя и.. ну..."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "He says that he'd rip you limb from limb if he ever met you."
+          "Он говорит, что разорвал бы тебя на части, если бы когда-нибудь встретил."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3080,7 +3082,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "So... Yeah. It'd be cool if you called me on my new cellphone number, but you'd definitely die if you tried to find me."
+          "Так что... Да. Было бы здорово, если бы ты позвонил мне на мой новый номер, но тебя определённо убьют, если ты попытаешься найти меня."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3101,24 +3103,24 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["It's a letter with a fancy envelope. Read it?"]
+        "parameters": ["Письмо в красивом конверте. Прочитать?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-      { "code": 401, "indent": 1, "parameters": ["Hello Antonio!"] },
+      { "code": 401, "indent": 1, "parameters": ["Привет, Антонио!"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["How is everything with your little Lily?"]
+        "parameters": ["Как дела у малышки Лили?"]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It feels like it's been so long since she was first born."
+          "Кажется, прошла уже вечность с тех пор, как она впервые родилась."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3126,7 +3128,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I will never forget how nervous you were during the labor to the point you cried! I'd never seen you cry before then!"
+          "Никогда не забуду, как сильно ты тогда нервничал во время родов, что даже заплакал! Я никогда раньше не видела, как ты плачешь!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3134,7 +3136,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "You held her and called it the most important day of your life. I nearly cried myself!"
+          "Ты обнимал её и говорил, что это самый важный день в твоей жизни. Я сама чуть не расплакалась!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3142,7 +3144,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I know it's been a while, so I've been curious how she's doing in that cabin of yours."
+          "Я знаю, прошло много времени, поэтому мне интересно, как она поживает в твоем домике."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -3150,25 +3152,23 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "With you working yourself half to death, it should be fine for me to watch her for a night or two, right?"
+          "Ты всё время работаешь до изнеможения, поэтому я могу присмотреть за ней ночь или две, как думаешь?"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "I'm sure you could use the pressure off your shoulders haha!"
-        ]
+        "parameters": ["Уверена, тебе не помешает немного расслабиться, хаха!"]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["I'll come as soon as you call, alright?"]
+        "parameters": ["Я приеду, как только позвонишь, хорошо?"]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-      { "code": 401, "indent": 1, "parameters": ["-Mags"] },
+      { "code": 401, "indent": 1, "parameters": ["-Мэгс"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3189,13 +3189,13 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["...Maybe the thing watching you is hungry."]
+        "parameters": ["...Может, существо, наблюдающее за тобой, хочет есть."]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Toss the jerky into the woods?"]
+        "parameters": ["Бросить вяленое мясо в лес?"]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
@@ -3211,7 +3211,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw the jerky as far as you can."]
+        "parameters": ["Ты бросила вяленое мясо так далеко, как только смогла."]
       },
       { "code": 121, "indent": 3, "parameters": [43, 43, 0] },
       { "code": 122, "indent": 3, "parameters": [19, 19, 1, 0, 1] },
@@ -3219,7 +3219,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["The watching eyes disappear..."]
+        "parameters": ["Наблюдающие за тобой глаза исчезли..."]
       },
       { "code": 115, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -3235,7 +3235,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["You aren't hungry right now."]
+        "parameters": ["Ты сейчас не хочешь есть."]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -3257,32 +3257,32 @@
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["Controls", "Using Items", "Item Types", "The Well", "Exit"],
+          [
+            "Управление",
+            "Использование предметов",
+            "Типы предметов",
+            "О колодце",
+            "Выход"
+          ],
           4,
           0,
           1,
           0
         ]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Controls"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Управление"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Use the arrow keys to move Lily around."]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["Lily can also move by clicking on a desired location."]
+        "parameters": ["Используйте стрелки для перемещения Лили."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Objects can be interacted with by pressing the [Z] or [Space] key in front of it."
+          "Лили также может перемещаться, если нажать на нужное место."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3290,7 +3290,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "This can also be done by clicking or tapping on the object."
+          "С объектами можно взаимодействовать, нажав [Z] или [Пробел] стоя рядом с ними."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Это также можно сделать нажав по объекту мышкой."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Эта игра автоматически сохраняется. В большинстве случаев из нее можно спокойно выйти."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3298,85 +3312,22 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "This game auto-saves to keep track of progress. It can be safely exited at most times."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "To speed up text and go through it automatically, hold the [W] key."
-        ]
-      },
-      { "code": 119, "indent": 1, "parameters": ["start"] },
-      { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Using Items"] },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "Certain objects and structures require the usage of other items in order to progress."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "To use an item, open up the Menu Screen with the [Esc] or [X] key."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "You can also access acquired items directly from the examine menu."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "On the Menu Screen, select the [Stuff] option to access collected items."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "By selecting an item and using it on Lily, she will use it."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "Lily must be right in front of the item's target in order to use it."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "Some items have multiple places they can be used, so don't be afraid to get creative."
+          "Чтобы ускорить текст и автоматически пропускать его, удерживайте клавишу [W] нажатой."
         ]
       },
       { "code": 119, "indent": 1, "parameters": ["start"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Item Types"] },
+      {
+        "code": 402,
+        "indent": 0,
+        "parameters": [1, "Использование предметов"]
+      },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "There are four different types of items: Stuff, Ropes, Keys, and Files."
+          "На некоторые объекты или структуры можно применять другие предметы."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3384,7 +3335,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Stuff makes up normal items that can be used to interact with objects outside of the menu."
+          "Чтобы использовать предмет, открой меню нажав на [Esc] или [X]."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3392,21 +3343,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "These often have more than one use, so its recommended to play around with them if stuck."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["Ropes are the main goal to work toward."]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "These items are what Lily needs to climb down the well. The more obtained, the further down she can get."
+          "Вы можете использовать предметы непосредственно из меню."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3414,7 +3351,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It is important to note that not all ropes are good materials."
+          "В меню выбери пункт [Вещи], чтобы посмотреть, что у тебя есть."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3422,7 +3359,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Once a rope is collected, it cannot be put back until Lily climbs down the well."
+          "Выбрав предмет и применив его к Лили, она использует его."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3430,7 +3367,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Keys are... keys. They open up certain doors and can be used infinitely in any playthrough."
+          "Лили должна находиться прямо перед объектом, чтобы использовать предмет."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3438,26 +3375,18 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Finally, files are notes, letters, books... They're really anything that can be read. Just like these instructions."
-        ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "Even if not directly taken, any file read during a playthrough can be reread from the file section for ease of access."
+          "Некоторые предметы можно использовать в нескольких местах, так что не бойтесь включать воображение."
         ]
       },
       { "code": 119, "indent": 1, "parameters": ["start"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "The Well"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Типы предметов"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "After collecting at least one piece of rope material, Lily can climb down into the well."
+          "Существует четыре типа предметов: Вещи, Веревки, Ключи и Файлы."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3465,7 +3394,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The material quality and length affect the overall result of the descent. Bad materials will cause the rope to break."
+          "Вещи - это обычные предметы, которые можно использовать на объектах в окружающем мире."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3473,12 +3402,93 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "NOTE: Once Lily goes down the well, there is no going back."
+          "Часто они могут использовать более одного раза, поэтому, если застряли, поиграйтесь с ними."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Верёвки - ваша главная цель."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Именно они нужны Лили, чтобы спуститься в колодец. Чем больше их будет собрано, тем глубже она сможет спуститься."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Важно отметить, что не из всего можно сделать прочную верёвку."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Как только веревка собрана, ей нельзя будет положить обратно, пока Лили не спустится в колодец."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Ключи - это... ключи. Они открывают двери и могут быть использованы неограниченное количество раз в любом прохождении."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Наконец, файлы - это заметки, письма, книги... То есть всё, что можно прочитать. Прямо как это руководство."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Даже если вы не брали файл с собой, вы в любой момент можете его прочитать ещё раз прямо из раздела с файлами."
         ]
       },
       { "code": 119, "indent": 1, "parameters": ["start"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [4, "Exit"] },
+      { "code": 402, "indent": 0, "parameters": [3, "О колодце"] },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Собрав хотя бы одну верёвку, Лили сможет спуститься в колодец."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Качество материала и длина влияют на результат спуска. Из-за неправильных материалов веревка может порваться."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "ПРИМЕЧАНИЕ: Как только Лили спустится в колодец, пути назад не будет."
+        ]
+      },
+      { "code": 119, "indent": 1, "parameters": ["start"] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 402, "indent": 0, "parameters": [4, "Выход"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, false] },
@@ -3496,7 +3506,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "There's a folder containing documents on Generation Iteration Development. Read it?"
+          "В папке находятся документы о проекте Постепенная Разработка Поколения. Прочитать?"
         ]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
@@ -3506,7 +3516,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "There's a lot of words you don't understand, so you lightly skim the folder."
+          "Там много слов, которых ты не знаешь, поэтому ты бегло пролистываешь папку."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3514,7 +3524,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"Our many attempts at the Nymph Project GID have yielding a nearly exact physical replica of the original donor.\"\\^"
+          "\"Наши многочисленные попытки в рамках проекта ПРП Нимфа привели к созданию почти точной физической копии первоначального экземпляра.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3522,7 +3532,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"This has been done through the use of raw azoth extracted from lich sample S, the donor's DNA, and sacrificial supply specialty orders.\"\\^"
+          "\"Мы смогли достичь этого с помощью чистого азота, извлечённого из подопытных, ДНК изначального экземпляра и плоти подопытных, пришедших в негодность.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3530,7 +3540,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"The failed bodies for the Nymph Project have been recycled for their meat or put under observation for alchemic students and professors.\"\\^"
+          "\"Неудачные результаты проекта Нимфа были переработаны на мясо или переданы под наблюдение студентам-химикам и профессорам.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3538,7 +3548,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"As for the Nymph Project's soul, it was created from ███████, █████, ███████, and the residual soul fragments left behind in the donor's longtime place of residence.\"\\^"
+          "\"Что касается души проекта Нимфа, то она была создана из ███████, █████, ███████, и остаточных фрагментов души, оставшихся в месте постоянного проживания донора.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3546,7 +3556,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"The homunculus is currently at the normal intelligence for a nine-year-old child.\"\\^"
+          "\"В настоящее время гомункул обладает нормальным интеллектом для девятилетнего ребенка.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3554,7 +3564,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"Whenever the homunculus's actions result in the death of its body, project members return to the experiment site and return variables to how they were previously.\"\\^"
+          "\"Каждый раз, когда действия гомункула приводят к смерти его тела, участники проекта возвращаются на место эксперимента и возвращают переменные к изначальному состоянию.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3562,7 +3572,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"Each time the homunculus is terminated, it seems to partially learn from its mistakes, despite the brain not actually holding memory of its previous actions.\"\\^"
+          "\"Каждый раз, когда гомункул умирает, он, кажется, частично учится на своих ошибках, несмотря на то, что мозг не хранит память о предыдущих действиях.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3570,7 +3580,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\"There is no current estimation for when the homunculus will be too frightened to even go near the entrance to the disposal pit.\"\\^"
+          "\"Сейчас трудно сказать, когда гомункул будет настолько напуган, что не станет даже подходить к выгребной яме.\"\\^"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3578,7 +3588,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "...You skim it so fast that you don't actually read anything in the folder."
+          "...Ты пролистала так быстро, что ничего не успела прочитать."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3601,7 +3611,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Certain large objects result in different results when interacting with them from different angles."
+          "Совет: Некоторые крупные предметы можно осмотреть с нескольких сторон и получить разный результат."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3612,7 +3622,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: There are fifteen total rope materials that can be found, but not all of them should be collected and used."
+          "Совет: Всего существует пятнадцать материалов, которые можно использовать для верёвки, но не все стоит использовать."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3623,7 +3633,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Whenever Lily dies, there is a chance for a new letter to appear in the mailbox in further playthroughs."
+          "Совет: Когда Лили умирает, есть шанс, что в почтовом ящике появится новое письмо."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3634,7 +3644,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Rocks can be placed back in the same area where they're found if their speed penalty is too much."
+          "Совет: Если камни замедляют вас слишком сильно, их можно положить туда, откуда вы их взяли."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3645,7 +3655,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: The item menu can still be used when looking at areas close up."
+          "Совет: Когда вы осматриваете что-то вблизи, инвентарь по-прежнему можно открыть."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3656,7 +3666,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: If a bad rope material is picked up, it will automatically be used when descending the well."
+          "Совет: Если вы подобрали плохой материал верёвки, он будет применён автоматически при спуск в колодец."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3667,7 +3677,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Bad rope materials can be thrown out in the trash can by the road, but there is one Lily can find that can be converted into a good material with a special item."
+          "Совет: Плохие материалы для верёвки можно выбросить в мусорку рядом с дорогой. Но кое-какой материал можно будет сделать прочным с помощью специального предмета."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3678,7 +3688,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Many items can serve more than one purpose. If stuck, use whatever you have at your disposal."
+          "Совет: Многие предметы могут использоваться в разных местах. Если вы застряли, используйте все, что у вас есть с собой."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3689,7 +3699,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: In the year 2005, 4,881 pedestrians were killed by traffic crashes in the United States."
+          "Совет: В 2005 году в США, в результате дорожно-транспортных происшествий погиб 4,881 человек."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3700,7 +3710,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Some puzzles have more than one solution to them. This can sometimes lead to different paths."
+          "Совет: Некоторые головоломки имеют более одного решения. Иногда это может привести к разным результатам."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3711,7 +3721,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Important information found in files can be reviewed any time in the Stuff menu."
+          "Совет: важную информацию, найденную в файлах, всегда можно перечитать найдя её в меню Вещи."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3722,7 +3732,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: When determining between good and bad rope, it is possible to keep testing singular parts and seeing how they affect Lily in the well."
+          "Совет: Когда вы пытаетесь определить, насколько какая-то конкретная верёвка крепкая, можно попытаться спуститься в колодец только на ней."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3733,7 +3743,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Starting a New Game won't cause progress that affects multiple playthroughs to be erased."
+          "Совет: Запуск новой игры не приведет к стиранию глобального прогресса, влияющего на все прохождения."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3744,7 +3754,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: An autosave is created whenever the map changes. If a bad decision is made, it can be erased by exiting the game before going to another map screen."
+          "Совет: Игра сохраняется автоматически во время перехода между локациями. Если вы сделали что-то не так, то можете выйти из игры, не переходя на другую локацию."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3755,7 +3765,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: Some DEAD ENDs have different conclusions depending on Lily's actions despite the ending remaining the same."
+          "Совет: Некоторые плохие концовки немного меняются от разных действий Лили, но суть всё равно останется той же."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3766,7 +3776,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: The average water temperature of Lake Champlain in spring is 39.2°F. (4°C for those in other countries.)"
+          "Совет: Средняя температура воды в озере Шамплейн весной составляет 39.2°F. (что равно 4°C)"
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3777,7 +3787,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: If you're having a really hard time with a puzzle and are ready to pull your hair out... \\!Check to see if anyone made a walkthrough online lol."
+          "Совет: Если вы так сильно застряли на головоломке, что хочется рвать на себе волосы... \\!Посмотрите прохождение в интернете лол."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3788,7 +3798,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: All normal items in the stuff menu need to be found in order to get to the bottom of the well, except for one."
+          "Совет: Все обычные предметы (не являющиеся файлами, верёвками или ключами), кроме одного, нужны, чтобы добраться до дна колодца."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3799,7 +3809,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: You will know if you've gotten the true ending when the credits start to roll."
+          "Совет: Вы поймёте, что получили истинную концовку, когда увидите титры."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3810,7 +3820,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tip: There's a small detail hidden outside that helps show which main endings have been found."
+          "Совет: Где-то снаружи есть небольшая штучка, которая показывает, какие концовки уже были получены."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3900,7 +3910,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3909,7 +3919,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to wear Lily's default outfit?"]
+        "parameters": ["Надеть стандартный наряд Лили?"]
       },
       { "code": 102, "indent": 0, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
@@ -3940,7 +3950,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3950,12 +3960,12 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to wear the Frog Raincoat?"]
+        "parameters": ["Надеть дождевик-лягушку?"]
       },
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Описание"], 1, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 1] },
@@ -3970,19 +3980,13 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Info"] },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["The best thing to wear on a rainy night is a raincoat!"]
-      },
+      { "code": 402, "indent": 0, "parameters": [2, "Описание"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "And what's better than a normal raincoat? A frog raincoat!"
+          "Лучшее, что можно надеть в дождливую ночь, это дождевик!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3990,7 +3994,15 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\c[6]Unlocked by getting Alt Ending - Vehicular Manslaughter"
+          "А что может быть лучше обычного дождевика? Дождевик-лягушка!"
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\c[6]Открывается после альтернативной концовки - ДТП со смертельным исходом"
         ]
       },
       { "code": 119, "indent": 1, "parameters": ["loop"] },
@@ -4010,7 +4022,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4020,14 +4032,12 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": [
-          "Would you like to wear the Little Red Riding Hood costume?"
-        ]
+        "parameters": ["Надеть наряд Красной шапочки?"]
       },
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Описание"], 1, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 2] },
@@ -4042,29 +4052,27 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Info"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Описание"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Little Red Riding Hood was told to stay on the path, but she instead strayed."
+          "Красной Шапочке было велено идти на тропинке, но она этого не сделала."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "While she got eaten by the wolf, the wolf also died because of her actions."
-        ]
+        "parameters": ["Её съел волк, но сам в итоге погиб от её рук."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\c[6]Unlocked by getting Alt Ending - Don't Feed the Wildlife"
+          "\\c[6]Открывается после альтернативной концовки - Не кормите диких животных"
         ]
       },
       { "code": 119, "indent": 1, "parameters": ["loop"] },
@@ -4084,7 +4092,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4094,12 +4102,12 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to wear the Kyu-Ah Lily costume?"]
+        "parameters": ["Надеть костюм девочки-волшебницы?"]
       },
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Описание"], 1, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 3] },
@@ -4114,26 +4122,26 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Info"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Описание"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "By becoming a magical girl, even ordinary humans can fight evil and save the day!"
+          "Даже обычная девочка, став волшебницей, может сражаться со злом и спасать мир!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["\"Growing with new life! Kyu-Ah Lily!\""]
+        "parameters": ["\"Полна новой жизни! Лили - девочка-волшебница!\""]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["\\c[6]Unlocked by finding the painting."]
+        "parameters": ["\\c[6]Открывается после нахождения картины."]
       },
       { "code": 119, "indent": 1, "parameters": ["loop"] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4152,7 +4160,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4162,12 +4170,12 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to wear the Rose costume?"]
+        "parameters": ["Надеть костюм Розы?"]
       },
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Описание"], 1, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 4] },
@@ -4182,26 +4190,26 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Info"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Описание"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Fitting with their beauty, roses can be difficult to grow."
+          "Несмотря на свою красоту, розы выращивать очень сложно."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Just like how difficult it is to get Lily to grow."]
+        "parameters": ["Лили тоже непросто заставить расти."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["\\c[6]Unlocked by talking to Papa at the bottom twice."]
+        "parameters": ["\\c[6]Открывается после второго разговора с папой."]
       },
       { "code": 119, "indent": 1, "parameters": ["loop"] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4284,20 +4292,20 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["This trash can is ready for pickup."]
+        "parameters": ["Мусор скоро будут увозить."]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["You can put any unwanted rope parts in here."]
+        "parameters": ["Ты можешь выбросить ненужные части верёвки."]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 0,
         "parameters": [
-          "Note: Discarded rope materials cannot be taken out of the trash."
+          "Предупреждение: выброшенные верёвки уже будет нельзя достать из мусорки."
         ]
       },
       { "code": 118, "indent": 0, "parameters": ["loop"] },
@@ -4305,7 +4313,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Sort through ropes and choose what to discard?"]
+        "parameters": ["Просмотреть верёвки и выбрать, от чего избавиться?"]
       },
       {
         "code": 102,
@@ -4317,7 +4325,9 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You look through your rope materials..."]
+        "parameters": [
+          "Ты проверяешь, какие материалы для верёвки у тебя ест..."
+        ]
       },
       { "code": 111, "indent": 1, "parameters": [9, 1, false] },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -4325,11 +4335,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Tire Swing Rope\\c[0] you took from your swing outside."
+          "У тебя есть \\c[5]Верёвка с качелей\\c[0], которые висели во дворе."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4341,7 +4351,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Tire Swing Rope\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]верёвку с качелей\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4352,10 +4362,10 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["You have your bed's \\c[5]Sheets\\c[0]."]
+        "parameters": ["У тебя есть твоя \\c[5]простыня\\c[0]."]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard them?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4367,7 +4377,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away your \\c[5]Sheets\\c[0]..."]
+        "parameters": ["Ты выбросила свою \\c[5]простыню\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4379,11 +4389,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Blue Thorned Vine\\c[0] that you cut off a tree."
+          "У тебя есть \\c[5]лоза с синими шипами\\c[0], которую ты срезала с дерева."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4395,7 +4405,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Blue Thorned Vine\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]лозу с синими шипами\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4407,11 +4417,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Yellow Flowering Vine\\c[0] that you cut off a tree."
+          "У тебя есть \\c[5]лоза с жёлтыми цветками\\c[0], которую ты срезала с дерева."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4423,9 +4433,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": [
-          "You throw away the \\c[5]Yellow Flowering Vine\\c[0]..."
-        ]
+        "parameters": ["Ты выбросила \\c[5]лозу с жёлтыми цветками\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4437,11 +4445,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Red Berry Vine\\c[0] that you cut off a tree."
+          "У тебя есть \\c[5]лоза с красными ягодами\\c[0], которую ты срезала с дерева."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4453,7 +4461,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Red Berry Vine\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]лозу с красными ягодами\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4465,11 +4473,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Ball of Yarn\\c[0] that you took from your room."
+          "У тебя есть \\c[5]клубок пряжи\\c[0], который ты взяла в своей комнате."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить его?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4481,7 +4489,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Ball of Yarn\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]клубок пряжи\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4493,11 +4501,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Knitted Rope\\c[0] that you carefully made yourself."
+          "У тебя есть \\c[5]связанная верёвка\\c[0], которую ты аккуратно сделала сама."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4509,7 +4517,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Knitted Rope\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]связанную верёвку\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4521,11 +4529,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have \\c[5]Papa's Belts\\c[0] that you pilfered from his drawers."
+          "У тебя есть \\c[5]папины ремни\\c[0], которые ты взяла в его шкафчике."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard them?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить их?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4537,7 +4545,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away \\c[5]Papa's Belts\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]папины ремни\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4549,11 +4557,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Stray Charger\\c[0] that you pulled out from under the couch."
+          "У тебя есть\\c[5]старая зарядка\\c[0], которую ты достала из-под дивана."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4565,7 +4573,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Stray Charger\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]старую зарядку\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4577,11 +4585,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Toilet Paper\\c[0] that you \"borrowed\" from the bathroom."
+          "У тебя есть \\c[5]туалетная бумага\\c[0], которую ты \"позаимствовала\" из ванной."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросила её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4593,7 +4601,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Toilet Paper\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]туалетную бумагу\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4605,11 +4613,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Chain\\c[0] that previously served as a hand rail for the bridge."
+          "У тебя есть \\c[5]цепи\\c[0], которые раньше были перилами для моста."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить их?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4621,7 +4629,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Chain\\c[0]..."]
+        "parameters": ["Выбросить \\c[5]цепи\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4633,11 +4641,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Extension Cord\\c[0] found in the garden shed."
+          "У тебя есть \\c[5]удлинитель\\c[0], который ты нашла в сарае."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить его?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4649,7 +4657,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Extension Cord\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]удлинитель\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4661,11 +4669,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Net\\c[0] that you took from the river cave."
+          "У тебя есть \\c[5]сеть\\c[0], которую ты взяла на реке возле пещеры."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить её?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4677,7 +4685,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Net\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]сеть\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4689,11 +4697,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Oily Hair\\c[0] you found growing inside the garden memorial."
+          "У тебя есть \\c[5]маслянистые волосы\\c[0], которые ты нашла на мемориале в саду."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить их?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4705,7 +4713,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Oily Hair\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]маслянистые волосы\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4717,11 +4725,11 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "You have the \\c[5]Bull Whip\\c[0] you found inside Papa's safe."
+          "У тебя есть \\c[5]бычий хлыст\\c[0], который ты нашла в папином сейфе."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Discard it?"] },
+      { "code": 401, "indent": 2, "parameters": ["Выбросить его?"] },
       { "code": 102, "indent": 2, "parameters": [["Нет", "Да"], 0, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Нет"] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -4733,7 +4741,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["You throw away the \\c[5]Bull Whip\\c[0]..."]
+        "parameters": ["Ты выбросила \\c[5]Бычий хлыст\\c[0]..."]
       },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 404, "indent": 2, "parameters": [] },
@@ -4748,9 +4756,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
-        ]
+        "parameters": ["В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."]
       },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -4910,7 +4916,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["The stream flows quickly from the rain."]
+        "parameters": ["Река быстро течет из-за дождя."]
       },
       {
         "code": 102,
@@ -4929,7 +4935,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "While the water only goes up to your knees, it could easily drag you under."
+          "Вода тебе только по колени, но она запросто сможет затащить тебя на дно."
         ]
       },
       { "code": 111, "indent": 1, "parameters": [1, 7, 0, 3, 1] },
@@ -4938,7 +4944,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Would you like to ignore the rock path and wade through the water?"
+          "Ты хочешь не обращать внимания на каменную тропинку и идти через воду?"
         ]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
@@ -4966,7 +4972,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Soon after your feet enter the water, the stream's flow knocks you off balance."
+          "Как только ты ступила в воду, поток сбивает тебя из равновесия."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -4974,7 +4980,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You land on your side, but the sheer strength of the water prevents you from getting up."
+          "Ты упала на бок, но из-за сильной воды ты не можешь встать."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -4982,7 +4988,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "As you keep struggling to stand up, you are carried further and further away from your home."
+          "Пока ты продолжаешь изо всех сил пытаться встать, тебя уносит всё дальше и дальше от дома."
         ]
       },
       {
@@ -5039,7 +5045,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Would you like to try and wade through to search anyway?"
+          "Ты хочешь попытаться перейти реку, чтобы найти что-нибудь?"
         ]
       },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
@@ -5067,7 +5073,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Soon after your feet enter the water, the stream's flow knocks you off balance."
+          "Как только ты ступила в воду, поток сбивает тебя из равновесия."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -5075,7 +5081,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "You land on your side, but the sheer strength of the water prevents you from getting up."
+          "Ты упала на бок, но из-за сильной воды ты не можешь встать."
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -5083,7 +5089,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "As you keep struggling to stand up, you are carried further and further away from your home."
+          "Пока ты продолжаешь изо всех сил пытаться встать, тебя уносит всё дальше и дальше от дома."
         ]
       },
       {
@@ -5141,7 +5147,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["There's nothing to take from the water."]
+        "parameters": ["В воде брать нечего."]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -5150,9 +5156,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."
-        ]
+        "parameters": ["В данный момент у тебя нет частей \\c[5]верёвки\\c[0]."]
       },
       { "code": 115, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -5200,7 +5204,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -5210,12 +5214,12 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to wear the Sailor costume?"]
+        "parameters": ["Надеть матроску?"]
       },
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Описание"], 1, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 5] },
@@ -5230,13 +5234,13 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Info"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Описание"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It's pretty strange how a military uniform could become a childrens' fashion hit in the 1800s."
+          "Довольно странно, как военная форма могла стать хитом моды в 1800-х."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5244,7 +5248,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A shame you don't have an oversized lollipop to complete the look."
+          "Жаль, что у тебя нет большого леденца на палочке, чтобы дополнить образ."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5252,7 +5256,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\c[6]Unlocked by getting Alt Ending - Post-Modern Ophelia."
+          "\\c[6]Открывается после альтернативной концовки - Постмодернистская Офелия."
         ]
       },
       { "code": 119, "indent": 1, "parameters": ["loop"] },
@@ -5272,7 +5276,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["You are already wearing this costume."]
+        "parameters": ["Ты уже надела этот наряд."]
       },
       { "code": 115, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -5282,12 +5286,12 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Would you like to wear the Pajamas?"]
+        "parameters": ["Надеть пижаму?"]
       },
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Да", "Нет", "Info"], 1, 0, 1, 0]
+        "parameters": [["Да", "Нет", "Описание"], 1, 0, 1, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Да"] },
       { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 6] },
@@ -5302,15 +5306,19 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Info"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Описание"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["I see \"you\" came back."] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Я смотрю, \"ты\" вернулась."]
+      },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Now don't worry. This doesn't mean that you're suddenly robbing Lily of her happy ending."
+          "Теперь не волнуйся. Это не значит, что вы внезапно лишаете Лили ее счастливой концовки."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5318,7 +5326,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "That is still how the story ends. Your involvement does not change that."
+          "История всё ещё заканчивается именно так. Ваше вмешательство ничего не меняет."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5326,7 +5334,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "...Right. You selected this option for information on Lily's pajamas."
+          "...Да. Вы выбрали этот пункт меню, чтобы посмотреть информацию о пижаме Лили."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5334,7 +5342,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Some of you might think that this costume could let Lily just go back to bed."
+          "Некоторые из вас могут подумать, что эта одежда позволила бы Лили просто вернуться в постель."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5342,7 +5350,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It won't. It is purely cosmetic.\\! Like the rest of the costumes."
+          "Этого не произойдет. Это чисто косметический эффект.\\! Как и остальные костюмы."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5350,22 +5358,22 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I can tell you that the possibility of Lily just ignoring a cry for help just doesn't exist."
+          "Я могу сказать вам, что возможности того, что Лили просто проигнорирует крик о помощи, просто не существует."
         ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Некоторые люди потеряли свою доброту, но она никогда."]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Some people have that kindness taken from them, but both of them will hold onto it forever."
+          "\\c[6]Открывается только после получения Истиной концовки."
         ]
-      },
-      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["\\c[6]Unlocked by getting the True Ending."]
       },
       { "code": 119, "indent": 1, "parameters": ["loop"] },
       { "code": 0, "indent": 1, "parameters": [] },
