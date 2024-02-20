@@ -139,7 +139,11 @@
             { "code": 111, "indent": 0, "parameters": [0, 74, 0] },
             { "code": 356, "indent": 1, "parameters": ["AUTOSAVE"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Skip the intro?"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Пропустить вступление?"]
+            },
             {
               "code": 102,
               "indent": 1,
@@ -214,7 +218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It is a cold rainy day in the Tabacchi household."
+                "За окном дома семьи Табаччи холодный и дождливый день."
               ]
             },
             {
@@ -261,20 +265,20 @@
             { "code": 230, "indent": 0, "parameters": [8] },
             { "code": 235, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You are Lily."] },
+            { "code": 401, "indent": 0, "parameters": ["Тебя зовут Лили."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lily is a young innocent girl, nine years of age."
+                "Лили — очаровательная маленькая девочка девяти лет."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You live in a modest home with your Papa."]
+              "parameters": ["Ты живешь в скромном доме со своим папой."]
             },
             {
               "code": 250,
@@ -324,7 +328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "On this cold and rainy day, you are knitting on the couch while Papa packs his things."
+                "В этот холодный и дождливый день ты вяжешь на диване, пока папа собирает свои вещи."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -332,7 +336,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tonight he needs to go to work in order to teach a night class."
+                "Сегодня вечером ему нужно идти на работу, чтобы провести вечерний урок."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -340,7 +344,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As Lily is a good child, Papa trusts you to stay safe while he is gone."
+                "Лили — хорошая девочка, поэтому папа не боится оставлять её одну дома в своё отсутствие."
               ]
             },
             {
@@ -391,7 +395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Before he leaves, Papa makes hot dogs and the boxed mac and cheese."
+                "Прежде чем уйти, папа готовит хот-доги и макароны с сыром."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -399,7 +403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He helps you pour the cheese sauce on your hot dog in order to make it taste better."
+                "Он помогает тебе полить хот-дог сырным соусом, чтобы сделать его вкуснее."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -407,7 +411,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You enjoy your meal together, ignorant of future events."
+                "Вы вместе наслаждаетесь ужином, не подозревая о событиях, что произойдут совсем скоро."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -415,7 +419,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Papa puts you to bed with the sounds of rain lulling you to sleep."
+                "Папа укладывает тебя спать под убаюкивающие тебя звуки дождя."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -432,7 +436,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Voice>\\c[5]...elp. someon... ..lp..."]
+              "parameters": ["\\n<Голос>\\c[5]...гите. кто-ни... ..те..."]
             },
             {
               "code": 231,
@@ -464,13 +468,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You awaken to the sound of a voice."]
+              "parameters": ["Тебя разбудил чей-то голос."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Voice>\\c[5].... .e... Lily..."]
+              "parameters": ["\\n<Голос>\\c[5].... .е... Лили..."]
             },
             {
               "code": 250,
@@ -519,41 +523,39 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The voice seems to come from outside."]
+              "parameters": ["Похоже, звук исходит снаружи."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You look out your bedside window."]
+              "parameters": ["Ты выглядываешь из окна рядом с кроватью."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Никого. Среди дождя и тьмы никого нет."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nobody. There's nobody among the rain and darkness."
+                "Это был сон? Ты приоткрываешь окно и слушаешь внимательнее."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Was it a dream? You open your window a crack to listen closer."
-              ]
+              "parameters": ["\\n<Голос>\\c[5]Пожалуйста... Мне больно..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Voice>\\c[5]Please... It hurts..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Voice>\\c[5]Help..."]
+              "parameters": ["\\n<Голос>\\c[5]Помогите..."]
             },
             {
               "code": 250,
@@ -602,13 +604,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The well. Someone is in the well."]
+              "parameters": ["Колодец. Кто-то упал в колодец."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope normally hanging from it has vanished."]
+              "parameters": ["Верёвка, обычно привязанная к нему, исчезла."]
             },
             {
               "code": 250,
@@ -658,11 +660,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You are a good girl, so you get out of bed to go help."
+                "Ты хорошая девочка, поэтому решаешь встать с постели и идти помогать."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Read instructions?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Прочитать руководство?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -679,7 +685,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The instructions can be viewed at any time from the Files tab in the Stuff menu."
+                "Руководство всегда можно прочитать на вкладке Файлы в меню Вещи."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -752,14 +758,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Would you like to completely start from scratch or continue from the night where it ended? NOTE: Costumes will carry over."
+                "Хотели бы вы начать все с нуля или продолжить с того вечера, на котором все закончилось? ПРИМЕЧАНИЕ: Костюмы будут сохранены."
               ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Start From Scratch", "Continue", "Назад"],
+                ["Начать сначала", "Продолжить", "Назад"],
                 2,
                 0,
                 1,
@@ -769,10 +775,10 @@
             {
               "code": 402,
               "indent": 0,
-              "parameters": [0, "Start From Scratch"]
+              "parameters": [0, "Начать сначала"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Okay."] },
+            { "code": 401, "indent": 1, "parameters": ["Хорошо."] },
             { "code": 121, "indent": 1, "parameters": [1, 80, 1] },
             { "code": 122, "indent": 1, "parameters": [1, 20, 0, 0, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -781,11 +787,11 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Returning to title screen..."]
+              "parameters": ["Возвращаемся на начальный экран..."]
             },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Continue"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Продолжить"] },
             { "code": 121, "indent": 1, "parameters": [63, 63, 1] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
