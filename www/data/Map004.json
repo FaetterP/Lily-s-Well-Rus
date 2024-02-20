@@ -739,7 +739,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Climb onto the stool?"]
+              "parameters": ["Забраться на табурет?"]
             },
             {
               "code": 102,
@@ -879,9 +879,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "This is the key board. It's where Papa hangs the keys."
-              ]
+              "parameters": ["Это ключница. Сюда папа вешает ключи."]
             },
             {
               "code": 102,
@@ -899,15 +897,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "Next to the board is a note from one of Papa's friends."
-              ]
+              "parameters": ["Рядом лежит записка от одного из папиных друзей."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You can't really read it from down here."]
+              "parameters": ["Отсюда не видно, что там написано."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -917,7 +913,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're too short to reach."]
+              "parameters": ["Ты слишком низкая и не дотягиваешься."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1017,9 +1013,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "This is the key board. It's where Papa hangs the keys."
-              ]
+              "parameters": ["Это ключница. Сюда папа вешает ключи."]
             },
             {
               "code": 102,
@@ -1037,15 +1031,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "Next to the board is a note from one of Papa's friends."
-              ]
+              "parameters": ["Рядом лежит записка от одного из папиных друзей."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You can't really read it from down here."]
+              "parameters": ["Отсюда не видно, что там написано."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1055,7 +1047,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're too short to reach."]
+              "parameters": ["Ты слишком низкая и не дотягиваешься."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1152,7 +1144,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The kitchen sink."] },
+            { "code": 401, "indent": 0, "parameters": ["Кухонная раковина."] },
             {
               "code": 102,
               "indent": 0,
@@ -1169,7 +1161,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Uncheesed macaroni noodles are in the drain."]
+              "parameters": ["Макароны без сыра застряли в сливе."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1178,7 +1170,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...These kind of scenarios recommend taking everything BUT the kitchen sink for a reason."
+                "...В подобных ситуациях рекомендуется брать с собой что угодно, но НЕ кухонную раковину. И на это есть причины."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1279,7 +1271,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's the stove. It also has an oven."]
+              "parameters": ["Плита. Здесь ещё есть духовка."]
             },
             {
               "code": 102,
@@ -1298,7 +1290,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Papa always told you to never use the stove by yourself."
+                "Папа всегда говорил тебе никогда не пользоваться плитой в одиночку."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1306,7 +1298,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "He also made you watch a VHS tape about how fires start and how they can destroy entire homes."
+                "Он также заставил тебя посмотреть видеокассету о том, как начинаются пожары, и как они могут уничтожать целые дома."
               ]
             },
             { "code": 111, "indent": 1, "parameters": [1, 11, 0, 1, 1] },
@@ -1315,14 +1307,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You also remember one part that Papa skipped over when the puppets were singing about a number to call."
+                "Он промотал ту часть, где марионетки на экране пели о том, по какому номеру нужно звонить в случае пожара."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Papa said that number is dangerous."]
+              "parameters": ["Папа говорит, что этот номер опасный."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1333,7 +1325,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You try to pull at the stove with all your strength, but it seems that a nine-year-old child cannot lift a gas stove that was manufactured in 1975."
+                "Ты пытаешься сдвинуть плиту изо всех сил, но не похоже на то, чтобы девятилетний ребёнок смог поднять плиту, выпущенную в 1975 году."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1434,7 +1426,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The fridge towers above you."]
+              "parameters": ["Холодильник возвышается над тобой."]
             },
             {
               "code": 102,
@@ -1452,21 +1444,21 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your drawings cover the fridge."]
+              "parameters": ["Холодильник покрыт твоими рисунками."]
             },
             { "code": 111, "indent": 1, "parameters": [0, 73, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["...It's weird, actually."]
+              "parameters": ["...Вообще, это странно."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You're sure that you drew these, but you can't actually remember actually making them."
+                "Ты уверена, что эти рисунки твои, но ты не можешь вспомнить, чтобы действительно рисовала их."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1477,13 +1469,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There isn't much in the fridge."]
+              "parameters": ["В холодильнике почти ничего нет."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The grocery delivery hasn't come yet this week."]
+              "parameters": ["На этой неделе продукты ещё не привозили."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1583,7 +1575,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These are the doors to the pantry."]
+              "parameters": ["Эти двери ведут в кладовую."]
             },
             {
               "code": 102,
@@ -1601,13 +1593,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A padlock keeps the door shut."]
+              "parameters": ["Дверь закрыта на навесной замок."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is a place only Papa is allowed to go in."]
+              "parameters": ["Это место, куда может заходить только папа."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1615,9 +1607,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You can't get the padlock off the door with your bare hands."
-              ]
+              "parameters": ["Ты не можешь снять замок голыми руками."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -2097,7 +2087,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These are the doors to the pantry."]
+              "parameters": ["Эти двери ведут в кладовую."]
             },
             {
               "code": 102,
@@ -2115,13 +2105,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A padlock keeps the door shut."]
+              "parameters": ["Дверь закрыта на навесной замок."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is a place only Papa is allowed to go in."]
+              "parameters": ["Это место, куда может заходить только папа."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2129,9 +2119,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You can't get the padlock off the door with your bare hands."
-              ]
+              "parameters": ["Ты не можешь снять замок голыми руками."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -2523,7 +2511,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These are the doors to the pantry."]
+              "parameters": ["Эти двери ведут в кладовую."]
             },
             {
               "code": 102,
@@ -2541,13 +2529,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A padlock keeps the door shut."]
+              "parameters": ["Дверь закрыта на навесной замок."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is a place only Papa is allowed to go in."]
+              "parameters": ["Это место, куда может заходить только папа."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2555,9 +2543,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You can't get the padlock off the door with your bare hands."
-              ]
+              "parameters": ["Ты не можешь снять замок голыми руками."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
