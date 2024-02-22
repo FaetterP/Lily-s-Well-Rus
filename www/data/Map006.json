@@ -169,7 +169,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Your tire swing hangs empty and alone."]
+              "parameters": ["Пустые и одинокие качели свисают с дерева."]
             },
             {
               "code": 102,
@@ -188,7 +188,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There's a small puddle inside the swing from the rain."
+                "Внутри шины образовалась небольшая лужица из-за дождя."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -196,7 +196,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You remember that mosquitoes can lay their eggs in stagnant water, so you don't want to touch it."
+                "Ты не хочешь к ней прикасаться, потому что помнишь, что комары откладывают яйца в застоявшейся воде.."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -206,14 +206,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As useful as an actual rope would be, it's tied tightly with a bowline knot."
+                "Какой бы полезной ни была настоящая веревка, она туго завязана бантом."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your small hands have no hope of untying it."]
+              "parameters": ["Твоими маленькими ручками её не отвяжешь."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -304,7 +304,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The tire sits on the ground, no longer a swing."]
+              "parameters": ["Шина лежит на земле, это больше не качели."]
             },
             {
               "code": 102,
@@ -323,7 +323,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You hope that Papa will retie the swing when he comes back."
+                "Ты надеешься, что папа снова привяжет качели, когда вернется."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -331,7 +331,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Papa never taught you bowline knots, just various bend knots."
+                "Он не учил тебя завязывать такие крепкие узлы, только обычные."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -341,7 +341,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The tire is so large that you wouldn't be able to wrap your arms around it."
+                "Шина такая большая, что ты даже не можешь обхватить её руками."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -349,7 +349,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's just here as a reminder that you ruined something Papa made for you."
+                "Теперь это просто напоминание о том, что ты сломала то, что папа смастерил для тебя."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1388,7 +1388,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Something smells bad..."]
+              "parameters": ["Что-то пахнет очень плохо..."]
             },
             {
               "code": 205,
@@ -1428,7 +1428,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily Version \\v[10]>\\c[5]What are you pouring?"
+                "\\n<Лили версии \\v[10]>\\c[5]Что вы выливаете?"
               ]
             },
             {
@@ -1454,7 +1454,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]Hey, I thought I told you to wait in the van."
+                "\\n<Настоящая Лили>\\c[5]Эй, я ведь сказала сидеть тебе в машине."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1462,61 +1462,61 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily Version \\v[10]>\\c[5]It smells like the stove."
+                "\\n<Лили версии \\v[10]>\\c[5]Пахнет как наша плита."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Original Lily>\\c[5]..."]
+              "parameters": ["\\n<Настоящая Лили>\\c[5]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]Look... You're not going to like seeing this. Go back to the van."
+                "\\n<Настоящая Лили>\\c[5]Слушай... Ты не захочешь на это смотреть. Возвращайся в машину."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]..."]
+              "parameters": ["\\n<Лили версии \\v[10]>\\c[5]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily Version \\v[10]>\\c[5]Is this Papa's punishment?"
+                "\\n<Лили версии \\v[10]>\\c[5]Это папино наказание?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Original Lily>\\c[5]..."]
+              "parameters": ["\\n<Настоящая Лили>\\c[5]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]Can I help?"]
+              "parameters": ["\\n<Лили версии \\v[10]>\\c[5]Я могу помочь?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Original Lily>\\c[5]..."]
+              "parameters": ["\\n<Настоящая Лили>\\c[5]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]Sure kiddo. You deserve it as much as me."
+                "\\n<Настоящая Лили>\\c[5]Конечно, подруга. Мы обе это заслужили."
               ]
             },
             {
@@ -1572,7 +1572,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You pour the kerosene all over the base of the house."
+                "Вы заливаете керосином весь фундамент дома."
               ]
             },
             {
@@ -1623,11 +1623,11 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Both of you drench the garden, giving its residents one last drink."
+                "Затем вы поливаете им растения в саду. Это последний полив, который они получат."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Finally..."] },
+            { "code": 401, "indent": 0, "parameters": ["И наконец..."] },
             {
               "code": 250,
               "indent": 0,
@@ -1675,7 +1675,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You send some down for Papa to deal with."]
+              "parameters": ["Остатки вы выливаете вниз папе."]
             },
             {
               "code": 250,
@@ -1721,21 +1721,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]Once we throw the lighter, there's no going back."
+                "\\n<Настоящая Лили>\\c[5]Как только мы бросим зажигалку, пути назад не будет."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]No going back..."]
+              "parameters": ["\\n<Лили версии \\v[10]>\\c[5]Не будет..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]I soaked the azoth hair in the garden with the tanks from the shed."
+                "\\n<Настоящая Лили>\\c[5]Волосы в саду я тоже пропитала в баках из сарая."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1743,26 +1743,26 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]If the alchemists still have it growing around the campus, it should light it up like a fireball."
+                "\\n<Настоящая Лили>\\c[5]Если алхимики всё ещё выращивают их внутри здания, там всё загорится, как спичка."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]..."]
+              "parameters": ["\\n<Лили версии \\v[10]>\\c[5]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]Bye Papa."]
+              "parameters": ["\\n<Лили версии \\v[10]>\\c[5]Пока, папа."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Original Lily>\\c[5]...Rest in piss, Papa."]
+              "parameters": ["\\n<Настоящая Лили>\\c[5]...Земля тебе бетоном, папа."]
             },
             { "code": 230, "indent": 0, "parameters": [300] },
             { "code": 121, "indent": 0, "parameters": [48, 48, 0] },
@@ -1771,27 +1771,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Despite the rain, the house bursts into violent flames."
+                "Несмотря на дождь, пламя охватывает весь дом."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...There is no more house to wake up in."]
+              "parameters": ["...Больше ты не проснёшься в своей постели."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The heat is intense even from a distance."]
+              "parameters": ["Ты чувствуешь жар от огня, даже с большого расстояния."]
             },
             { "code": 121, "indent": 0, "parameters": [48, 48, 1] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 235, "indent": 0, "parameters": [2] },
             { "code": 235, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["And yet..."] },
+            { "code": 401, "indent": 0, "parameters": ["И всё же..."] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 235, "indent": 0, "parameters": [2] },
             { "code": 235, "indent": 0, "parameters": [3] },
@@ -1843,14 +1843,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily Version \\v[10]>\\c[5]*sniff*"]
+              "parameters": ["\\n<Лили версии \\v[10]>\\c[5]*шмыг*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]It's okay to still love him."
+                "\\n<Настоящая Лили>\\c[5]Это нормально, если ты всё ещё любишь его."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1858,7 +1858,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily Version \\v[10]>\\c[5]I... I still don't know why he hurt me..."
+                "\\n<Лили версии \\v[10]>\\c[5]Я... Я не понимаю, почему он делал мне больно..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1866,7 +1866,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily Version \\v[10]>\\c[5]No matter what... He said I was a bad girl..."
+                "\\n<Лили версии \\v[10]>\\c[5]Каждый раз... Он говорил, что я была плохой девочкой..."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [49, 49, 1] },
@@ -1924,20 +1924,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["She pulls you in close."]
+              "parameters": ["Девушка прижимает тебя к себе."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Original Lily>\\c[5]Adults don't hurt kids."]
+              "parameters": ["\\n<Настоящая Лили>\\c[5]Взрослые не должны делать детям больно."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]Lily, you didn't deserve anything he did to you."
+                "\\n<Настоящая Лили>\\c[5]Лили, ты не заслужила всего того, что он с тобой сделал."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1945,7 +1945,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Original Lily>\\c[5]Just because someone's your papa, it doesn't mean they're right."
+                "\\n<Настоящая Лили>\\c[5]То, что он твой папа, не означает, что он всегда прав."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1953,20 +1953,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You feel tears that don't belong to you begin to fall."
+                "Ты чувствуешь на щеках слёзы, но они не принадлежат тебе."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The hug tightens on both ends."]
+              "parameters": ["Вы обнимаете друг друга сильнее."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Lily needed this hug for a long time."]
+              "parameters": ["Лили давно нуждалась в объятиях."]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             {
@@ -2034,7 +2034,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It is a lamp."] },
+            { "code": 401, "indent": 0, "parameters": ["Уличный светильник."] },
             {
               "code": 102,
               "indent": 0,
@@ -2051,20 +2051,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Moths and other bugs love lamps."]
+              "parameters": ["Мотылькам и другим жучкам нравятся светильники."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is a true fact that can be tested at home."]
+              "parameters": ["Этот факт можно с лёгкостью проверить дома."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Unfortunately, there are no moths because of the rain."
+                "К сожалению, все мотыльки спрятались из-за дождя."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2073,7 +2073,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It is out of your reach because you are a child."]
+              "parameters": ["Ты не дотянешься, потому что тебе девять."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
