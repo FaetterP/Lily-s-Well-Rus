@@ -341,7 +341,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a pretty big rock on the ground."]
+              "parameters": ["На земле лежит довольно большой камень."]
             },
             {
               "code": 102,
@@ -360,7 +360,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's a rock. They're one of the common things to find outdoors."
+                "Это камень. Одна из самых распространенных вещей, которую можно найти на улице."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -369,10 +369,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's probably going to be heavy."]
+              "parameters": ["Это будет тяжело."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Take the rock?"] },
+            { "code": 401, "indent": 1, "parameters": ["Взять камень?"] },
             {
               "code": 102,
               "indent": 1,
@@ -385,7 +385,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "You're already holding a rock... You probably can't hold another one without crushing your bones."
+                "У тебя уже есть камень... Вряд ли у тебя получится поднять второй, не переломав себе кости."
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -403,7 +403,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You took the \\c[4]rock\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]камень\\c[0]."]
             },
             { "code": 121, "indent": 3, "parameters": [23, 23, 0] },
             { "code": 121, "indent": 3, "parameters": [26, 26, 0] },
@@ -411,7 +411,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["...The weight of the rock slows your movement."]
+              "parameters": [
+                "...Он тяжёлый, поэтому ты теперь передвигаешься медленнее."
+              ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -757,7 +759,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You put the rock back, putting your bones at ease."
+                "Ты кладёшь камень на место, наконец расслабляя мышцы."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [30, 30, 1] },
@@ -813,7 +815,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -821,7 +827,11 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No mail today..."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Сегодня ничего не пришло..."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -869,7 +879,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -930,7 +944,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -941,20 +959,24 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are two letters in the mailbox."]
+              "parameters": ["В почтовом ящике два письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Назад"],
+                ["Испачканное письмо", "Письмо с восковой печатью", "Назад"],
                 2,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -966,7 +988,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1026,7 +1048,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1037,20 +1063,29 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are three letters in the mailbox."]
+              "parameters": ["В почтовом ящике три письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Fancy Letter", "Назад"],
+                [
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Назад"
+                ],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1062,7 +1097,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1072,7 +1107,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1131,7 +1166,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1142,17 +1181,17 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are four letters in the mailbox."]
+              "parameters": ["В почтовом ящике четыре письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
                 [
-                  "Stained Letter",
-                  "Wax Sealed Letter",
-                  "Fancy Letter",
-                  "Messy Letter",
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Потрёпанное письмо",
                   "Назад"
                 ],
                 3,
@@ -1161,7 +1200,11 @@
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1173,7 +1216,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1183,7 +1226,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1192,7 +1235,11 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [22] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Messy Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [3, "Потрёпанное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 14] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1260,7 +1307,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1268,7 +1319,11 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No mail today..."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Сегодня ничего не пришло..."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1316,7 +1371,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1377,7 +1436,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1388,20 +1451,24 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are two letters in the mailbox."]
+              "parameters": ["В почтовом ящике два письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Назад"],
+                ["Испачканное письмо", "Письмо с восковой печатью", "Назад"],
                 2,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1413,7 +1480,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1473,7 +1540,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1484,20 +1555,29 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are three letters in the mailbox."]
+              "parameters": ["В почтовом ящике три письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Fancy Letter", "Назад"],
+                [
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Назад"
+                ],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1509,7 +1589,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1519,7 +1599,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1578,7 +1658,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1589,17 +1673,17 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are four letters in the mailbox."]
+              "parameters": ["В почтовом ящике четыре письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
                 [
-                  "Stained Letter",
-                  "Wax Sealed Letter",
-                  "Fancy Letter",
-                  "Messy Letter",
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Потрёпанное письмо",
                   "Назад"
                 ],
                 3,
@@ -1608,7 +1692,11 @@
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1620,7 +1708,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1630,7 +1718,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1639,7 +1727,11 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [22] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Messy Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [3, "Потрёпанное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 14] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1707,7 +1799,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1715,7 +1811,11 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No mail today..."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Сегодня ничего не пришло..."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1763,7 +1863,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1824,7 +1928,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1835,20 +1943,24 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are two letters in the mailbox."]
+              "parameters": ["В почтовом ящике два письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Назад"],
+                ["Испачканное письмо", "Письмо с восковой печатью", "Назад"],
                 2,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1860,7 +1972,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1920,7 +2032,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -1931,20 +2047,29 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are three letters in the mailbox."]
+              "parameters": ["В почтовом ящике три письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Fancy Letter", "Назад"],
+                [
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Назад"
+                ],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -1956,7 +2081,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1966,7 +2091,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2025,7 +2150,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -2036,17 +2165,17 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are four letters in the mailbox."]
+              "parameters": ["В почтовом ящике четыре письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
                 [
-                  "Stained Letter",
-                  "Wax Sealed Letter",
-                  "Fancy Letter",
-                  "Messy Letter",
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Потрёпанное письмо",
                   "Назад"
                 ],
                 3,
@@ -2055,7 +2184,11 @@
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2067,7 +2200,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -2077,7 +2210,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2086,7 +2219,11 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [22] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Messy Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [3, "Потрёпанное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 14] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2154,7 +2291,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -2162,7 +2303,11 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Да"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No mail today..."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Сегодня ничего не пришло..."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2210,7 +2355,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -2271,7 +2420,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -2282,20 +2435,24 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are two letters in the mailbox."]
+              "parameters": ["В почтовом ящике два письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Назад"],
+                ["Испачканное письмо", "Письмо с восковой печатью", "Назад"],
                 2,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2307,7 +2464,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -2367,7 +2524,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -2378,20 +2539,29 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are three letters in the mailbox."]
+              "parameters": ["В почтовом ящике три письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Stained Letter", "Wax Sealed Letter", "Fancy Letter", "Назад"],
+                [
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Назад"
+                ],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2403,7 +2573,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -2413,7 +2583,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2472,7 +2642,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Check the mailbox?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Проверить почтовый ящик?"]
+            },
             {
               "code": 102,
               "indent": 0,
@@ -2483,17 +2657,17 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There are four letters in the mailbox."]
+              "parameters": ["В почтовом ящике четыре письма."]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
                 [
-                  "Stained Letter",
-                  "Wax Sealed Letter",
-                  "Fancy Letter",
-                  "Messy Letter",
+                  "Испачканное письмо",
+                  "Письмо с восковой печатью",
+                  "Красивое письмо",
+                  "Потрёпанное письмо",
                   "Назад"
                 ],
                 3,
@@ -2502,7 +2676,11 @@
                 0
               ]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Stained Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [0, "Испачканное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2514,7 +2692,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "Wax Sealed Letter"]
+              "parameters": [1, "Письмо с восковой печатью"]
             },
             { "code": 111, "indent": 2, "parameters": [8, 12] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -2524,7 +2702,7 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [19] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Fancy Letter"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Красивое письмо"] },
             { "code": 111, "indent": 2, "parameters": [8, 13] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -2533,7 +2711,11 @@
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [22] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Messy Letter"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [3, "Потрёпанное письмо"]
+            },
             { "code": 111, "indent": 2, "parameters": [8, 14] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -3376,7 +3558,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's her van."] },
+            { "code": 401, "indent": 0, "parameters": ["Её фургон."] },
             {
               "code": 102,
               "indent": 0,
@@ -3394,14 +3576,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's pretty roomy in there, even with the things you packed up."
+                "Даже после того, как вы загрузили внутрь твои вещи, места осталось довольно много."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The back kind of smells like a skunk though."]
+              "parameters": ["Хотя сзади пахнет, как от скунса."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3409,7 +3591,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["No need to take anything from here."]
+              "parameters": ["Тебе отсюда ничего не нужно."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3417,7 +3599,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's time to escape this cycle."]
+              "parameters": ["Пора разорвать этот порочный круг."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -4202,7 +4384,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's her van."] },
+            { "code": 401, "indent": 0, "parameters": ["Её фургон."] },
             {
               "code": 102,
               "indent": 0,
@@ -4220,14 +4402,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's pretty roomy in there, even with the things you packed up."
+                "Даже после того, как вы загрузили внутрь твои вещи, места осталось довольно много."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The back kind of smells like a skunk though."]
+              "parameters": ["Хотя сзади пахнет, как от скунса."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -4235,7 +4417,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["No need to take anything from here."]
+              "parameters": ["Тебе отсюда ничего не нужно."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -4243,7 +4425,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's time to escape this cycle."]
+              "parameters": ["Пора разорвать этот порочный круг."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -5027,7 +5209,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's her van."] },
+            { "code": 401, "indent": 0, "parameters": ["Её фургон."] },
             {
               "code": 102,
               "indent": 0,
@@ -5045,14 +5227,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's pretty roomy in there, even with the things you packed up."
+                "Даже после того, как вы загрузили внутрь твои вещи, места осталось довольно много."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The back kind of smells like a skunk though."]
+              "parameters": ["Хотя сзади пахнет, как от скунса."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -5060,7 +5242,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["No need to take anything from here."]
+              "parameters": ["Тебе отсюда ничего не нужно."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -5148,7 +5330,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5224,7 +5406,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5300,7 +5482,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5376,7 +5558,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5452,7 +5634,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5528,7 +5710,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5604,7 +5786,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5680,7 +5862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5756,7 +5938,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5832,7 +6014,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5908,7 +6090,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5984,7 +6166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6060,7 +6242,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6136,7 +6318,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6212,7 +6394,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now's not the time to be playing in the road."]
+              "parameters": ["Сейчас не время играть на дороге."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6269,14 +6451,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This trash can is ready for pickup."]
+              "parameters": ["Мусор скоро будут увозить."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can put any unwanted rope parts in here after you collect some."
+                "Ты можешь выбросить ненужные части верёвки после того, как подберёшь их."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6475,7 +6657,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You sure threw out a lot of things."]
+              "parameters": ["Ты выбросила уже много вещей."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["..."] },
@@ -6483,20 +6665,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Why were you gathering all this stuff again?"]
+              "parameters": ["Но зачем ты снова собирала всё это барахло?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh well, there's still room in the can."]
+              "parameters": ["Ну что ж, в мусорке еще есть место."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You start to grab a few other pieces of junk around the house that need to be thrown away."
+                "Ты начинаешь собирать по дому еще больше мусора, который нужно выбросить."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -6639,7 +6821,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You sure threw out a lot of things."]
+              "parameters": ["Ты выбросила уже много вещей."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["..."] },
@@ -6647,13 +6829,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Why were you gathering all this stuff again?"]
+              "parameters": ["Но зачем ты снова собирала всё это барахло?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh well, there's still room in the can."]
+              "parameters": ["Ну что ж, в мусорке еще есть место."]
             },
             {
               "code": 250,
@@ -6706,14 +6888,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Uh... dude? Something weird's happening."
+                "\\n<Фигура в синем плаще>\\c[2]Эм... чувак? Происходит что-то странное."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]What's up?"]
+              "parameters": ["\\n<Фигура в сером плаще>\\c[2]Что такое?"]
             },
             {
               "code": 231,
@@ -6724,7 +6906,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]Oh."]
+              "parameters": ["\\n<Фигура в сером плаще>\\c[2]Оу."]
             },
             {
               "code": 231,
@@ -6736,7 +6918,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]She's literally putting everything in the trash."
+                "\\n<Фигура в синем плаще>\\c[2]Она выбрасывает буквально всё."
               ]
             },
             {
@@ -6749,7 +6931,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Like, there shouldn't be that much room, right?"
+                "\\n<Фигура в синем плаще>\\c[2]Там же, типа, не должно быть так много места, верно?"
               ]
             },
             {
@@ -6762,7 +6944,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Let me check the notes."
+                "\\n<Фигура в сером плаще>\\c[2]Дай мне проверить записи."
               ]
             },
             {
@@ -6775,7 +6957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Did this happen before?"
+                "\\n<Фигура в синем плаще>\\c[2]Это уже случалось раньше?"
               ]
             },
             {
@@ -6788,7 +6970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]I seriously can't figure out why she's doing this."
+                "\\n<Фигура в синем плаще>\\c[2]Я серьёзно не понимаю, зачем она это делает."
               ]
             },
             {
@@ -6801,7 +6983,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Hold on... hold on..."
+                "\\n<Фигура в сером плаще>\\c[2]Подожди... подожди..."
               ]
             },
             {
@@ -6814,7 +6996,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Okay, it looks like she threw out literally everything she could use as rope."
+                "\\n<Фигура в сером плаще>\\c[2]Ладно, похоже, она выбросила буквально всё, что можно использовать в качестве веревки."
               ]
             },
             {
@@ -6827,7 +7009,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]But now she's associating putting rope in the trash like putting it in the well."
+                "\\n<Фигура в сером плаще>\\c[2]Но теперь она ассоциирует выбрасывание веревки в мусорку с опусканием ее в колодец."
               ]
             },
             {
@@ -6840,7 +7022,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Okay, but why the plunger and all that other crap?"
+                "\\n<Фигура в синем плаще>\\c[2]Окей, но причём тут тогда вантуз и остальной хлам?"
               ]
             },
             {
@@ -6853,7 +7035,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]I think she's just stuck in a loop since there's no goal now?"
+                "\\n<Фигура в сером плаще>\\c[2]Я думаю, она застряла в петле, потому что у неё больше нет цели?"
               ]
             },
             {
@@ -6865,7 +7047,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Huh."]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Хах."]
             },
             {
               "code": 231,
@@ -6877,7 +7059,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Does that mean this run was a success?"
+                "\\n<Фигура в синем плаще>\\c[2]Значит, мы добились успеха?"
               ]
             },
             {
@@ -6890,7 +7072,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Nah, she still got dressed and left the house."
+                "\\n<Фигура в сером плаще>\\c[2]Не, она всё равно оделась и вышла из дома."
               ]
             },
             {
@@ -6902,7 +7084,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Yeah I guess."]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Да, наверное."]
             },
             {
               "code": 231,
@@ -6914,7 +7096,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Also she's kind of like a reverse hoarder."
+                "\\n<Фигура в синем плаще>\\c[2]Да она прям как барахольщики, только наоборот."
               ]
             },
             {
@@ -6927,27 +7109,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Oh shit, she got the weed whacker."
+                "\\n<Фигура в сером плаще>\\c[2]Твою мать, у неё газонокосилка."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]SHE WHAT?!"]
+              "parameters": ["\\n<Папа>\\c[1]У НЕЁ ЧТО?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Professor!"]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Профессор!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]I'm going to fix it myself! It doesn't need to be thrown out, I can fix it!"
+                "\\n<Папа>\\c[1]Я собирался починить её сам! Её не надо выбрасывать, я могу всё починить!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6955,14 +7137,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]The one covered in rust?"
+                "\\n<Фигура в сером плаще>\\c[2]Эту ржавую?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Not now, Gunther!"]
+              "parameters": ["\\n<Папа>\\c[1]Не сейчас, Гюнтер!"]
             },
             {
               "code": 231,
@@ -6974,7 +7156,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]It's time to activate the \"Loop-Breaker\"!"
+                "\\n<Папа>\\c[1]Пора активировать \"Ломатель петель\"!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6982,7 +7164,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Oh, that's what that button is?"
+                "\\n<Фигура в сером плаще>\\c[2]Оу, так вот что это за кнопка?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6990,7 +7172,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]I'm not going to let you throw out perfectly good equipment you piece of shit!"
+                "\\n<Папа>\\c[1]Я не позволю тебе выбросить такое отличное оборудование, кусок дерьма!"
               ]
             },
             {
@@ -7043,7 +7225,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Hey what the fuck was that\\^                 ."
+                "\\n<Фигура в сером плаще>\\c[2]Эй, что это была за херня\\^                 ."
               ]
             },
             {
@@ -7151,7 +7333,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You sure threw out a lot of things."]
+              "parameters": ["Ты выбросила уже много вещей."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["..."] },
@@ -7159,13 +7341,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Why were you gathering all this stuff again?"]
+              "parameters": ["Но зачем ты снова собирала всё это барахло?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh well, there's still room in the can."]
+              "parameters": ["Ну что ж, в мусорке еще есть место."]
             },
             {
               "code": 250,
@@ -7218,14 +7400,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Uh... dude? Something weird's happening."
-              ]
+                "\\n<Фигура в синем плаще>\\c[2]Эм... чувак? Происходит что-то странное."  ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]What's up?"]
+              "parameters": ["\\n<Фигура в сером плаще>\\c[2]Что такое?"]
             },
             {
               "code": 231,
@@ -7236,7 +7417,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]Oh."]
+              "parameters": ["\\n<Фигура в сером плаще>\\c[2]Оу."]
             },
             {
               "code": 231,
@@ -7248,7 +7429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]She's literally putting everything in the trash."
+                "\\n<Фигура в синем плаще>\\c[2]Она выбрасывает буквально всё."
               ]
             },
             {
@@ -7261,7 +7442,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Like, there shouldn't be that much room, right?"
+                "\\n<Фигура в синем плаще>\\c[2]Там же, типа, не должно быть так много места, верно?"
               ]
             },
             {
@@ -7274,8 +7455,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Let me check the notes."
-              ]
+                "\\n<Фигура в сером плаще>\\c[2]Дай мне проверить записи."
+               ]
             },
             {
               "code": 231,
@@ -7287,7 +7468,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Did this happen before?"
+                "\\n<Фигура в синем плаще>\\c[2]Это уже случалось раньше?"
               ]
             },
             {
@@ -7300,8 +7481,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]I seriously can't figure out why she's doing this."
-              ]
+                "\\n<Фигура в синем плаще>\\c[2]Я серьёзно не понимаю, зачем она это делает."
+             ]
             },
             {
               "code": 231,
@@ -7313,7 +7494,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Hold on... hold on..."
+                "\\n<Фигура в сером плаще>\\c[2]Подожди... подожди..."
               ]
             },
             {
@@ -7326,7 +7507,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Okay, it looks like she threw out literally everything she could use as rope."
+                "\\n<Фигура в сером плаще>\\c[2]Ладно, похоже, она выбросила буквально всё, что можно использовать в качестве веревки."
               ]
             },
             {
@@ -7339,7 +7520,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]But now she's associating putting rope in the trash like putting it in the well."
+                "\\n<Фигура в сером плаще>\\c[2]Но теперь она ассоциирует выбрасывание веревки в мусорку с опусканием ее в колодец."
               ]
             },
             {
@@ -7352,7 +7533,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Okay, but why the plunger and all that other crap?"
+                "\\n<Фигура в синем плаще>\\c[2]Окей, но причём тут тогда вантуз и остальной хлам?"
               ]
             },
             {
@@ -7365,7 +7546,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]I think she's just stuck in a loop since there's no goal now?"
+                "\\n<Фигура в сером плаще>\\c[2]Я думаю, она застряла в петле, потому что у неё больше нет цели?"
               ]
             },
             {
@@ -7377,7 +7558,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Huh."]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Хах."]
             },
             {
               "code": 231,
@@ -7389,7 +7570,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Does that mean this run was a success?"
+                "\\n<Фигура в синем плаще>\\c[2]Значит, мы добились успеха?"
               ]
             },
             {
@@ -7402,7 +7583,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Nah, she still got dressed and left the house."
+                "\\n<Фигура в сером плаще>\\c[2]Не, она всё равно оделась и вышла из дома."
               ]
             },
             {
@@ -7414,7 +7595,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Yeah I guess."]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Да, наверное."]
             },
             {
               "code": 231,
@@ -7426,7 +7607,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Also she's kind of like a reverse hoarder."
+                "\\n<Фигура в синем плаще>\\c[2]Да она прям как барахольщики, только наоборот."
               ]
             },
             {
@@ -7439,42 +7620,42 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Oh shit, she got the weed whacker."
-              ]
+                "\\n<Фигура в сером плаще>\\c[2]Твою мать, у неё газонокосилка."
+             ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]SHE WHAT?!"]
-            },
+              "parameters": ["\\n<Папа>\\c[1]У НЕЁ ЧТО?!"]
+           },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Professor!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Papa>\\c[1]I'm going to fix it myself! It doesn't need to be thrown out, I can fix it!"
-              ]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Профессор!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]The one covered in rust?"
+                "\\n<Папа>\\c[1]Я собирался починить её сам! Её не надо выбрасывать, я могу всё починить!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Not now, Gunther!"]
+              "parameters": [
+                "\\n<Фигура в сером плаще>\\c[2]Эту ржавую?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Папа>\\c[1]Не сейчас, Гюнтер!"]
             },
             {
               "code": 231,
@@ -7486,7 +7667,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]It's time to activate the \"Loop-Breaker\"!"
+                "\\n<Папа>\\c[1]Пора активировать \"Ломатель петель\"!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7494,7 +7675,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Oh, that's what that button is?"
+                "\\n<Фигура в сером плаще>\\c[2]Оу, так вот что это за кнопка?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7502,7 +7683,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]I'm not going to let you throw out perfectly good equipment you piece of shit!"
+                "\\n<Папа>\\c[1]Я не позволю тебе выбросить такое отличное оборудование, кусок дерьма!"
               ]
             },
             {
@@ -7555,8 +7736,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Hey what the fuck was that\\^                 ."
-              ]
+                "\\n<Фигура в сером плаще>\\c[2]Эй, что это была за херня\\^                 ."
+               ]
             },
             {
               "code": 355,
