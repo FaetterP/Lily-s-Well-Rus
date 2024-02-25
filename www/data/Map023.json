@@ -254,7 +254,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             {
               "code": 245,
@@ -267,24 +267,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The way down seems endless."]
+              "parameters": ["Путь вниз как будто бесконечный."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No voices can be heard. "]
+              "parameters": ["Ты больше не слышишь голос."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Just the sound of your own breathing\\! and \\^"]
+              "parameters": ["Только звук собственного дыхания\\! и \\^"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What is that sound?"] },
+            { "code": 401, "indent": 0, "parameters": ["Что это за звук?"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It sounds like..."] },
+            { "code": 401, "indent": 0, "parameters": ["Похоже на..."] },
             {
               "code": 245,
               "indent": 0,
