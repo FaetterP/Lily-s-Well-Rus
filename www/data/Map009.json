@@ -456,7 +456,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a vine growing along the tree."]
+              "parameters": ["Лоза растёт вдоль всего дерева."]
             },
             {
               "code": 102,
@@ -475,14 +475,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The vine is covered in sharp blue thorns that point toward the ground."
+                "Лоза покрыта синими острыми шипами, направленными в сторону земли."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It has a chokehold on the tree."]
+              "parameters": ["Дерево, похоже, задыхается в её хватке."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -491,14 +491,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Trying to pry this off the tree with your bare hands would result in bleeding and the inability to touch anything without pain for a long time."
+                "Попытка сорвать лозу с дерева голыми руками привела бы к кровотечению и невозможности прикасаться к чему-либо из-за боли в течение длительного времени."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's probably better to cut it down."]
+              "parameters": ["Лучше будет срезать её."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -638,7 +638,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a vine growing along the tree."]
+              "parameters": ["Лоза растёт вдоль всего дерева."]
             },
             {
               "code": 102,
@@ -656,14 +656,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The vine is covered in small yellow flowers."]
+              "parameters": ["Лоза покрыта маленькими жёлтыми цветками."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "They smell incredibly sweet, but eating them probably isn't a good idea."
+                "Цветы пахнут очень сладко, но, наверное, лучше всё-таки их не есть."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -672,15 +672,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The vine is tightly tangled within the tree bark."
-              ]
+              "parameters": ["Лоза плотно вплетена в древесную кору."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's probably better to cut it down."]
+              "parameters": ["Лучше будет срезать её."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -820,7 +818,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a vine growing along the tree."]
+              "parameters": ["Лоза растёт вдоль всего дерева."]
             },
             {
               "code": 102,
@@ -838,15 +836,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The vine is covered in large red berries."]
+              "parameters": ["Лоза покрыта большими красными ягодами."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You've seen birds in the area eating them before."
-              ]
+              "parameters": ["Ты уже видела, как птички едят их."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -854,13 +850,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This vine is rooted deep into the ground."]
+              "parameters": ["Лоза уходит корнями глубоко в землю."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's probably better to cut it down."]
+              "parameters": ["Лучше будет срезать её."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1000,7 +996,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a pretty big rock on the ground."]
+              "parameters": ["На земле лежит довольно большой камень."]
             },
             {
               "code": 102,
@@ -1019,7 +1015,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's a rock. They're one of the common things to find outdoors."
+                "Это камень. Одна из самых распространенных вещей, которую можно найти на улице."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1028,10 +1024,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's probably going to be heavy."]
+              "parameters": ["Это будет тяжело."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Take the rock?"] },
+            { "code": 401, "indent": 1, "parameters": ["Взять камень?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1044,7 +1040,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "You're already holding a rock... You probably can't hold another one without crushing your bones."
+                "У тебя уже есть камень... Вряд ли у тебя получится поднять второй, не переломав себе кости."
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1062,7 +1058,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You took the \\c[4]rock\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]камень\\c[0]."]
             },
             { "code": 121, "indent": 3, "parameters": [23, 23, 0] },
             { "code": 121, "indent": 3, "parameters": [24, 24, 0] },
@@ -1070,7 +1066,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["...The weight of the rock slows your movement."]
+              "parameters": [
+                "...Он тяжёлый, поэтому ты теперь передвигаешься медленнее."
+              ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -1477,7 +1475,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You put the rock back, putting your bones at ease."
+                "Ты кладёшь камень на место, наконец расслабляя мышцы."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [30, 30, 1] },
@@ -1957,9 +1955,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             {
               "code": 102,
@@ -1978,7 +1974,7 @@
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 402, "indent": 3, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 4, "parameters": ["...nothing to take."] },
+            { "code": 401, "indent": 4, "parameters": ["...брать нечего."] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 402, "indent": 3, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 4, "parameters": [1, 4, 0, 0, 0] },
@@ -2029,7 +2025,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -2161,13 +2157,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -2179,7 +2175,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2187,7 +2183,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -2385,9 +2381,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             {
               "code": 102,
@@ -2406,7 +2400,7 @@
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 402, "indent": 3, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 4, "parameters": ["...nothing to take."] },
+            { "code": 401, "indent": 4, "parameters": ["...брать нечего."] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 402, "indent": 3, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 4, "parameters": [1, 4, 0, 0, 0] },
@@ -2457,7 +2451,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -2589,13 +2583,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -2607,7 +2601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2615,7 +2609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -2862,9 +2856,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             {
               "code": 102,
@@ -2934,7 +2926,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -3066,13 +3058,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -3084,7 +3076,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3092,7 +3084,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -3290,9 +3282,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             {
               "code": 102,
@@ -3362,7 +3352,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -3494,13 +3484,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -3512,7 +3502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3520,7 +3510,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -3718,9 +3708,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             {
               "code": 102,
@@ -3790,7 +3778,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -3922,13 +3910,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -3940,7 +3928,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3948,7 +3936,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -4146,9 +4134,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             {
               "code": 102,
@@ -4218,7 +4204,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -4350,13 +4336,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -4368,7 +4354,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4376,7 +4362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -4574,9 +4560,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "...There's something watching you from the darkness."
-              ]
+              "parameters": ["...Что-то наблюдает за тобой из темноты."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -4585,7 +4569,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Whatever was there is no longer there."]
+              "parameters": ["Что бы там ни было раньше, оно ушло."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -4717,13 +4701,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Hungry..."]
+              "parameters": ["\\n<Существо>\\c[2]Хочу есть..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Creature>\\c[2]Need more! Need more!"]
+              "parameters": ["\\n<Существо>\\c[2]Хочу ещё! Хочу ещё!"]
             },
             {
               "code": 232,
@@ -4735,7 +4719,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The creature bites into you, ripping muscle from bone."
+                "Существо накидывается на тебя, отгрызая мясо от костей."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -4743,7 +4727,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your screams are heard by nobody, but the creature finally feels full."
+                "Никто не слышит твоих криков, но существо, наконец-то, наелось."
               ]
             },
             {
@@ -4938,15 +4922,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There is a cat here. She doesn't seem to mind the rain."
-              ]
+              "parameters": ["Кошка. Похоже, дождь её не беспокоит."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Give her your piece of jerky?"]
+              "parameters": ["Поделиться с ней вяленым мясом?"]
             },
             {
               "code": 102,
@@ -4960,14 +4942,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The cat grabs it out of your hand and eats it, making loud noises the entire time."
+                "Кошка выхватывает мясо из твоей руки и съедает, постоянно издавая громкие звуки."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Once she's finished, she looks up at you."]
+              "parameters": ["Закончив, она поднимает на тебя глаза."]
             },
             {
               "code": 241,
@@ -5025,7 +5007,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The cat makes her way to your lap and sits in it."
+                "Кошка пробирается к тебе на колени и садится на них."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5033,21 +5015,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You are instantly calmed by the sounds of her purrs and the sound of the rain."
+                "Звук её мурчания, смешавшись со стуком капель дождя, успокаивает тебя."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["She's a good cat. A really good cat."]
+              "parameters": ["Хорошая кошечка. Очень хорошая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Her name is Cassie. She was named after the constellation, Cassiopeia."
+                "Её зовут Кэсси. Её так назвали в честь созвездия Кассиопеи."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -5055,14 +5037,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Even if you're a stranger, she'll approach you and give you affection."
+                "Она дружелюбна даже с незнакомцами и совсем не боится их."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Thank you for giving her your time."]
+              "parameters": ["Спасибо, что провела с ней время."]
             },
             {
               "code": 250,
