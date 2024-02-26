@@ -268,16 +268,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\.Y\\.o\\.u\\.r\\. r\\.o\\.p\\.e \\.i\\.s \\.c\\.r\\.e\\.a\\.k\\.i\\.n\\.g\\..\\..\\.."
+                "\\.В\\.е\\.р\\.ё\\.в\\.к\\.а\\. \\.з\\.а\\.с\\.к\\.р\\.и\\.п\\.е\\.л\\.а\\..\\..\\.."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\.S\\.o\\.m\\.e\\.t\\.h\\.i\\.n\\.g\\. i\\.s \\.v\\.e\\.r\\.y \\.w\\.r\\.o\\^"
-              ]
+              "parameters": ["\\.Ч\\.т\\.о\\.-\\.т\\.о\\. \\.н\\.е\\. т\\.а\\^"]
             },
             {
               "code": 250,
@@ -663,7 +661,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As you fell, you were lucky to land headfirst, killing you instantly."
+                "Тебе повезло, что ты приземлилась на голову, из-за чего умерла сразу."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -671,7 +669,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Your body lays in a contorted and unnatural state as it waits for the maggots to settle in."
+                "Твоё тело осталось лежать, искривлённое, в неестественной позе, ожидая, пока в нём поселятся личинки."
               ]
             },
             { "code": 111, "indent": 1, "parameters": [9, 11, false] },
