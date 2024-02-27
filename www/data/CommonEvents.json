@@ -2800,9 +2800,9 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Version 1.1.1", "Version 2.0.0", "Нет"], 2, 0, 1, 0]
+        "parameters": [["Версия 1.1.1", "Версия 2.0.0", "Нет"], 2, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Version 1.1.1"] },
+      { "code": 402, "indent": 0, "parameters": [0, "Версия 1.1.1"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       { "code": 401, "indent": 1, "parameters": ["Purrine <line break>"] },
       {
@@ -2821,7 +2821,7 @@
         "parameters": ["KawaiiYeetMeister <line break>"]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Version 2.0.0"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Версия 2.0.0"] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
