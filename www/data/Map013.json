@@ -219,7 +219,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a spare extension cord on the floor."]
+              "parameters": ["На полу лежат запасной удлинитель."]
             },
             {
               "code": 102,
@@ -238,7 +238,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Even in a storage shed, having a wire out like this is a clear OSHA violation."
+                "Даже в закрытом сарае хранение бесхозных проводов является нарушение правил безопасности труда."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -247,13 +247,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The cord is thick and new looking."]
+              "parameters": ["Провод крепкий и выглядит новым."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take the extension cord as \\c[5]rope\\c[0]?"]
+              "parameters": ["Взять удлинитель как \\c[5]верёвку\\c[0]?"]
             },
             {
               "code": 102,
@@ -273,7 +273,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took the \\c[5]extension cord\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]удлинитель\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [6, 6, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -419,7 +419,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A pair of bolt cutters are hanging on the wall."]
+              "parameters": ["На стене висит болторез."]
             },
             {
               "code": 102,
@@ -437,7 +437,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You don't remember seeing Papa use these much."]
+              "parameters": ["Ты не помнишь, чтобы папа часто им пользовался."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -445,13 +445,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is a pretty heavy tool."]
+              "parameters": ["Довольно тяжёлый инструмент."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take the bolt cutters?"]
+              "parameters": ["Взять болторез?"]
             },
             {
               "code": 102,
@@ -471,7 +471,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took the \\c[4]bolt cutters\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]болторез\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -669,9 +669,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "An old and broken weed whacker is left to rust in the corner."
-              ]
+              "parameters": ["Старая и сломанная газонокосилка ржавеет в углу."]
             },
             {
               "code": 102,
@@ -690,7 +688,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This broke a while ago after Papa dropped this in the river."
+                "Газонокосилка сломалась давно, после того, как папа уронил её в реку."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -699,7 +697,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's really nothing more than dead weight."]
+              "parameters": ["Это будет просто мёртвым грузом."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -799,7 +797,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's a bag of mulch."]
+              "parameters": ["Мешок мульчи."]
             },
             {
               "code": 102,
@@ -814,11 +812,15 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Used for gardening."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Используется для садоводства."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Too smelly."] },
+            { "code": 401, "indent": 1, "parameters": ["Слишком воняет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 111, "indent": 1, "parameters": [1, 4, 0, 0, 0] },
