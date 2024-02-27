@@ -1047,7 +1047,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a pretty big rock on the ground."]
+              "parameters": ["На земле лежит довольно большой камень."]
             },
             {
               "code": 102,
@@ -1066,7 +1066,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's a rock. They're one of the common things to find outdoors."
+                "Это камень. Одна из самых распространенных вещей, которую можно найти на улице."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1075,10 +1075,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's probably going to be heavy."]
+              "parameters": ["Это будет тяжело."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Take the rock?"] },
+            { "code": 401, "indent": 1, "parameters": ["Взять камень?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1091,7 +1091,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "You're already holding a rock... You probably can't hold another one without crushing your bones."
+                "У тебя уже есть камень... Вряд ли у тебя получится поднять второй, не переломав себе кости."
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1109,7 +1109,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You took the \\c[4]rock\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]камень\\c[0]."]
             },
             { "code": 121, "indent": 3, "parameters": [23, 23, 0] },
             { "code": 121, "indent": 3, "parameters": [25, 25, 0] },
@@ -1117,7 +1117,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["...The weight of the rock slows your movement."]
+              "parameters": [
+                "...Он тяжёлый, поэтому ты теперь передвигаешься медленнее."
+              ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -1485,7 +1487,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You put the rock back, putting your bones at ease."
+                "Ты кладёшь камень на место, наконец расслабляя мышцы."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [30, 30, 1] },
@@ -1544,7 +1546,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A bush with ten flowers is growing here."]
+              "parameters": ["Куст с десятью растущими на нём цветками."]
             },
             {
               "code": 102,
@@ -1563,7 +1565,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Looking this causes a sharp pain to go through your head."
+                "Когда ты смотришь на цветы, ты испытываешь острую боль в голове."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1573,7 +1575,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1670,7 +1672,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A singular flower is growing here."]
+              "parameters": ["Здесь растёт одинокий цветок."]
             },
             {
               "code": 102,
@@ -1689,7 +1691,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Looking this makes your legs ache for some reason."
+                "Когда ты смотришь на цветок, у тебя почему-то болят ноги."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1699,7 +1701,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1800,7 +1802,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Two flowers are growing here together."]
+              "parameters": ["Здесь растут два цветка."]
             },
             {
               "code": 102,
@@ -1819,7 +1821,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Looking at this makes your palms sweat for some reason."
+                "Когда ты смотришь на цветы, у тебя почему-то потеют ладони."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1829,7 +1831,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1930,7 +1932,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Three flowers are growing here together."]
+              "parameters": ["Здесь растут три цветка."]
             },
             {
               "code": 102,
@@ -1949,7 +1951,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The flowers seem to be reaching for the lamp near the house."
+                "Цветы, кажется, тянутся к уличному светильнику, висящему на стене дома."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1959,7 +1961,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2060,7 +2062,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Four flowers are growing here together."]
+              "parameters": ["Здесь растут четыре цветка."]
             },
             {
               "code": 102,
@@ -2078,7 +2080,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The rain is drowning the flowers."]
+              "parameters": ["Цветы утонули под дождём."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2087,7 +2089,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2188,7 +2190,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Five flowers are growing here together."]
+              "parameters": ["Здесь растут пять цветов."]
             },
             {
               "code": 102,
@@ -2206,9 +2208,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "It looks like someone crushed the flowers at some point."
-              ]
+              "parameters": ["Выглядит, как будто кто-то раздавил цветы."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2217,7 +2217,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2318,7 +2318,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Six flowers are growing here together."]
+              "parameters": ["Здесь растут шесть цветов."]
             },
             {
               "code": 102,
@@ -2336,13 +2336,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["All of the flowers are covered in bugs."]
+              "parameters": ["Все цветы покрыты насекомыми."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It makes your skin itch."]
+              "parameters": ["Глядя на растение, тебе хочется чесаться."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2351,7 +2351,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2452,7 +2452,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Seven flowers bloom on one vine."]
+              "parameters": ["На лозе распустились семь цветов."]
             },
             {
               "code": 102,
@@ -2470,7 +2470,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Looking at this makes your blood go cold."]
+              "parameters": [
+                "Когда ты смотришь на цветы, у тебя кровь стынет в жилах."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2479,7 +2481,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2580,7 +2582,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Eight flowers bloom together."]
+              "parameters": ["Здесь растут восемь цветов."]
             },
             {
               "code": 102,
@@ -2598,7 +2600,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It smells like rotting meat."]
+              "parameters": ["Цветы пахнут гнилым мясом."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2607,7 +2609,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2708,7 +2710,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nine flowers are blooming on this bush."]
+              "parameters": ["На лозе распустились девять цветов."]
             },
             {
               "code": 102,
@@ -2727,7 +2729,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The words you heard from the well echo in your mind."
+                "Слова, которые ты слышала из колодца, эхом отдаются у тебя в голове."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2737,7 +2739,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You don't really want to be around this plant for some reason."
+                "...По какой-то причине тебе не хочется находиться рядом с этим растением."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
