@@ -171,7 +171,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You look closer at the unknown pile in the corner."
+                "Ты внимательнее вглядываешься в странную кучу в углу."
               ]
             },
             {
@@ -219,7 +219,7 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh."] },
+            { "code": 401, "indent": 0, "parameters": ["Оу."] },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
               "code": 250,
@@ -238,7 +238,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It is a corpse, covered in maggots."]
+              "parameters": ["Это труп, покрытый личинками."]
             },
             {
               "code": 231,
@@ -249,7 +249,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Do you know what maggots are, Lily?"]
+              "parameters": ["Ты же знаешь, что такое личинки, Лили?"]
             },
             {
               "code": 231,
@@ -260,13 +260,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've learned about them before."]
+              "parameters": ["Ты читала о них прежде."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["They are baby flies that eat dead things."]
+              "parameters": ["Это детеныши мух, которые питаются мертвечиной."]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             {
@@ -278,36 +278,36 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh? Now what?"] },
+            { "code": 401, "indent": 0, "parameters": ["Оу? Что теперь?"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You no longer hear the sound of rain, but it is now pitch black."
+                "Ты больше не слышишь звук дождя, но теперь вокруг кромешная тьма."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Someone must have covered the well."]
+              "parameters": ["Должно быть, кто-то закрыл колодец."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Well now..."] },
+            { "code": 401, "indent": 0, "parameters": ["Что же..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even though you can't see, you may want to get comfortable with the maggots."
+                "Хоть ты ничего и не видишь, но тебе придётся привыкнуть к личинкам."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["They may be your only company for a while."]
+              "parameters": ["Всё равно больше некому составить тебе компанию."]
             },
             { "code": 230, "indent": 0, "parameters": [300] },
             {
