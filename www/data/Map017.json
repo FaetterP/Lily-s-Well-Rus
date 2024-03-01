@@ -1050,7 +1050,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1068,15 +1068,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1085,14 +1083,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -1112,7 +1112,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -1209,7 +1209,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1227,7 +1227,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1235,13 +1235,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1341,7 +1341,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1359,15 +1359,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1376,14 +1374,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -1403,7 +1403,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -1500,7 +1500,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1518,7 +1518,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1526,13 +1526,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1632,7 +1632,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1650,15 +1650,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1667,14 +1665,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -1694,7 +1694,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -1791,7 +1791,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1809,7 +1809,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1817,13 +1817,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1923,7 +1923,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -1941,15 +1941,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1958,14 +1956,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -1985,7 +1985,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -2082,7 +2082,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2100,7 +2100,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2108,13 +2108,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -2214,7 +2214,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2232,15 +2232,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2249,14 +2247,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -2276,7 +2276,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -2373,7 +2373,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2391,7 +2391,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2399,13 +2399,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -2505,7 +2505,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2523,15 +2523,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2540,14 +2538,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -2567,7 +2567,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -2664,7 +2664,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2682,7 +2682,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2690,13 +2690,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -2796,7 +2796,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2814,15 +2814,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2831,14 +2829,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -2858,7 +2858,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -2955,7 +2955,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -2973,7 +2973,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -2981,13 +2981,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3087,7 +3087,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3105,15 +3105,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "The drawer is mostly filled with socks and belts."
-              ]
+              "parameters": ["В основном ящик наполнен носками и ремнями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["They are all folded to perfection."]
+              "parameters": ["Тем не менее они идеально сложены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3122,14 +3120,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The belts might be a good rope substitute if tied together."
+                "Из ремней можно сделать хорошую верёвку, если связать их вместе."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take Papa's belts as \\c[5]rope\\c[0]?"]
+              "parameters": [
+                "Взять папины ремни в качестве \\c[5]верёвки\\c[0]?"
+              ]
             },
             {
               "code": 102,
@@ -3149,7 +3149,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took \\c[5]Papa's belts\\c[0]."]
+              "parameters": ["Ты взяла \\c[5]папины ремни\\c[0]."]
             },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 2, "parameters": [4, 4, 1, 0, 1] },
@@ -3246,7 +3246,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3264,7 +3264,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Only socks live in this drawer now."]
+              "parameters": ["Теперь здесь живут только носки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3272,13 +3272,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You took all of Papa's belts already."]
+              "parameters": ["Ты уже забрала все ремни."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Making rope out of socks just seems silly."]
+              "parameters": ["Делать верёвку из носков звучит просто глупо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3378,7 +3378,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3396,7 +3396,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3404,7 +3404,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3504,7 +3504,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3522,7 +3522,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3530,7 +3530,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3630,7 +3630,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3648,7 +3648,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3656,7 +3656,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3756,7 +3756,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3774,7 +3774,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3782,7 +3782,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -3882,7 +3882,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -3900,7 +3900,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -3908,7 +3908,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -4008,7 +4008,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -4026,7 +4026,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -4034,7 +4034,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -4134,7 +4134,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -4152,7 +4152,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -4160,7 +4160,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -4260,7 +4260,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This drawer has some of Papa's clothes."]
+              "parameters": ["В этом ящике лежит папина одежда."]
             },
             {
               "code": 102,
@@ -4278,7 +4278,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The drawer is filled with tighty-whities."]
+              "parameters": ["Ящик заполнен белоснежными вещами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -4286,7 +4286,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Do not take Papa's underwear. Do not."]
+              "parameters": ["Не бери папино нижнее бельё. Не делай это."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
