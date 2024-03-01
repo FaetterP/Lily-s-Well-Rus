@@ -234,13 +234,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But there seems to be a large room here."]
+              "parameters": ["Но, похоже, здесь есть большая комната."]
             },
             { "code": 111, "indent": 0, "parameters": [1, 21, 0, 0, 0] },
             {
@@ -375,7 +375,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What a strange room..."]
+              "parameters": ["Какое странное место..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
