@@ -254,30 +254,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The way down seems endless."]
+              "parameters": ["Путь вниз как будто бесконечный."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["But..."] },
+            { "code": 401, "indent": 0, "parameters": ["Но..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "A darkened window juts out from the side of the well's wall."
-              ]
+              "parameters": ["На стене колодца выступает затемнённое окно."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's slightly open. You swing closer to take a peek."
+                "Окно слегка приоткрыто. Ты раскачиваешься, чтобы подобраться поближе и посмотреть."
               ]
             },
             {
@@ -296,9 +294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "...but you overshoot it and tumble into the pitch black room."
-              ]
+              "parameters": ["...но ты оступаешься и падаешь в кромешную тьму."]
             },
             { "code": 201, "indent": 0, "parameters": [0, 33, 9, 5, 4, 2] },
             { "code": 111, "indent": 0, "parameters": [1, 21, 0, 0, 0] },
