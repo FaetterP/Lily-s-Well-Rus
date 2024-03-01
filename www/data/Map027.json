@@ -254,27 +254,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The way down seems endless."]
+              "parameters": ["Путь вниз как будто бесконечный."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["But..."] },
+            { "code": 401, "indent": 0, "parameters": ["Но..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There seems to be another tunnel you can reach."]
+              "parameters": [
+                "Кажется, здесь ещё один туннель, до которого ты можешь добраться."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Perhaps this is where the voice was coming from?"]
+              "parameters": ["Может, голос шёл оттуда?"]
             },
             { "code": 201, "indent": 0, "parameters": [0, 28, 2, 6, 6, 2] },
             { "code": 111, "indent": 0, "parameters": [1, 21, 0, 0, 0] },
