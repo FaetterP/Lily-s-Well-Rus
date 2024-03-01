@@ -937,7 +937,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -945,10 +945,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is the key to the shed."]
+              "parameters": ["Это ключ от сарая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -967,7 +967,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1022,7 +1022,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1031,11 +1031,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the key to the shed, but you don't remember Papa ever locking it."
+                "Это ключ от сарая, но ты не помнишь, чтобы папа когда-либо его запирал."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1054,7 +1054,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1118,7 +1118,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1126,10 +1126,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is the key to the shed."]
+              "parameters": ["Это ключ от сарая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1148,7 +1148,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1203,7 +1203,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1212,11 +1212,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the key to the shed, but you don't remember Papa ever locking it."
+                "Это ключ от сарая, но ты не помнишь, чтобы папа когда-либо его запирал."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1235,7 +1235,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1299,7 +1299,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1307,10 +1307,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is the key to the shed."]
+              "parameters": ["Это ключ от сарая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1329,7 +1329,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1384,7 +1384,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1393,11 +1393,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the key to the shed, but you don't remember Papa ever locking it."
+                "Это ключ от сарая, но ты не помнишь, чтобы папа когда-либо его запирал."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1416,7 +1416,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1480,7 +1480,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1488,10 +1488,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is the key to the shed."]
+              "parameters": ["Это ключ от сарая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1510,7 +1510,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1565,7 +1565,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1574,11 +1574,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the key to the shed, but you don't remember Papa ever locking it."
+                "Это ключ от сарая, но ты не помнишь, чтобы папа когда-либо его запирал."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1597,7 +1597,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1661,7 +1661,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1669,10 +1669,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is the key to the shed."]
+              "parameters": ["Это ключ от сарая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1691,7 +1691,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1746,7 +1746,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1755,11 +1755,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the key to the shed, but you don't remember Papa ever locking it."
+                "Это ключ от сарая, но ты не помнишь, чтобы папа когда-либо его запирал."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1778,7 +1778,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1842,7 +1842,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1850,10 +1850,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is the key to the shed."]
+              "parameters": ["Это ключ от сарая."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1872,7 +1872,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -1927,7 +1927,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took the shed key."]
+              "parameters": ["Ты уже взяла ключ от сарая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1936,11 +1936,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the key to the shed, but you don't remember Papa ever locking it."
+                "Это ключ от сарая, но ты не помнишь, чтобы папа когда-либо его запирал."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should you take it?"] },
+            { "code": 401, "indent": 1, "parameters": ["Ты возьмёшь его?"] },
             {
               "code": 102,
               "indent": 1,
@@ -1959,7 +1959,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You got the \\c[2]Shed Key\\c[0]."]
+              "parameters": ["Ты взяла \\c[2]ключ от сарая\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -2023,7 +2023,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Papa always takes the house key with him when he leaves."
+                "Папа всегда забирает с собой ключ от дома, когда уходит."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2082,7 +2082,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Papa always takes the house key with him when he leaves."
+                "Папа всегда забирает с собой ключ от дома, когда уходит."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2141,7 +2141,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Papa always takes the house key with him when he leaves."
+                "Папа всегда забирает с собой ключ от дома, когда уходит."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2200,7 +2200,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Papa always takes the house key with him when he leaves."
+                "Папа всегда забирает с собой ключ от дома, когда уходит."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2259,7 +2259,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have never seen the key to the attic before, just it's place on the board."
+                "Ты никогда не видела ключ от чердака, только его крючок на ключнице."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2318,7 +2318,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have never seen the key to the attic before, just it's place on the board."
+                "Ты никогда не видела ключ от чердака, только его крючок на ключнице."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2377,7 +2377,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have never seen the key to the attic before, just it's place on the board."
+                "Ты никогда не видела ключ от чердака, только его крючок на ключнице."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2436,7 +2436,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have never seen the key to the attic before, just it's place on the board."
+                "Ты никогда не видела ключ от чердака, только его крючок на ключнице."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2494,7 +2494,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a label for the shed's key."]
+              "parameters": ["Это ярлык для ключа от сарая."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2551,7 +2551,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a label for the shed's key."]
+              "parameters": ["Это ярлык для ключа от сарая."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2608,7 +2608,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a label for the shed's key."]
+              "parameters": ["Это ярлык для ключа от сарая."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2665,7 +2665,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a label for the shed's key."]
+              "parameters": ["Это ярлык для ключа от сарая."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
