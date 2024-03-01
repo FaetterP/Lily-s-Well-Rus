@@ -174,7 +174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can see the lake outside."]
+              "parameters": ["Снаружи видно озеро."]
             },
             {
               "code": 245,
@@ -195,7 +195,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You are suspended high in the air looking down upon it."
+                "Будучи подвешенной на большой высоте ты смотришь на него внизу."
               ]
             },
             {
@@ -217,7 +217,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The weather is causing waves to crash violently against the rocky shores below."
+                "Из-за непогоды волны яростно разбиваются о скалистые берега внизу."
               ]
             },
             {
@@ -239,7 +239,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can even see certain areas being completely flooded\\^"
+                "Ты видишь, что некоторые места уже полностью затопило\\^"
               ]
             },
             {
@@ -284,16 +284,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Your body is washed out of the drainage pipes into the lake."
-              ]
+              "parameters": ["Твоё тело выносит из водосточных труб в озеро."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Before hitting the water, your face makes direct contact with the rocks below."
+                "Прежде чем погрузиться под воду, ты ударяешься лицом о камни внизу."
               ]
             },
             {
@@ -352,7 +350,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Not even Papa would recognize you now."]
+              "parameters": ["Даже папа тебя сейчас не узнал бы."]
             },
             { "code": 230, "indent": 0, "parameters": [300] },
             {
@@ -637,7 +635,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can see the lake outside."]
+              "parameters": ["Снаружи видно озеро."]
             },
             {
               "code": 245,
@@ -658,7 +656,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You are suspended high in the air looking down upon it."
+                "Будучи подвешенной на большой высоте ты смотришь на него внизу."
               ]
             },
             {
@@ -680,7 +678,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The weather is causing waves to crash violently against the rocky shores below."
+                "Из-за непогоды волны яростно разбиваются о скалистые берега внизу."
               ]
             },
             {
@@ -702,7 +700,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can even see certain areas being completely flooded\\^"
+                "Ты видишь, что некоторые места уже полностью затопило\\^"
               ]
             },
             {
@@ -747,16 +745,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Your body is washed out of the drainage pipes into the lake."
-              ]
+              "parameters": ["Твоё тело выносит из водосточных труб в озеро."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Before hitting the water, your face makes direct contact with the rocks below."
+                "Прежде чем погрузиться под воду, ты ударяешься лицом о камни внизу."
               ]
             },
             {
@@ -815,7 +811,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Not even Papa would recognize you now."]
+              "parameters": ["Даже папа тебя сейчас не узнал бы."]
             },
             { "code": 230, "indent": 0, "parameters": [300] },
             {
@@ -922,7 +918,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can see the lake outside."]
+              "parameters": ["Снаружи видно озеро."]
             },
             {
               "code": 245,
@@ -943,7 +939,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You are suspended high in the air looking down upon it."
+                "Будучи подвешенной на большой высоте ты смотришь на него внизу."
               ]
             },
             {
@@ -965,7 +961,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The weather is causing waves to crash violently against the rocky shores below."
+                "Из-за непогоды волны яростно разбиваются о скалистые берега внизу."
               ]
             },
             {
@@ -987,7 +983,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can even see certain areas being completely flooded\\^"
+                "Ты видишь, что некоторые места уже полностью затопило\\^"
               ]
             },
             {
@@ -1032,16 +1028,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Your body is washed out of the drainage pipes into the lake."
-              ]
+              "parameters": ["Твоё тело выносит из водосточных труб в озеро."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Before hitting the water, your face makes direct contact with the rocks below."
+                "Прежде чем погрузиться под воду, ты ударяешься лицом о камни внизу."
               ]
             },
             {
@@ -1100,7 +1094,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Not even Papa would recognize you now."]
+              "parameters": ["Даже папа тебя сейчас не узнал бы."]
             },
             { "code": 230, "indent": 0, "parameters": [300] },
             {
