@@ -254,7 +254,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             {
               "code": 223,
@@ -265,20 +265,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The way down seems endless."]
+              "parameters": ["Путь вниз как будто бесконечный."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No voices can be heard. "]
+              "parameters": ["Ты больше не слышишь голос."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just the sound of your own breathing and the rain falling from above."
+                "Только звук твоего собственного дыхания и шум дождя, падающего сверху."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -286,21 +286,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It mixes with your sweat, making your hands uncomfortable."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You decide to give up and climb back up."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The task is much more difficult than lowering yourself down."
+                "Вода смешивается с твоим потом и неприятно ощущается на руках."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -308,7 +294,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The pain in your hands and the moisture in the area create a terrible combination."
+                "Ты решаешь, что лучше сдаться и подняться обратно наверх."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Это оказывается гораздо сложнее, чем спуск вниз."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Боль в ладонях и влажность в воздухе создают ужасное сочетание."
               ]
             },
             {
@@ -338,7 +338,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You lose your grip and fall."]
+              "parameters": ["Твоя хватка слабеет, и ты падаешь вниз."]
             },
             { "code": 108, "indent": 0, "parameters": ["The rope breaks."] },
             { "code": 230, "indent": 0, "parameters": [800] },
