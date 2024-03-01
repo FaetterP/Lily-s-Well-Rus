@@ -161,7 +161,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...Your rope is gone."]
+              "parameters": ["...Верёвка исчезла."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -169,7 +169,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your rope hangs, swaying slightly."]
+              "parameters": [
+                "Верёвка висит, немного покачиваясь из стороны в сторону."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -288,7 +290,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...Your rope is gone."]
+              "parameters": ["...Верёвка исчезла."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -296,7 +298,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your rope hangs, swaying slightly."]
+              "parameters": [
+                "Верёвка висит, немного покачиваясь из стороны в сторону."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -356,7 +360,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...Your rope is gone."]
+              "parameters": ["...Верёвка исчезла."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -364,7 +368,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your rope hangs, swaying slightly."]
+              "parameters": [
+                "Верёвка висит, немного покачиваясь из стороны в сторону."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
