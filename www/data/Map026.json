@@ -254,16 +254,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The way down seems endless."]
+              "parameters": ["Путь вниз как будто бесконечный."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah?"] },
+            { "code": 401, "indent": 0, "parameters": ["А?"] },
             {
               "code": 250,
               "indent": 0,
@@ -311,13 +311,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The nearby lamp turned on by itself."]
+              "parameters": ["Рядом сама по себе загорелась лампа."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Such a thing could be helpful right now."]
+              "parameters": ["Она бы тебе сейчас очень пригодилась."]
             },
             {
               "code": 223,
@@ -328,7 +328,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You reach over to take the light off its hook."]
+              "parameters": [
+                "Ты протягиваешь руку, чтобы снять лампу с крючка."
+              ]
             },
             {
               "code": 250,
@@ -365,7 +367,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A terrible decision, really."]
+              "parameters": ["Ужасное решение, на самом деле."]
             },
             { "code": 108, "indent": 0, "parameters": ["The rope breaks."] },
             { "code": 230, "indent": 0, "parameters": [800] },
