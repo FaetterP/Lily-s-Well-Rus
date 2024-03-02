@@ -11,6 +11,11 @@
         <title>Lily's Well</title>
     </head>
     <body style="background-color: black">
+        <script type="text/javascript">
+            window.onkeydown = (evt) => evt.keyCode != 123;
+            window.onkeypress = (evt) => evt.keyCode != 123;
+        </script>
+
         <script type="text/javascript" src="js/libs/pixi.js"></script>
         <script type="text/javascript" src="js/libs/pixi-tilemap.js"></script>
         <script type="text/javascript" src="js/libs/pixi-picture.js"></script>
