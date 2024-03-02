@@ -1177,7 +1177,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["СРезать и взять \\c[5]цепь\\c[0]?"]
+        "parameters": ["Срезать и взять \\c[5]цепь\\c[0]?"]
       },
       { "code": 102, "indent": 3, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 3, "parameters": [0, "Да"] },
