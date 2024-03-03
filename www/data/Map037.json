@@ -234,20 +234,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hope of discovery however is not lost."]
+              "parameters": ["Однако, надежда ещё есть."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A vent presents itself nearby, with its cover partially removed."
+                "Поблизости есть вентиляция с частично снятой крышкой."
               ]
             },
             {
