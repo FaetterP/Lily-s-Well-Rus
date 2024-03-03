@@ -228,7 +228,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a fast moving fan in the way."]
+              "parameters": ["Путь преграждает быстро вращающийся вентилятор."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -277,15 +277,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a fast moving fan in the way."]
+              "parameters": ["Путь преграждает быстро вращающийся вентилятор."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "...But you can see a room on the other side of it."
-              ]
+              "parameters": ["...Но ты видишь комнату с другой стороны."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -333,7 +331,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The fan is jammed by the hair."]
+              "parameters": ["Вентилятор заклинило из-за волос."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
