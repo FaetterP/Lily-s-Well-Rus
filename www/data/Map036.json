@@ -234,16 +234,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["But... oho?"] },
+            { "code": 401, "indent": 0, "parameters": ["Но... оу?"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a vine growing along the well walls, but you don't see how deep it goes."
+                "Вдоль стены растёт лоза, но ты не видишь, насколько далеко вниз она уходит."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [1, 21, 0, 0, 0] },
@@ -360,7 +360,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You manage to jump onto the vine, getting a good grip on it."
+                "Ты смогла запрыгнуть на лозу и крепко вцепилась в неё."
               ]
             },
             {
@@ -380,14 +380,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It seems to have a good grip on you too."]
+              "parameters": ["Похоже, она тоже крепко вцепилась в тебя."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The purple leaves of the vine stick into you, wrapping you closer in the plant."
+                "Пурпурные листья лозы впиваются в тебя, еще плотнее обвивая."
               ]
             },
             {
@@ -399,7 +399,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It begins to suck out the blood from your body."]
+              "parameters": [
+                "Ты чувствуешь, что они начали высасывать из тебя кровь."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 33, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
@@ -407,7 +409,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You remember reading about this in that plant book."
+                "Ты помнишь, как читала об этом в книге про растения."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
@@ -415,25 +417,25 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "How unfortunate of you to discover the Overcast Vamp-Vine in here of all places."
+                "Как неудачно обнаружить Сумеречную лозу-вампира именно здесь."
               ]
             },
             { "code": 111, "indent": 1, "parameters": [0, 34, 1] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["..."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Wait."] },
+            { "code": 401, "indent": 2, "parameters": ["Подожди."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Did you read that book?"]
+              "parameters": ["Ты действительно читала эту книгу?"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Or did another Lily read it?\\^"]
+              "parameters": ["Или это была другая Лили?\\^"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -444,19 +446,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You are now too weak to scream."]
+              "parameters": ["Ты слишком слаба, чтобы кричать."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Too weak to keep your eyes open."]
+              "parameters": ["Слишком слаба, чтобы держать глаза открытыми."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Too weak to continue."]
+              "parameters": ["Слишком слаба, чтобы продолжать."]
             },
             { "code": 230, "indent": 0, "parameters": [300] },
             {
