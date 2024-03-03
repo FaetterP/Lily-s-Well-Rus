@@ -234,7 +234,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You fell through the vent, putting too much weight on one of the covers."
+                "Вентиляционная крышка проломилась под твоим весом, и ты упала вниз."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [120] },
