@@ -291,22 +291,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "It feels like worms are wriggling under your skin."
-              ]
+              "parameters": ["Ощущение, будто под твоей кожей шевелятся черви."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've never seen this woman, but..."]
+              "parameters": ["Ты никогда раньше не видела эту женщину, но..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The portrait seems to represent someone you don't want to see."
+                "Кажется, на портрете изображен кто-то, кого ты не хочешь видеть."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -325,18 +323,20 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": ["And yet my flesh is a part of you."]
+              "parameters": ["И все же моя плоть - часть тебя."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\Shake\\c[2]QW5kIHlldCBteSBmbGVzaCBpcyBh"]
+              "parameters": [
+                "\\Shake\\c[2]0Jgg0LLRgdC1INC20LUg0LzQvtGPINC/0LvQvtGC0YwgLSA="
+              ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [" IHBhcnQgb2YgeW91Lg=="]
+              "parameters": [" 0YfQsNGB0YLRjCDRgtC10LHRjy4="]
             },
             {
               "code": 241,
@@ -354,51 +354,57 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "How selfish of Antonio to recreate the living before the Stardust Witch."
+                "Как эгоистично со стороны Антонио воссоздавать жизнь до ведьмы Звездной пыли."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\Shake\\c[2]SG93IHNlbGZpc2ggb2YgQW50b25 "]
+              "parameters": [
+                "\\Shake\\c[2]0JrQsNC6INGN0LPQvtC40YHRgtC40YfQvdC+INGB0L4g0YHRgtC+0YDQvtC90Ys= "
+              ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["pbyB0byByZWNyZWF0ZSB0aGUgbGl2 "]
+              "parameters": [
+                "INCQ0L3RgtC+0L3QuNC+INCy0L7RgdGB0L7Qt9C00LDQstCw0YLRjA== "
+              ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["aW5nIGJlZm9yZSB0aGUgU3RhcmR "]
+              "parameters": [
+                "INC20LjQt9C90Ywg0LTQviDQstC10LTRjNC80Ysg0JfQstC10LfQtNC90L7QuSA= "
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["1c3QgV2l0Y2gu "] },
+            { "code": 401, "indent": 0, "parameters": ["0L/Ri9C70Lgu "] },
             {
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('ERROR: UNAUTHORIZED SCENE CALL FROM ICannotDrown.exe DETECTED');"
+                "alert('ОШИБКА: ОБНАРУЖЕН НЕРАЗРЕШЁННЫЙ ВЫЗОВ СЦЕНЫ ИЗ ICannotDrown.exe');"
               ]
             },
             {
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('ERROR: UNAUTHORIZED FILES CREATED IN GAME FOLDER FROM OUTSIDE SOURCE');"
+                "alert('ОШИБКА: НЕРАЗРЕШЁННЫЕ ФАЙЛЫ В ПАПКЕ ИГРЫ ИЗ ВНЕШНЕГО ИСТОЧНИКА');"
               ]
             },
             {
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('DELETING FILES: Ume.chara, Synchronicity.chara, Fuku.chara');"
+                "alert('УДАЛЕНИЕ ФАЙЛОВ: Ume.chara, Synchronicity.chara, Fuku.chara');"
               ]
             },
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('DEBUG CALL: ACTIVATE ROPE ENDING 8');"]
+              "parameters": ["alert('КОМАНДА ОТЛАДКИ: ВКЛЮЧИТЬ КОНЦОВКУ 8');"]
             },
             {
               "code": 241,
@@ -570,22 +576,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "It feels like worms are wriggling under your skin."
-              ]
+              "parameters": ["Ощущение, будто под твоей кожей шевелятся черви."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've never seen this woman, but..."]
+              "parameters": ["Ты никогда раньше не видела эту женщину, но..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The portrait seems to represent someone you don't want to see."
+                "Кажется, на портрете изображен кто-то, кого ты не хочешь видеть."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -604,18 +608,20 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": ["And yet my flesh is a part of you."]
+              "parameters": ["И все же моя плоть - часть тебя."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\Shake\\c[2]QW5kIHlldCBteSBmbGVzaCBpcyBh"]
+              "parameters": [
+                "\\Shake\\c[2]0Jgg0LLRgdC1INC20LUg0LzQvtGPINC/0LvQvtGC0YwgLSA="
+              ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [" IHBhcnQgb2YgeW91Lg=="]
+              "parameters": [" 0YfQsNGB0YLRjCDRgtC10LHRjy4="]
             },
             {
               "code": 241,
@@ -633,51 +639,57 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "How selfish of Antonio to recreate the living before the Stardust Witch."
+                "Как эгоистично со стороны Антонио воссоздавать жизнь до ведьмы Звездной пыли."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\Shake\\c[2]SG93IHNlbGZpc2ggb2YgQW50b25 "]
+              "parameters": [
+                "\\Shake\\c[2]0JrQsNC6INGN0LPQvtC40YHRgtC40YfQvdC+INGB0L4g0YHRgtC+0YDQvtC90Ys= "
+              ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["pbyB0byByZWNyZWF0ZSB0aGUgbGl2 "]
+              "parameters": [
+                "INCQ0L3RgtC+0L3QuNC+INCy0L7RgdGB0L7Qt9C00LDQstCw0YLRjA== "
+              ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["aW5nIGJlZm9yZSB0aGUgU3RhcmR "]
+              "parameters": [
+                "INC20LjQt9C90Ywg0LTQviDQstC10LTRjNC80Ysg0JfQstC10LfQtNC90L7QuSA= "
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["1c3QgV2l0Y2gu "] },
+            { "code": 401, "indent": 0, "parameters": ["0L/Ri9C70Lgu "] },
             {
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('ERROR: UNAUTHORIZED SCENE CALL FROM ICannotDrown.exe DETECTED');"
+                "alert('ОШИБКА: ОБНАРУЖЕН НЕРАЗРЕШЁННЫЙ ВЫЗОВ СЦЕНЫ ИЗ ICannotDrown.exe');"
               ]
             },
             {
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('ERROR: UNAUTHORIZED FILES CREATED IN GAME FOLDER FROM OUTSIDE SOURCE');"
+                "alert('ОШИБКА: НЕРАЗРЕШЁННЫЕ ФАЙЛЫ В ПАПКЕ ИГРЫ ИЗ ВНЕШНЕГО ИСТОЧНИКА');"
               ]
             },
             {
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('DELETING FILES: Ume.chara, Synchronicity.chara, Fuku.chara');"
+                "alert('УДАЛЕНИЕ ФАЙЛОВ: Ume.chara, Synchronicity.chara, Fuku.chara');"
               ]
             },
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('DEBUG CALL: ACTIVATE ROPE ENDING 8');"]
+              "parameters": ["alert('КОМАНДА ОТЛАДКИ: ВКЛЮЧИТЬ КОНЦОВКУ 8');"]
             },
             {
               "code": 241,
