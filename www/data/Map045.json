@@ -234,15 +234,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You did it."] },
+            { "code": 401, "indent": 0, "parameters": ["Ты это сделала."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You made it to the bottom."]
+              "parameters": ["Ты добралась до дна."]
             },
             { "code": 111, "indent": 0, "parameters": [1, 21, 0, 0, 0] },
             {
@@ -361,7 +361,7 @@
               "parameters": [[-255, -255, -255, 0], 1, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh dear."] },
+            { "code": 401, "indent": 0, "parameters": ["О боже."] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 5, 7, 0, 2] },
             {
               "code": 231,
@@ -369,7 +369,7 @@
               "parameters": [1, "WellBottom1", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Nobody is here."] },
+            { "code": 401, "indent": 0, "parameters": ["Здесь никого."] },
             {
               "code": 231,
               "indent": 0,
@@ -400,7 +400,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your only company is bones, rotting meat, and maggots."
+                "Тебе здесь могут составить компанию только кости, гнилое мясо и личинки."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 69, 0] },
@@ -408,24 +408,26 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Good thing you have experience with maggots."]
+              "parameters": [
+                "Хорошо, что у тебя уже есть опыт общения с личинками."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh dear again."] },
+            { "code": 401, "indent": 0, "parameters": ["Снова о боже."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Someone cut the rope."]
+              "parameters": ["Кто-то отрезал верёвку."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's up to you now to decide what to do."]
+              "parameters": ["Теперь тебе нужно решить, что делать."]
             },
             { "code": 127, "indent": 0, "parameters": [1, 1, 0, 1, false] },
             { "code": 127, "indent": 0, "parameters": [2, 1, 0, 1, false] },
