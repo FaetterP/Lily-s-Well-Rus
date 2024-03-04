@@ -142,7 +142,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Someone cut your rope."]
+              "parameters": ["Кто-то отрезал верёвку."]
             },
             {
               "code": 223,
@@ -159,27 +159,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You try to stand, but your legs are broken."]
+              "parameters": ["Ты пытаешься встать на ноги, но они сломаны."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Standing out from the red covering your legs is the white of a bone breaching your skin."
+                "На фоне крови, которая стекает по твоим ногам, выделяется белая кость, пробившая кожу."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Augh... AUGH!!!"]
+              "parameters": ["\\n<Lily>\\c[5]Аааа... ААААЙ!!!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]AAAAAAAAAAAAAHHHHH!!!!"]
+              "parameters": ["\\n<Lily>\\c[5]АААААААААААААААААА!!!!"]
             },
             {
               "code": 241,
@@ -197,13 +197,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]HELP ME!!! SOMEONE HELP!!!"]
+              "parameters": [
+                "\\n<Лили>\\c[5]Помогите!!! КТО-НИБУДЬ, ПОМОГИТЕ!!!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]PLEASE!!! MY NAME IS LILY!!!"]
+              "parameters": ["\\n<Лили>\\c[5]ПОЖАЛУЙСТА!!! МЕНЯ ЗОВУТ ЛИЛИ!!!"]
             },
             {
               "code": 231,
@@ -216,19 +218,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Your cries for help echo throughout the well..."]
+              "parameters": [
+                "Твои крики о помощи эхом разносятся по всему колодцу..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Please... It hurts..."]
+              "parameters": ["\\n<Лили>\\c[5]Пожалуйста... Мне больно..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Papa... Please..."]
+              "parameters": ["\\n<Лили>\\c[5]Папа... Пожалуйста..."]
             },
             {
               "code": 232,
@@ -240,14 +244,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily>\\c[5]I'm sorry I was a bad girl... I'm sorry..."
+                "\\n<Лили>\\c[5]Прости, я была плохой девочкой... Прости меня..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]I wanna go home..."]
+              "parameters": ["\\n<Лили>\\c[5]Я хочу домой..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["..."] },
