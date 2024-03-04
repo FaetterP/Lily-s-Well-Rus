@@ -186,13 +186,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The fall has broken your leg."]
+              "parameters": ["При падении ты сломала ногу."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The pain is immense."]
+              "parameters": ["Боль невыносима."]
             },
             {
               "code": 223,
@@ -252,7 +252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sound of your fall has caused the residents of the room to awaken."
+                "Звук твоего падения заставил обитателей комнаты проснуться."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
