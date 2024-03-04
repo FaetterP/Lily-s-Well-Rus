@@ -266,21 +266,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The rope has come to an end."]
+              "parameters": ["Верёвка закончилась."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["But..."] },
+            { "code": 401, "indent": 0, "parameters": ["Но..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can see the bottom of the well."]
+              "parameters": ["Ты уже можешь видеть дно колодца."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can't see it very well, but you can see it."]
+              "parameters": ["Ты видишь его не очень хорошо, но тем не менее."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["..."] },
@@ -289,13 +289,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe you should go back up and find something to get a little further."
+                "Возможно, тебе стоит подняться наверх и найти что-то, что поможет спуститься чуть-чуть ниже."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You're so close."] },
+            { "code": 401, "indent": 0, "parameters": ["Ты так близка."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You're so\\^"] },
+            { "code": 401, "indent": 0, "parameters": ["Ты так\\^"] },
             {
               "code": 284,
               "indent": 0,
