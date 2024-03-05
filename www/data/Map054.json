@@ -179,9 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's a picture of a yellow circle on the wall."
-              ]
+              "parameters": ["На стене есть изображение желтого круга."]
             },
             {
               "code": 102,
@@ -199,14 +197,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Gold represents absolute perfection and the ultimate goal of all alchemists.\""
+                "Под фотографией находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -214,7 +206,15 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"While some alchemists desire to literally create gold, many have their own personal 'gold' that they pursue.\""
+                "\"Золото олицетворяет абсолютное совершенство и является главной целью всех алхимиков\"."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"Пока некоторые алхимики пытаются создать буквально золото, у многих есть своё личное 'золото', к которому они стремятся.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -223,7 +223,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -231,7 +231,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This isn't about rope anymore."]
+              "parameters": ["Речь о верёвке уже не идёт."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -482,7 +482,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The door is covered in caution tape and locked tight."
+                "Дверь заклеена предупредительной лентой и крепко заперта."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -541,7 +541,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Memorial Room\"."
+                "На металлической табличке рядом с дверью написано: \"Мемориальная комната\"."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -549,7 +549,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...You hear people talking behind the door. Best not to get caught."
+                "...Ты слышишь, как за дверью кто-то разговаривает. Лучше им не попадаться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -608,7 +608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Memorial Room\"."
+                "На металлической табличке рядом с дверью написано: \"Мемориальная комната\"."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -616,7 +616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...You hear people talking behind the door. Best not to get caught."
+                "...Ты слышишь, как за дверью кто-то разговаривает. Лучше им не попадаться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -675,7 +675,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Memorial Room\"."
+                "На металлической табличке рядом с дверью написано: \"Мемориальная комната\"."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -683,7 +683,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...You hear people talking behind the door. Best not to get caught."
+                "...Ты слышишь, как за дверью кто-то разговаривает. Лучше им не попадаться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -742,7 +742,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Archives\"."
+                "На металлической табличке рядом с дверью написано: \"Архивы\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -750,7 +750,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -773,7 +773,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
