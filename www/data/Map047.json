@@ -198,7 +198,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A metal door sits between you and the only exit to the well."
+                "Металлическая дверь отделяет тебя от единственного выхода из колодца."
               ]
             },
             {
@@ -217,9 +217,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "There's a dim light shining through the bars in the door."
-              ]
+              "parameters": ["Сквозь решётку двери проникает тусклый свет."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -228,19 +226,19 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You could try to take the bars off the door, but you'd need something to help you."
+                "Ты можешь попробовать снять прутья решётки, но для этого понадобится какой-нибудь инструмент."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You're in the well."] },
+            { "code": 401, "indent": 1, "parameters": ["Ты в колодце."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Your surroundings fill you with fear.\\!.. but not as much as how the familiarity brings a numbness to your bones."
+                "Из-за жуткой обстановки твоё сердце наполняется страхом.\\!.. но хуже то, что у тебя кровь стынет в жилах от этой знакомой атмосферы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -298,7 +296,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal bars of the door have been cut somehow, allowing you to reach for the knob on the other side."
+                "Металлические прутья срезаны, и ты можешь дотянуться до дверной ручки на другой стороне."
               ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 48, 6, 8, 8, 2] },
