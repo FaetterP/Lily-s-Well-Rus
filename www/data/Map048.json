@@ -179,21 +179,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This is the door to the stairs."]
+              "parameters": ["Дверь на лестницу."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There is an out of order sign with the door additionally being locked."
+                "Здесь табличка \"Не работает\", но дверь дополнительно заперта."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That is a fire hazard."]
+              "parameters": ["Это нарушение пожарной безопасности."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -250,7 +250,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You don't want to go back to the corpse pit."]
+              "parameters": ["Ты не хочешь возвращаться в яму с трупами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -595,7 +595,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The door is locked."] },
+            { "code": 401, "indent": 0, "parameters": ["Дверь заперта."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -702,7 +702,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Peeking through the reinforced window, you see the stairway."
+                "Заглянув в укрепленное окно, ты видишь лестницу."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -710,7 +710,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some kind of sludge is covering all of the steps."
+                "Ступеньки покрыты какой-то жидкой субстанцией."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -718,7 +718,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A singular wet floor sign floats near the window."
+                "Возле окна болтается одинокая табличка \"Мокрый пол\"."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -777,7 +777,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Peeking through the reinforced window, you see the stairway."
+                "Заглянув в укрепленное окно, ты видишь лестницу."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -785,7 +785,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some kind of sludge is covering all of the steps."
+                "Ступеньки покрыты какой-то жидкой субстанцией."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -793,7 +793,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A singular wet floor sign floats near the window."
+                "Возле окна болтается одинокая табличка \"Мокрый пол\"."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -946,7 +946,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The call button doesn't seem to work without some kind of card."
+                "Похоже, кнопка вызова не работает без какой-то карточки."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
