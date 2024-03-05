@@ -691,7 +691,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a man sleeping on the couch."]
+              "parameters": ["На диване спит мужчина."]
             },
             {
               "code": 102,
@@ -710,14 +710,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The man has a light dusting of cheese powder on his fingers and beard."
+                "Пальцы и борода мужчины покрыты слабо заметным слоем сырного порошка."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["His nametag reads \"Freddy Fungus\"."]
+              "parameters": ["На его бейджике написано \"Фредди Гриб\"."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -726,7 +726,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There might be something in his pockets, but you don't want to risk waking him up."
+                "Возможно, у него есть что-то в карманах, но ты боишься разбудить его."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -736,7 +736,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You are in a strange place. You don't know who to trust."
+                "Ты не знаешь, где находишься. Ты не знаешь. кому можно доверять."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -793,7 +793,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A bleeding corpse is on the couch."]
+              "parameters": ["На диване лежит истекающий кровью труп."]
             },
             {
               "code": 102,
@@ -808,7 +808,7 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You did this."] },
+            { "code": 401, "indent": 1, "parameters": ["Это сделала ты."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 111, "indent": 1, "parameters": [10, 4, false] },
@@ -816,13 +816,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You already took everything you may have needed."]
+              "parameters": ["Ты забрала всё, что тебе может пригодиться."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["But was it worth it?"]
+              "parameters": ["Но стоило ли оно того?"]
             },
             { "code": 115, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -832,11 +832,11 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Going through the corpse's pockets, you find an ID card reading \"Master ID\"."
+                "В кармане трупа ты нашла пластиковую карточку с надписью \"Директорская ID-карта\"."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            { "code": 401, "indent": 2, "parameters": ["Забрать?"] },
             {
               "code": 102,
               "indent": 2,
@@ -848,7 +848,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+              "parameters": ["Получена \\c[2]Директорская ID-карта\\c[0]."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -857,7 +857,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You've dirtied your hands for nothing."]
+              "parameters": ["Ты зря испачкала себе руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -867,7 +867,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You're a murderer."] },
+            { "code": 401, "indent": 1, "parameters": ["Ты убийца."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
@@ -922,7 +922,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The couch has a red stain on it."]
+              "parameters": ["На диване красное пятно."]
             },
             {
               "code": 102,
@@ -941,7 +941,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like someone tried to scrub out the stain before giving up."
+                "Кажется, кто-то пытался оттереть пятно, прежде чем сдаться."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -949,7 +949,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "They clearly didn't try the asprin or lemon juice method."
+                "Надо было попробовать использовать аспирин или лимонный сок."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -959,7 +959,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As impressive as it would be to take the couch, you can't."
+                "Было бы впечатляюще, но диван ты взять не сможешь."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -967,7 +967,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh wait, did you want to check in the cushions or underneath it?"
+                "О, подожди, может, ты хотела посмотреть под ним или внутри подушек?"
               ]
             },
             { "code": 111, "indent": 1, "parameters": [10, 4, false] },
@@ -975,7 +975,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Unfortunately there's nothing there."]
+              "parameters": ["К сожалению, там ничего нет."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -983,10 +983,10 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Well... There's an ID card here."]
+              "parameters": ["Что же... Здесь есть ID-карта."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            { "code": 401, "indent": 2, "parameters": ["Забрать?"] },
             {
               "code": 102,
               "indent": 2,
@@ -998,7 +998,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+              "parameters": ["Получена \\c[2]Директорская ID-карта\\c[0]."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1007,7 +1007,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You've still dirtied your hands for nothing."]
+              "parameters": ["Ты все равно зря запачкала свои руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1021,7 +1021,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Looking at this couch makes you tremble for some reason."
+                "Почему-то вид этого дивана вызывает у тебя дрожь по всему телу."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1087,7 +1087,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a man sleeping on the couch."]
+              "parameters": ["На диване спит мужчина."]
             },
             {
               "code": 102,
@@ -1106,14 +1106,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The man has a light dusting of cheese powder on his fingers and beard."
+                "Пальцы и борода мужчины покрыты слабо заметным слоем сырного порошка."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["His nametag reads \"Freddy Fungus\"."]
+              "parameters": ["На его бейджике написано \"Фредди Гриб\"."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1122,7 +1122,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There might be something in his pockets, but you don't want to risk waking him up."
+                "Возможно, у него есть что-то в карманах, но ты боишься разбудить его."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1132,7 +1132,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You are in a strange place. You don't know who to trust."
+                "Ты не знаешь, где находишься. Ты не знаешь. кому можно доверять."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1189,7 +1189,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A bleeding corpse is on the couch."]
+              "parameters": ["На диване лежит истекающий кровью труп."]
             },
             {
               "code": 102,
@@ -1204,7 +1204,7 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You did this."] },
+            { "code": 401, "indent": 1, "parameters": ["Это сделала ты."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 111, "indent": 1, "parameters": [10, 4, false] },
@@ -1212,13 +1212,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You already took everything you may have needed."]
+              "parameters": ["Ты забрала всё, что тебе может пригодиться."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["But was it worth it?"]
+              "parameters": ["Но стоило ли оно того?"]
             },
             { "code": 115, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1228,11 +1228,11 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Going through the corpse's pockets, you find an ID card reading \"Master ID\"."
+                "В кармане трупа ты нашла пластиковую карточку с надписью \"Директорская ID-карта\"."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            { "code": 401, "indent": 2, "parameters": ["Забрать?"] },
             {
               "code": 102,
               "indent": 2,
@@ -1244,7 +1244,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+              "parameters": ["Получена \\c[2]Директорская ID-карта\\c[0]."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1253,7 +1253,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You've dirtied your hands for nothing."]
+              "parameters": ["Ты зря испачкала себе руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1263,7 +1263,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You're a murderer."] },
+            { "code": 401, "indent": 1, "parameters": ["Ты убийца."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
@@ -1318,7 +1318,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The couch has a red stain on it."]
+              "parameters": ["На диване красное пятно."]
             },
             {
               "code": 102,
@@ -1337,7 +1337,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like someone tried to scrub out the stain before giving up."
+                "Кажется, кто-то пытался оттереть пятно, прежде чем сдаться."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1345,7 +1345,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "They clearly didn't try the asprin or lemon juice method."
+                "Надо было попробовать использовать аспирин или лимонный сок."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1355,7 +1355,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As impressive as it would be to take the couch, you can't."
+                "Было бы впечатляюще, но диван ты взять не сможешь."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1363,7 +1363,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh wait, did you want to check in the cushions or underneath it?"
+                "О, подожди, может, ты хотела посмотреть под ним или внутри подушек?"
               ]
             },
             { "code": 111, "indent": 1, "parameters": [10, 4, false] },
@@ -1371,7 +1371,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Unfortunately there's nothing there."]
+              "parameters": ["К сожалению, там ничего нет."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -1379,10 +1379,10 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Well... There's an ID card here."]
+              "parameters": ["Что же... Здесь есть ID-карта."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            { "code": 401, "indent": 2, "parameters": ["Забрать?"] },
             {
               "code": 102,
               "indent": 2,
@@ -1394,7 +1394,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+              "parameters": ["Получена \\c[2]Директорская ID-карта\\c[0]."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1403,7 +1403,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You've still dirtied your hands for nothing."]
+              "parameters": ["Ты все равно зря запачкала свои руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1417,7 +1417,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Looking at this couch makes you tremble for some reason."
+                "Почему-то вид этого дивана вызывает у тебя дрожь по всему телу."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1483,7 +1483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a man sleeping on the couch."]
+              "parameters": ["На диване спит мужчина."]
             },
             {
               "code": 102,
@@ -1502,14 +1502,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The man has a light dusting of cheese powder on his fingers and beard."
+                "Пальцы и борода мужчины покрыты слабо заметным слоем сырного порошка."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["His nametag reads \"Freddy Fungus\"."]
+              "parameters": ["На его бейджике написано \"Фредди Гриб\"."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1518,7 +1518,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There might be something in his pockets, but you don't want to risk waking him up."
+                "Возможно, у него есть что-то в карманах, но ты боишься разбудить его."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1528,7 +1528,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You are in a strange place. You don't know who to trust."
+                "Ты не знаешь, где находишься. Ты не знаешь. кому можно доверять."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1585,7 +1585,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A bleeding corpse is on the couch."]
+              "parameters": ["На диване лежит истекающий кровью труп."]
             },
             {
               "code": 102,
@@ -1600,7 +1600,7 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You did this."] },
+            { "code": 401, "indent": 1, "parameters": ["Это сделала ты."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 111, "indent": 1, "parameters": [10, 4, false] },
@@ -1608,13 +1608,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You already took everything you may have needed."]
+              "parameters": ["Ты забрала всё, что тебе может пригодиться."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["But was it worth it?"]
+              "parameters": ["Но стоило ли оно того?"]
             },
             { "code": 115, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1624,11 +1624,11 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Going through the corpse's pockets, you find an ID card reading \"Master ID\"."
+                "В кармане трупа ты нашла пластиковую карточку с надписью \"Директорская ID-карта\"."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            { "code": 401, "indent": 2, "parameters": ["Забрать?"] },
             {
               "code": 102,
               "indent": 2,
@@ -1640,7 +1640,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+              "parameters": ["Получена \\c[2]Директорская ID-карта\\c[0]."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1649,7 +1649,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You've dirtied your hands for nothing."]
+              "parameters": ["Ты зря испачкала себе руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1659,7 +1659,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["You're a murderer."] },
+            { "code": 401, "indent": 1, "parameters": ["Ты убийца."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
             { "code": 104, "indent": 1, "parameters": [24, 1] },
@@ -1714,7 +1714,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The couch has a red stain on it."]
+              "parameters": ["На диване красное пятно."]
             },
             {
               "code": 102,
@@ -1733,7 +1733,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like someone tried to scrub out the stain before giving up."
+                "Кажется, кто-то пытался оттереть пятно, прежде чем сдаться."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1741,7 +1741,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "They clearly didn't try the asprin or lemon juice method."
+                "Надо было попробовать использовать аспирин или лимонный сок."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1751,7 +1751,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As impressive as it would be to take the couch, you can't."
+                "Было бы впечатляюще, но диван ты взять не сможешь."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1759,7 +1759,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh wait, did you want to check in the cushions or underneath it?"
+                "О, подожди, может, ты хотела посмотреть под ним или внутри подушек?"
               ]
             },
             { "code": 111, "indent": 1, "parameters": [10, 4, false] },
@@ -1767,7 +1767,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Unfortunately there's nothing there."]
+              "parameters": ["К сожалению, там ничего нет."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -1775,10 +1775,10 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Well... There's an ID card here."]
+              "parameters": ["Что же... Здесь есть ID-карта."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Take it?"] },
+            { "code": 401, "indent": 2, "parameters": ["Забрать?"] },
             {
               "code": 102,
               "indent": 2,
@@ -1790,7 +1790,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You got the \\c[2]Master ID Card\\c[0]."]
+              "parameters": ["Получена \\c[2]Директорская ID-карта\\c[0]."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1799,7 +1799,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You've still dirtied your hands for nothing."]
+              "parameters": ["Ты все равно зря запачкала свои руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1813,7 +1813,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Looking at this couch makes you tremble for some reason."
+                "Почему-то вид этого дивана вызывает у тебя дрожь по всему телу."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
