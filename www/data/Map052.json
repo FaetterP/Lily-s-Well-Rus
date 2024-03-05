@@ -238,7 +238,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's an id card on the desk."]
+              "parameters": ["На столе лежит ID-карта."]
             },
             {
               "code": 102,
@@ -256,14 +256,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The id card has a familiar face on it."]
+              "parameters": ["На карточке изображено знакомое лицо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Take the id card?"] },
+            { "code": 401, "indent": 1, "parameters": ["Забрать ID-карту?"] },
             {
               "code": 102,
               "indent": 1,
@@ -283,7 +283,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took the \\c[4]id card\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]ID-карту\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -295,13 +295,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You wish you were back in bed."]
+              "parameters": ["Ты хочешь вернуться в кровать."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You wish you were warm and safe."]
+              "parameters": ["Ты хочешь вернуться к теплу и безопасности."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -460,7 +460,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's an inflatable plastic chair here."]
+              "parameters": ["Надувное кресло."]
             },
             {
               "code": 102,
@@ -479,7 +479,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You always wanted a chair like this ever since you saw it in a Christmas toy magazine."
+                "Ты хотела такое кресло с тех пор, как увидела его в рождественском журнале с игрушками."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -487,16 +487,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actually, you have a secret desire to have an entire house only containing brightly colored inflatable plastic furniture."
+                "На самом деле, у тебя есть тайное желание иметь целый дом, в котором была бы только яркая надувная мебель."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Except the bed."] },
+            { "code": 401, "indent": 1, "parameters": ["Кроме кровати."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You want a water bed."]
+              "parameters": ["Ты хочешь водяную кровать."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -505,7 +505,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As much as you want it, it probably couldn't fit through the doorway."
+                "Как бы ты ни хотела этого, скорее всего, стул не пролезет в дверь."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -514,7 +514,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This room smells familiar."]
+              "parameters": ["В комнате пахнет знакомо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -579,7 +579,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's an inflatable plastic couch here."]
+              "parameters": ["Надувное кресло."]
             },
             {
               "code": 102,
@@ -598,7 +598,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You always wanted a couch like this ever since you saw it in a Christmas toy magazine."
+                "Ты хотела такое кресло с тех пор, как увидела его в рождественском журнале с игрушками."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -606,16 +606,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actually, you have a secret desire to have an entire house only containing brightly colored inflatable plastic furniture."
+                "На самом деле, у тебя есть тайное желание иметь целый дом, в котором была бы только яркая надувная мебель."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Except the bed."] },
+            { "code": 401, "indent": 1, "parameters": ["Кроме кровати."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You want a water bed."]
+              "parameters": ["Ты хочешь водяную кровать."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -624,7 +624,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As much as you want it, it probably couldn't fit through the doorway."
+                "Как бы ты ни хотела этого, скорее всего, стул не пролезет в дверь."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -633,7 +633,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This room smells familiar."]
+              "parameters": ["В комнате пахнет знакомо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -698,7 +698,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's an inflatable plastic couch here."]
+              "parameters": ["Надувное кресло."]
             },
             {
               "code": 102,
@@ -717,7 +717,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You always wanted a couch like this ever since you saw it in a Christmas toy magazine."
+                "Ты хотела такое кресло с тех пор, как увидела его в рождественском журнале с игрушками."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -725,16 +725,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actually, you have a secret desire to have an entire house only containing brightly colored inflatable plastic furniture."
+                "На самом деле, у тебя есть тайное желание иметь целый дом, в котором была бы только яркая надувная мебель."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Except the bed."] },
+            { "code": 401, "indent": 1, "parameters": ["Кроме кровати."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You want a water bed."]
+              "parameters": ["Ты хочешь водяную кровать."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -743,7 +743,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As much as you want it, it probably couldn't fit through the doorway."
+                "Как бы ты ни хотела этого, скорее всего, стул не пролезет в дверь."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -752,7 +752,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This room smells familiar."]
+              "parameters": ["В комнате пахнет знакомо."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -817,7 +817,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a computer here."]
+              "parameters": ["Компьютер."]
             },
             {
               "code": 102,
@@ -835,15 +835,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "An infinite maze is running on the screen as a screensaver."
-              ]
+              "parameters": ["На заставке стоит бесконечный лабиринт."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's absolutely mesmerizing to watch."]
+              "parameters": ["От него невозможно оторвать глаз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -852,7 +850,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The computer is heavy. Too heavy and too many parts."
+                "Компьютер тяжёлый. Слишком тяжёлый, а ещё с кучей деталей."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -862,7 +860,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You've never used a computer before, but you have the strange urge to play games."
+                "Ты никогда раньше не пользовалась компьютером, но у тебя появляется странное желание поиграть в видеоигры."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -870,7 +868,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Why are you thinking about trying to feed a talking fish to an eel? You sure think strange thoughts."
+                "Почему ты думаешь о том, чтобы скормить говорящую рыбу угрю? У тебя странные мысли."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -936,7 +934,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The shelf is lines with binders and folders."]
+              "parameters": ["Полка уставлена папками."]
             },
             {
               "code": 102,
@@ -955,7 +953,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You see \"GID Project Documentation\", \"Recorded Nymph Project Documentation\", and \"Advanced Cell Growth Photos\" among the files."
+                "Среди прочего ты видишь \"Документация проекта ПРП\", \"Документация проекта Нимфа\" и \"Фотографии усиленного роста клеток\"."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -965,7 +963,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You would take some if the idea of reading something that looked that boring ever invaded your skull."
+                "Ты бы взяла отсюда что-нибудь, если бы твою голову однажды посетила мысль почитать что-то настолько скучное."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1035,7 +1033,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The shelf is lined with binders and folders."]
+              "parameters": ["Полка уставлена папками."]
             },
             {
               "code": 102,
@@ -1054,7 +1052,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You see \"Children of Stardust Studies\", \"Azoth Formation Documentation\", and \"Notable Student Projects\" among the files."
+                "Среди прочего ты видишь \"Учение о детях звёздной пыли\", \"Документация образования азота\" и \"Примечательные работы студентов\"."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1064,7 +1062,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You would take some if the idea of reading something that looked that boring ever invaded your skull."
+                "Ты бы взяла отсюда что-нибудь, если бы твою голову однажды посетила мысль почитать что-то настолько скучное."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
