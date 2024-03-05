@@ -1147,7 +1147,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1156,7 +1156,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[2]red\\c[0] button?"]
+              "parameters": ["Нажать \\c[2]красную\\c[0] кнопку?"]
             },
             {
               "code": 102,
@@ -1233,7 +1233,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже.."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1319,7 +1319,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже.."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1328,7 +1328,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[3]green\\c[0] button?"]
+              "parameters": ["Нажать \\c[3]зелёную\\c[0] кнопку?"]
             },
             {
               "code": 102,
@@ -1405,7 +1405,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже.."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1414,7 +1414,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[5]pink\\c[0] button?"]
+              "parameters": ["Нажать \\c[5]розовую\\c[0] кнопку?"]
             },
             {
               "code": 102,
@@ -1491,7 +1491,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже.."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1500,7 +1500,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[6]yellow\\c[0] button?"]
+              "parameters": ["Нажать \\c[6]жёлтую\\c[0] кнопку?"]
             },
             {
               "code": 102,
@@ -1577,7 +1577,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже.."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1586,7 +1586,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[4]cyan\\c[0] button?"]
+              "parameters": ["Нажать \\c[4]бирюзовую\\c[0] кнопку?"]
             },
             {
               "code": 102,
@@ -1663,7 +1663,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're already on this floor."]
+              "parameters": ["Ты уже на этом этаже.."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1672,7 +1672,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[2]dark red\\c[0] button?"]
+              "parameters": ["Нажать \\c[2]тёмно-красную\\c[0] кнопку?"]
             },
             {
               "code": 102,
