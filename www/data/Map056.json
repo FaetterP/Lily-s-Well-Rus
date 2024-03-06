@@ -179,7 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a picture of a red arrow on the wall."]
+              "parameters": ["На стене изображение красной стрелки."]
             },
             {
               "code": 102,
@@ -197,14 +197,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Brimstone/Sulfur represents heat, dryness, and the human soul.\""
+                "Под картиной находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -212,7 +206,15 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"In certain religions, it is stated that hell smells of sulfur. Alchemic research has dictated that this may be due to amount of probable souls residing in hell's fires.\""
+                "\"Сера олицетворяет жар, сухость и человеческую душу.\""
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"В некоторых религиях утверждается, что в аду пахнет серой. Алхимические исследования пришли к тому, что причиной этого может быть количество душ, обитающих в адском огне\"."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -221,7 +223,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -229,7 +231,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're cold, wet, and hungry."]
+              "parameters": ["Тебе холодно, мокро, и ты хочешь есть."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -476,7 +478,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Scrapped Project Repository\"."
+                "На металлической табличке рядом с дверью написано: \"Хранилище отменённых проектов\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -484,7 +486,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -507,7 +509,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -566,7 +568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Scrapped Project Repository\"."
+                "На металлической табличке рядом с дверью написано: \"Хранилище отменённых проектов\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -574,7 +576,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -597,7 +599,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -655,7 +657,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a picture of a red arrow on the wall."]
+              "parameters": ["На стене изображение красной стрелки."]
             },
             {
               "code": 102,
@@ -673,14 +675,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Brimstone/Sulfur represents heat, dryness, and the human soul.\""
+                "Под картиной находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -688,7 +684,15 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"In certain religions, it is stated that hell smells of sulfur. Alchemic research has dictated that this may be due to amount of probable souls residing in hell's fires.\""
+                "\"Сера олицетворяет жар, сухость и человеческую душу.\""
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"В некоторых религиях утверждается, что в аду пахнет серой. Алхимические исследования пришли к тому, что причиной этого может быть количество душ, обитающих в адском огне\"."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -697,7 +701,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -705,7 +709,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're cold, wet, and hungry."]
+              "parameters": ["Тебе холодно, мокро, и ты хочешь есть."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -767,7 +771,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Recycle Room\"."
+                "На металлической табличке рядом с дверью написано: \"Комната переработки\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -775,7 +779,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -811,7 +815,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -870,7 +874,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Incinerator\"."
+                "На металлической табличке рядом с дверью написано: \"Мусоросжигатель\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -878,7 +882,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -901,7 +905,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
