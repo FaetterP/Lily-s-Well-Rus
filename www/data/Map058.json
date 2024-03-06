@@ -179,7 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a picture of a red triangle on the wall."]
+              "parameters": ["На стене изображение красного треугольника."]
             },
             {
               "code": 102,
@@ -197,14 +197,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Fire is love, rage, passion, and hatred all in one form.\""
+                "Под картиной находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -212,7 +206,15 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"These are all key factors in a human soul, not just masculine ones.\""
+                "\"Огонь - любовь, ярость, страсть и гнев в одной сущности.\""
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"Это ключевые качества любой человеческой души, а не только мужской.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -221,7 +223,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -229,9 +231,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You want to wake up, but there's nothing to wake up from."
-              ]
+              "parameters": ["Ты хочешь проснуться, но ты не спишь."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -481,9 +481,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's a picture of a green triangle on the wall."
-              ]
+              "parameters": ["На стене изображение зелёного треугольника."]
             },
             {
               "code": 102,
@@ -501,14 +499,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Earth is touch, movement, and physicality of the body.\""
+                "Под картиной находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -516,7 +508,15 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"A soul must connect to these things in a body in order to claim it as its own.\""
+                "\"Земля - это прикосновение, движение и физический аспект тела.\""
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"Душа должна соединиться с этими вещами в теле, чтобы заявить на них права как на свои собственные.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -525,7 +525,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -533,9 +533,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You want to wake up, but there's nothing to wake up from."
-              ]
+              "parameters": ["Ты хочешь проснуться, но ты не спишь."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -598,9 +596,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's a picture of a blue triangle on the wall."
-              ]
+              "parameters": ["На стене изображение синего треугольника."]
             },
             {
               "code": 102,
@@ -618,22 +614,22 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Water is blood, mercury, and the origin of life.\""
+                "Под картиной находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
+              "parameters": ["\"Вода - кровь, ртуть и источник жизни.\""]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
               "parameters": [
-                "\"In order for a body to operate life and soul, it must contain water.\""
+                "\"Чтобы тело могло контролировать жизнь и душу внутри себя, оно должно содержать воду.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -642,7 +638,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -650,7 +646,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your socks are soaked through. It is miserable."]
+              "parameters": [
+                "Твои носки промокли насквозь. Ощущается отвратительно."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -715,9 +713,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's a picture of a white triangle on the wall."
-              ]
+              "parameters": ["На стене изображение белого треугольника."]
             },
             {
               "code": 102,
@@ -735,20 +731,22 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
+              "parameters": [
+                "Под картиной находится небольшая табличка. На ней написано:"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Air is both heat and wet. Blood and soul.\""]
+              "parameters": ["\"Воздух - и жар, и сырость. Кровь и душа.\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Souls move like air when not contained within a body.\""
+                "\"Когда души не находятся в теле, они передвигаются, как воздух.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -757,7 +755,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -765,7 +763,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your socks are soaked through. It is miserable."]
+              "parameters": [
+                "Твои носки промокли насквозь. Ощущается отвратительно."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -832,14 +832,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The metal plaque next to the door reads \"Nymph Project Body Test Room\"."
+                "На металлической табличке рядом с дверью написано \"Тестовая комната тела проекта Нимфа\"."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the ID Card to enter?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -866,11 +866,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The metal plaque next to the door reads \"Nymph Project Body Test Room\"."
+                "На металлической табличке рядом с дверью написано \"Тестовая комната тела проекта Нимфа\"."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -947,7 +947,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bright sign reads \"IN-USE\" next to the door. Best to stay hidden for now."
+                "Рядом с дверью яркая табличка, на которой написано: \"ЗАНЯТО\". Сейчас лучше никому не показываться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1024,7 +1024,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bright sign reads \"IN-USE\" next to the door. Best to stay hidden for now."
+                "Рядом с дверью яркая табличка, на которой написано: \"ЗАНЯТО\". Сейчас лучше никому не показываться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1101,7 +1101,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bright sign reads \"IN-USE\" next to the door. Best to stay hidden for now."
+                "Рядом с дверью яркая табличка, на которой написано: \"ЗАНЯТО\". Сейчас лучше никому не показываться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1178,7 +1178,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bright sign reads \"IN-USE\" next to the door. Best to stay hidden for now."
+                "Рядом с дверью яркая табличка, на которой написано: \"ЗАНЯТО\". Сейчас лучше никому не показываться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1255,7 +1255,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bright sign reads \"IN-USE\" next to the door. Best to stay hidden for now."
+                "Рядом с дверью яркая табличка, на которой написано: \"ЗАНЯТО\". Сейчас лучше никому не показываться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1332,7 +1332,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bright sign reads \"IN-USE\" next to the door. Best to stay hidden for now."
+                "Рядом с дверью яркая табличка, на которой написано: \"ЗАНЯТО\". Сейчас лучше никому не показываться."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
