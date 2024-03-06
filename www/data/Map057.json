@@ -179,7 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -197,19 +197,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -459,7 +459,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -477,19 +477,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -554,7 +554,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -572,19 +572,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -649,7 +649,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -667,19 +667,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -744,7 +744,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -762,19 +762,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -839,7 +839,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -857,19 +857,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -934,7 +934,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A large window peers out..."]
+              "parameters": ["Большое окно смотрит наружу..."]
             },
             {
               "code": 102,
@@ -952,19 +952,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the inside of the well."]
+              "parameters": ["Это внутренняя стена колодца."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your tears are making your cheeks sting."]
+              "parameters": ["Твои щёки горят от слёз."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -1029,7 +1029,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The floor is covered in wet hair."]
+              "parameters": ["Пол покрыт мокрыми волосами."]
             },
             {
               "code": 102,
@@ -1047,25 +1047,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Deeper down the hall is a thick liquid. "]
+              "parameters": ["Дальше по коридору разлита густая жидкость."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the same as in the garden."]
+              "parameters": ["Такая же, как в саду."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Not again."] },
+            { "code": 401, "indent": 1, "parameters": ["Только не снова."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Dry heaving is becoming normal for you now."]
+              "parameters": ["Тошнота становится для тебя привычным ощущением."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -1126,7 +1126,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The floor is covered in wet hair."]
+              "parameters": ["Пол покрыт мокрыми волосами."]
             },
             {
               "code": 102,
@@ -1144,25 +1144,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Deeper down the hall is a thick liquid. "]
+              "parameters": ["Дальше по коридору разлита густая жидкость."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the same as in the garden."]
+              "parameters": ["Такая же, как в саду."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Not again."] },
+            { "code": 401, "indent": 1, "parameters": ["Только не снова."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Dry heaving is becoming normal for you now."]
+              "parameters": ["Тошнота становится для тебя привычным ощущением."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -1223,7 +1223,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The floor is covered in wet hair."]
+              "parameters": ["Пол покрыт мокрыми волосами."]
             },
             {
               "code": 102,
@@ -1241,25 +1241,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Deeper down the hall is a thick liquid. "]
+              "parameters": ["Дальше по коридору разлита густая жидкость."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the same as in the garden."]
+              "parameters": ["Такая же, как в саду."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Not again."] },
+            { "code": 401, "indent": 1, "parameters": ["Только не снова."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Dry heaving is becoming normal for you now."]
+              "parameters": ["Тошнота становится для тебя привычным ощущением."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
@@ -1320,7 +1320,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The floor is covered in wet hair."]
+              "parameters": ["Пол покрыт мокрыми волосами."]
             },
             {
               "code": 102,
@@ -1338,25 +1338,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Deeper down the hall is a thick liquid. "]
+              "parameters": ["Дальше по коридору разлита густая жидкость."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's the same as in the garden."]
+              "parameters": ["Такая же, как в саду."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Not again."] },
+            { "code": 401, "indent": 1, "parameters": ["Только не снова."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Dry heaving is becoming normal for you now."]
+              "parameters": ["Тошнота становится для тебя привычным ощущением."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
