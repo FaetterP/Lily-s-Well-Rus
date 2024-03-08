@@ -179,7 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a picture of a green arrow on the wall."]
+              "parameters": ["На стене изображение зелёной стрелки."]
             },
             {
               "code": 102,
@@ -197,14 +197,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A little plaque is below the picture. It reads:"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "\"Phosphorus is a special elements with the ability to capture light itself.\""
+                "Под картиной находится небольшая табличка. На ней написано:"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -212,7 +206,15 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Because of its features, it can be used as a base for a new soul.\""
+                "\"Фосфор - это особый элемент, обладающий способностью захватывать свет.\""
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"Из-за своих особенностей фосфор может быть использован в качестве основы для новой души.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -221,7 +223,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The picture is welded to the wall."]
+              "parameters": ["Картина приварена к стене."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -229,7 +231,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You feel as if you're being watched."]
+              "parameters": ["Тебе кажется, что за тобой кто-то наблюдает."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -480,7 +482,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Dark Room\"."
+                "На металлической табличке рядом с дверью написано \"Тёмная комната\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -488,7 +490,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -511,7 +513,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -570,7 +572,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Surgical Lab\"."
+                "На металлической табличке рядом с дверью написано \"Хирургическая лаборатория\"."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -578,7 +580,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A light shines from the red bulb above the door, signifying a surgery is in-progress."
+                "Над дверью горит красная лампочка, указывая на то, что сейчас идёт операция."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -767,7 +769,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Barrel Storage\"."
+                "На металлической табличке рядом с дверью написано \"Хранилище бочек\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -775,7 +777,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -798,7 +800,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -857,7 +859,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Barrel Storage\"."
+                "На металлической табличке рядом с дверью написано \"Хранилище бочек\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -865,7 +867,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -888,7 +890,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -947,7 +949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The metal plaque next to the door reads \"Barrel Storage\"."
+                "На металлической табличке рядом с дверью написано \"Хранилище бочек\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [10, 4, false] },
@@ -955,7 +957,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Use the Master ID to get in?"]
+              "parameters": ["Использовать ID-карту, чтобы пройти?"]
             },
             {
               "code": 102,
@@ -978,7 +980,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It's locked."] },
+            { "code": 401, "indent": 1, "parameters": ["...Закрыто."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
