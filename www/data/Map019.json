@@ -919,7 +919,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A net protects a group of small underwater plants,"
+                "Сеть, которая защищает группу небольших подводных растений."
               ]
             },
             {
@@ -938,7 +938,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is made of thick fishing wire."]
+              "parameters": ["Сеть сделана из толстой рыболовной проволоки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -946,14 +946,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is held down by spikes."]
+              "parameters": ["Сеть удерживают острые шипы."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Pulling at it causes small cuts to form in your damp palms."
+                "Если потянуть за них, на твоих влажных ладошках появятся порезы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1095,7 +1095,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A net protects a group of small underwater plants,"
+                "Сеть, которая защищает группу небольших подводных растений."
               ]
             },
             {
@@ -1114,7 +1114,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is made of thick fishing wire."]
+              "parameters": ["Сеть сделана из толстой рыболовной проволоки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1122,14 +1122,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is held down by spikes."]
+              "parameters": ["Сеть удерживают острые шипы."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Pulling at it causes small cuts to form in your damp palms."
+                "Если потянуть за них, на твоих влажных ладошках появятся порезы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1271,7 +1271,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A net protects a group of small underwater plants,"
+                "Сеть, которая защищает группу небольших подводных растений."
               ]
             },
             {
@@ -1290,7 +1290,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is made of thick fishing wire."]
+              "parameters": ["Сеть сделана из толстой рыболовной проволоки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1298,14 +1298,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is held down by spikes."]
+              "parameters": ["Сеть удерживают острые шипы."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Pulling at it causes small cuts to form in your damp palms."
+                "Если потянуть за них, на твоих влажных ладошках появятся порезы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1447,7 +1447,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A net protects a group of small underwater plants,"
+                "Сеть, которая защищает группу небольших подводных растений."
               ]
             },
             {
@@ -1466,7 +1466,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is made of thick fishing wire."]
+              "parameters": ["Сеть сделана из толстой рыболовной проволоки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1474,14 +1474,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is held down by spikes."]
+              "parameters": ["Сеть удерживают острые шипы."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Pulling at it causes small cuts to form in your damp palms."
+                "Если потянуть за них, на твоих влажных ладошках появятся порезы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1623,7 +1623,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A net protects a group of small underwater plants,"
+                "Сеть, которая защищает группу небольших подводных растений."
               ]
             },
             {
@@ -1642,7 +1642,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is made of thick fishing wire."]
+              "parameters": ["Сеть сделана из толстой рыболовной проволоки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1650,14 +1650,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is held down by spikes."]
+              "parameters": ["Сеть удерживают острые шипы."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Pulling at it causes small cuts to form in your damp palms."
+                "Если потянуть за них, на твоих влажных ладошках появятся порезы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1799,7 +1799,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A net protects a group of small underwater plants,"
+                "Сеть, которая защищает группу небольших подводных растений."
               ]
             },
             {
@@ -1818,7 +1818,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is made of thick fishing wire."]
+              "parameters": ["Сеть сделана из толстой рыболовной проволоки."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1826,14 +1826,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The net is held down by spikes."]
+              "parameters": ["Сеть удерживают острые шипы."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Pulling at it causes small cuts to form in your damp palms."
+                "Если потянуть за них, на твоих влажных ладошках появятся порезы."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
