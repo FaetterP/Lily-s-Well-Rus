@@ -337,9 +337,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's a knife with a strange blade hanging on the wall."
-              ]
+              "parameters": ["На стене висит нож со странным лезвием."]
             },
             {
               "code": 102,
@@ -358,7 +356,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The knife has a wavy blade and an oily liquid on it."
+                "У ножа волнистое лезвие и на нем маслянистая жидкость."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -367,10 +365,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This doesn't belong to you."]
+              "parameters": ["Он тебе не принадлежит."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Take the knife?"] },
+            { "code": 401, "indent": 1, "parameters": ["Взять нож?"] },
             {
               "code": 102,
               "indent": 1,
@@ -389,7 +387,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took the \\c[4]knife\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]нож\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -685,7 +683,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's some kind of alchemic model."]
+              "parameters": ["Это какая-то алхимическая модель."]
             },
             {
               "code": 102,
@@ -704,7 +702,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You can't really make heads or tails of it, but you'd probably be disappointed to know it actually represents the components of olive oil."
+                "Ты в самом деле не понимаешь, что это такое, но, вероятно, ты разочаруешься, узнав, что на самом деле всё это компоненты оливкового масла."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -713,7 +711,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's out of your reach."]
+              "parameters": ["Ты слишком низкая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -813,7 +811,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's some kind of alchemic model."]
+              "parameters": ["Это какая-то алхимическая модель."]
             },
             {
               "code": 102,
@@ -832,7 +830,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You can't really make heads or tails of it, but you'd probably be disappointed to know it actually represents the components of olive oil."
+                "Ты в самом деле не понимаешь, что это такое, но, вероятно, ты разочаруешься, узнав, что на самом деле всё это компоненты оливкового масла."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -841,7 +839,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's out of your reach."]
+              "parameters": ["Ты слишком низкая."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -941,9 +939,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -962,7 +958,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -970,7 +966,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -980,7 +976,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1081,9 +1077,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1102,7 +1096,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1110,7 +1104,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1120,7 +1114,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1221,9 +1215,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1242,7 +1234,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1250,7 +1242,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1260,7 +1252,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1361,9 +1353,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1382,7 +1372,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1390,7 +1380,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1400,7 +1390,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1501,9 +1491,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1522,7 +1510,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1530,7 +1518,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1540,7 +1528,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1641,9 +1629,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1662,7 +1648,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1670,7 +1656,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1680,7 +1666,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1781,9 +1767,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1802,7 +1786,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1810,7 +1794,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1820,7 +1804,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1921,9 +1905,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -1942,7 +1924,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1950,7 +1932,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1960,7 +1942,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2061,9 +2043,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The cave smells like a bad version of attic smell."
-              ]
+              "parameters": ["В пещере пахнет как на чердаке, только хуже."]
             },
             {
               "code": 102,
@@ -2082,7 +2062,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It looks like this cave was used for more in the past."
+                "Похоже, в прошлом эта пещера использовалась для чего-то грандиозного."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -2090,7 +2070,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "More was likely here at one point, but they've been long since removed."
+                "Видимо, здесь стояло что-то ещё, но потом это убрали."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2100,7 +2080,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mushrooms are usually fun to collect, but these ones smell too much."
+                "Обычно, собирать грибы весело, но эти слишком сильно плохо пахнут."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
