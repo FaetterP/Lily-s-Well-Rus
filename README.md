@@ -1,15 +1,11 @@
 # Lily-s-Well-Rus
 
 Русификатор для игры [Lily's Well](https://store.steampowered.com/app/1834870/Lilys_Well/). Версия **2.0.1**.  
-Переведены текст и текстуры.  
 Буду рад *звёздочке ⭐* на этом репозитории.
-
-![image](https://github.com/FaetterP/Lily-s-Well-Rus/assets/56697273/67233628-671b-4f86-b1c0-0c70ae7702d3)
-![image](https://github.com/FaetterP/Lily-s-Well-Rus/assets/56697273/23c10e49-60fd-416f-888c-5992cc5dd6cc)
-
 
 ## Особенности
 
++ Переведены **текст** и **текстуры**.  
 + **Оригинальный шрифт.** Шрифт был адаптирован для отображения кириллицы.
 + **Исправлены скриншоты.** При нажатии на F12 скриншот делается без сюрпризов.
 + **Исправлен логотип игры.** Небольшой косяк автора, из-за которого у игры стандартный логотип.
@@ -17,6 +13,14 @@
 
 + Перевод основан на уже существующем переводе от *frog teapot* для версии *1.0*.
 + Если вы найдёте какую-то лексическую/смысловую неточность или непереведённый текст, напишите [сюда](https://github.com/FaetterP/Lily-s-Well-Rus/issues) или на почту faettterp@gmail.com.
+
+![image](https://github.com/FaetterP/Lily-s-Well-Rus/assets/56697273/6c1c0620-dbb2-4eb1-81dc-d5d61fa66d61)
+![image](https://github.com/FaetterP/Lily-s-Well-Rus/assets/56697273/31fb77f8-107b-4da2-a7f6-34c1842af6f9)
+![image](https://github.com/FaetterP/Lily-s-Well-Rus/assets/56697273/23c10e49-60fd-416f-888c-5992cc5dd6cc)
+
+
+
+
 
 ## Установка
 
