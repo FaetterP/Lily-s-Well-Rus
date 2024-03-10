@@ -340,14 +340,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...It seems like you landed on something soft."]
+              "parameters": ["...Кажется, ты приземлилась на что-то мягкое."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You try to feel around to get a sense of your surroundings."
+                "Ты осматриваешься по сторонам, чтобы понять, где ты оказалась."
               ]
             },
             {
@@ -366,13 +366,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Lily?"]
+              "parameters": ["\\n<Папа>\\c[1]Лили?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Papa?!"]
+              "parameters": ["\\n<Лили>\\c[5]Папа?!"]
             },
             {
               "code": 205,
@@ -405,7 +405,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Where...? I thought..."]
+              "parameters": ["\\n<Лили>\\c[5]Где...? Я думала..."]
             },
             {
               "code": 205,
@@ -463,7 +463,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]Shh... It's okay, Lily. You just had a bad dream."
+                "\\n<Папа>\\c[1]Тшш... Всё хорошо, Лили. Тебе просто приснился плохой сон."
               ]
             },
             {
@@ -489,29 +489,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily>\\c[5]N-no! You went to work and there was a voice!"
+                "\\n<Лили>\\c[5]Н-нет! Ты ушёл на работу, и я услышала голос!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]A voice? What kind of voice?"]
+              "parameters": ["\\n<Папа>\\c[1]Голос? Какой голос?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Лили>\\c[5]Эм... Эм... Он шёл из колодца!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily>\\c[5]Uh... Um... It came from the well!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Papa>\\c[1]Oh, the well? I hope you didn't go near it."
+                "\\n<Папа>\\c[1]Ох, колодец? Я надеюсь, ты не подходила к нему."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
@@ -519,49 +517,41 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily>\\c[5]The voice sounded like she was in trouble! I wanted to save her!"
+                "\\n<Лили>\\c[5]Голос звучал так, как будто она попала в беду! Я хотела спасти её!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Now, Lily."]
+              "parameters": ["\\n<Папа>\\c[1]Послушай, Лили."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]Even in a dream, you need to remember what Papa tells you."
+                "\\n<Папа>\\c[1]Даже во сне, ты не должна забывать, что сказал тебе папа."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]But you weren't there!"]
+              "parameters": ["\\n<Лили>\\c[5]Но тебя не было рядом!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Lily."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Papa>\\c[1]Good girls listen to Papa even when he isn't home."
-              ]
+              "parameters": ["\\n<Папа>\\c[1]Лили."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]Especially when you hear voices from outside."
+                "\\n<Папа>\\c[1]Хорошие девочки слушаются папу, даже когда его нет дома."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
@@ -569,52 +559,60 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]That's how bad little girls get kidnapped or eaten."
+                "\\n<Папа>\\c[1]Особенно когда слышишь голоса снаружи."
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Will you remember that, Lily?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]...Yes, Papa."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Papa>\\c[1]Will you? Will you remember it down to your soul?"
+                "\\n<Папа>\\c[1]Потому что именно так плохих девочек могут похитить или съесть."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Y-yes, Papa!"]
+              "parameters": ["\\n<Папа>\\c[1]Ты запомнишь это, Лили?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Good girl."]
+              "parameters": ["\\n<Лили>\\c[5]...Да, папа."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Good night, Lily."]
+              "parameters": [
+                "\\n<Папа>\\c[1]Обещаешь? Обещаешь запомнить это в самой глубине души?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Good night, Papa..."]
+              "parameters": ["\\n<Лили>\\c[5]Д-да, папа!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Папа>\\c[1]Хорошая девочка."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Папа>\\c[1]Спокойной ночи, Лили."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Лили>\\c[5]Спокойной ночи, папа..."]
             },
             {
               "code": 250,
@@ -669,7 +667,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Under Papa's watch, you quietly go to sleep."]
+              "parameters": ["Ты тихо засыпаешь под папиным присмотром."]
             },
             {
               "code": 231,
@@ -686,7 +684,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His words ring through your head as you lose consciousness."
+                "Его слова звучат в твоей голове, пока ты теряешь связь с реальностью."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -694,7 +692,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His words ring through your head as you lose consciousness."
+                "Его слова звучат в твоей голове, пока ты теряешь связь с реальностью."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -702,7 +700,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His words ring through your head as you lose consciousness."
+                "Его слова звучат в твоей голове, пока ты теряешь связь с реальностью."
               ]
             },
             {
@@ -715,7 +713,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His words ring through your head as you lose consciousness.\\^"
+                "Его слова звучат в твоей голове, пока ты теряешь связь с реальностью.\\^"
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -852,7 +850,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This should be the door to the bathroom..."]
+              "parameters": ["Это должна быть дверь в ванную..."]
             },
             {
               "code": 102,
@@ -870,19 +868,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...It's just more wallpaper behind the door."]
+              "parameters": ["...За дверью нету ничего, кроме стены."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Not an option."] },
+            { "code": 401, "indent": 1, "parameters": ["Не получится."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Something \\}\\}\\}everything\\{ is wrong."]
+              "parameters": ["Что-то \\}\\}\\}всё\\{ не так."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -947,7 +945,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It looks just like your wardrobe."]
+              "parameters": ["Выглядит один в один как твой шкаф."]
             },
             {
               "code": 102,
@@ -965,12 +963,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...It's completely filled with oily hair."]
+              "parameters": ["...Он полностью заполнен маслянистыми волосами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -978,7 +976,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "A twisted parody of your comforts is taunting you."
+                "То, что раньше тебя успокаивало, теперь выглядит, как издевательская пародия."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1044,7 +1042,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It looks just like your wardrobe."]
+              "parameters": ["Выглядит один в один как твой шкаф."]
             },
             {
               "code": 102,
@@ -1062,12 +1060,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...It's completely filled with oily hair."]
+              "parameters": ["...Он полностью заполнен маслянистыми волосами."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No."] },
+            { "code": 401, "indent": 1, "parameters": ["Нет."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1075,7 +1073,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "A twisted parody of your comforts is taunting you."
+                "То, что раньше тебя успокаивало, теперь выглядит, как издевательская пародия."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1141,7 +1139,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A ball of yarn is here."]
+              "parameters": ["Здесь лежит клубок пряжи."]
             },
             {
               "code": 102,
@@ -1156,11 +1154,11 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...It isn't yarn."] },
+            { "code": 401, "indent": 1, "parameters": ["...Это не пряжа."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Not again."] },
+            { "code": 401, "indent": 1, "parameters": ["Только не снова."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1168,7 +1166,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You scratch your head, checking to see if your hair is leaking the oil too."
+                "Ты чешешь свою голову, чтобы понять, не вытекает ли масло хотя бы их твоих волос."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1231,7 +1229,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Lamp."] },
+            { "code": 401, "indent": 0, "parameters": ["Лампа."] },
             {
               "code": 102,
               "indent": 0,
@@ -1245,14 +1243,14 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's no bulb."] },
+            { "code": 401, "indent": 1, "parameters": ["Здесь нет лампочки."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's stuck to the night stand."]
+              "parameters": ["Она прикреплена к тумбе."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -1260,7 +1258,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A scenario like this is unthinkable."]
+              "parameters": ["Такую ситуацию невозможно понять."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -1325,7 +1323,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It looks like your bear."]
+              "parameters": ["Похоже на твоего мишку."]
             },
             {
               "code": 102,
@@ -1344,20 +1342,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This isn't Sniffles. It smells like bathroom cleaner and is filled with sand."
+                "Это не Нюх. Пахнет чистящим средством, а внутри песок."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It's too heavy."] },
+            { "code": 401, "indent": 1, "parameters": ["Он слишком тяжёлый."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You want your real room."]
+              "parameters": ["Ты хочешь назад в свою настоящую комнату."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [3, "Предметы"] },
@@ -1419,7 +1417,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Bed."] },
+            { "code": 401, "indent": 0, "parameters": ["Кровать."] },
             {
               "code": 102,
               "indent": 0,
@@ -1437,13 +1435,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The sheets feel much more scratchy than your real ones."
+                "Одеяло на ощупь намного более колючее, чем твоё настоящее."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's no need."] },
+            { "code": 401, "indent": 1, "parameters": ["Тебе оно не нужно."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1451,7 +1449,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You want to go back to sleep so badly, but not here."
+                "Ты очень сильно хочешь спать, но только не здесь."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
