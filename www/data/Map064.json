@@ -107,9 +107,9 @@
               ]
             },
             { "code": 105, "indent": 0, "parameters": [5, false] },
-            { "code": 405, "indent": 0, "parameters": ["\\c[0]LILY'S WELL"] },
+            { "code": 405, "indent": 0, "parameters": ["\\c[0]КОЛОДЕЦ ЛИЛИ"] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Game Designer"] },
+            { "code": 405, "indent": 0, "parameters": ["Геймдизайнер"] },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             {
               "code": 405,
@@ -117,7 +117,7 @@
               "parameters": ["Sam \"Ice\" Woodrick"]
             },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Game Testers"] },
+            { "code": 405, "indent": 0, "parameters": ["Тестировщики"] },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": ["That Ben"] },
             { "code": 405, "indent": 0, "parameters": ["Christine Brumbaugh"] },
@@ -126,7 +126,7 @@
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["Steam Achievement Help"]
+              "parameters": ["Помощь с достижениями в Steam"]
             },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": ["Oleg Avdeev"] },
@@ -154,11 +154,11 @@
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": ["Pexels"] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Textures"] },
+            { "code": 405, "indent": 0, "parameters": ["Текстуры"] },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": ["Textures.com"] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Plugins"] },
+            { "code": 405, "indent": 0, "parameters": ["Плагины"] },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": ["Yanfly"] },
             { "code": 405, "indent": 0, "parameters": ["SumRndmDde"] },
@@ -172,7 +172,7 @@
             { "code": 405, "indent": 0, "parameters": ["TSR"] },
             { "code": 405, "indent": 0, "parameters": [""] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Patrons"] },
+            { "code": 405, "indent": 0, "parameters": ["Патроны"] },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": ["BonesVivi"] },
             {
@@ -199,46 +199,50 @@
             { "code": 405, "indent": 0, "parameters": ["Nephyriun"] },
             { "code": 405, "indent": 0, "parameters": ["Ratlesshonret"] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Special Thanks to"] },
+            {
+              "code": 405,
+              "indent": 0,
+              "parameters": ["Особые благодарности"]
+            },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["My lovely friends who "]
+              "parameters": ["Моим замечательным друзьям, "]
             },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["motivated me to keep "]
+              "parameters": ["которые мотивировали меня "]
             },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["moving forward with "]
+              "parameters": ["продолжать двигаться вперёд "]
             },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["this whenever I'd send "]
+              "parameters": ["каждый раз, когда я присылал "]
             },
-            { "code": 405, "indent": 0, "parameters": ["screenshots over."] },
+            { "code": 405, "indent": 0, "parameters": ["скриншоты игры."] },
             { "code": 405, "indent": 0, "parameters": [""] },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["The people of r/RPGMAKER who "]
+              "parameters": ["Пользователям из r/RPGMAKER, которые "]
             },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["gave good feedback on the map "]
+              "parameters": ["давали отзывы по картам, которые "]
             },
-            { "code": 405, "indent": 0, "parameters": ["previews I posted."] },
+            { "code": 405, "indent": 0, "parameters": ["я там публиковала."] },
             { "code": 405, "indent": 0, "parameters": [""] },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["Those who purchased the bonus "]
+              "parameters": ["Тем, кто купил "]
             },
             { "code": 405, "indent": 0, "parameters": ["pack DLC."] },
             { "code": 405, "indent": 0, "parameters": [""] },
@@ -247,30 +251,30 @@
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["...and of course you."]
+              "parameters": ["...и, конечно, тебе."]
             },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["You wanted a happy ending. "]
+              "parameters": ["Ты хотел(а) получить счастливую концовку. "]
             },
-            { "code": 405, "indent": 0, "parameters": ["You deserve it."] },
+            { "code": 405, "indent": 0, "parameters": ["Ты заслужил(а) её."] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["Stats"] },
+            { "code": 405, "indent": 0, "parameters": ["Статистика"] },
             { "code": 405, "indent": 0, "parameters": ["-----------"] },
             { "code": 405, "indent": 0, "parameters": [""] },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["You caused Lily to die "]
+              "parameters": ["Из-за тебя Лили умерла "]
             },
-            { "code": 405, "indent": 0, "parameters": ["\\v[11] times!"] },
+            { "code": 405, "indent": 0, "parameters": ["\\v[11] раз!"] },
             { "code": 405, "indent": 0, "parameters": [""] },
-            { "code": 405, "indent": 0, "parameters": ["You found "] },
+            { "code": 405, "indent": 0, "parameters": ["Найдено "] },
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["\\v[18] hidden Dead Ends!"]
+              "parameters": ["\\v[18] скрытых концовок!"]
             },
             {
               "code": 231,
@@ -299,7 +303,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [200] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The End"] },
+            { "code": 401, "indent": 0, "parameters": ["Конец"] },
             { "code": 242, "indent": 0, "parameters": [10] },
             { "code": 354, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
