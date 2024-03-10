@@ -220,7 +220,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A variety of canned foods are stacked on the pantry shelves."
+                "Полки кладовки заполнены различными банками с консервами."
               ]
             },
             {
@@ -240,14 +240,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There are cans containing corn, sprouts, and peaches."
+                "Здесь банки и кукурузой, проростками и персиками."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Sprouts are the devil's vegetable."]
+              "parameters": ["Проростки - это дьявольская еда."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -256,7 +256,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Papa never taught you how to use a can opener, so you don't take the cans."
+                "Папа никогда не учил тебя пользоваться консервным ножом, поэтому брать банки не имеет смысла."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -357,7 +357,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's a large sealed bag of beef jerky."]
+              "parameters": ["Большой запечатанный пакет с вяленым мясом."]
             },
             {
               "code": 102,
@@ -376,7 +376,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The bag is very full, but Papa always tells you that jerky is expensive."
+                "Пакет полный, но папа всегда говорит, что вяленое мясо очень дорогое."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -385,13 +385,15 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This may be a good treat while outside."]
+              "parameters": [
+                "Это может быть хорошей едой, если ты проголодаешься на улице."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Take a piece of jerky?"]
+              "parameters": ["Взять кусочек вяленого мяса?"]
             },
             {
               "code": 102,
@@ -411,7 +413,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You took the \\c[4]jerky\\c[0]."]
+              "parameters": ["Ты взяла \\c[4]вяленое мясо\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
@@ -506,7 +508,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's a large sealed bag of beef jerky."]
+              "parameters": ["Большой запечатанный пакет с вяленым мясом."]
             },
             {
               "code": 102,
@@ -525,7 +527,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The bag is very full, but Papa always tells you that jerky is expensive."
+                "Пакет полный, но папа всегда говорит, что вяленое мясо очень дорогое."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -534,7 +536,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You already took a piece. Don't be greedy."]
+              "parameters": ["Ты уже взяла кусочек. Не будь жадиной."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Проверить статус"] },
@@ -625,7 +627,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's a large sealed bag of beef jerky."]
+              "parameters": ["Большой запечатанный пакет с вяленым мясом."]
             },
             {
               "code": 102,
@@ -644,7 +646,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The bag is very full, but Papa always tells you that jerky is expensive."
+                "Пакет полный, но папа всегда говорит, что вяленое мясо очень дорогое."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -654,7 +656,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "While you generously gave a wild animal your jerky, it wouldn't be right to take more."
+                "Было щедро с твоей стороны накормить мясом дикого зверя, но больше отсюда лучше не брать."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -810,7 +812,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A variety of canned foods are stacked on the pantry shelves."
+                "Полки кладовки заполнены различными банками с консервами."
               ]
             },
             {
@@ -829,16 +831,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "There are cans containing tomatoes, beans, and ham."
-              ]
+              "parameters": ["Здесь банки с помидорами, фасолью и ветчиной."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You aren't sure how they could've fit an entire ham into a can."
+                "Ты не уверена, как можно было затолкать целый кусок ветчины в банку."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -848,7 +848,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Papa never taught you how to use a can opener, so you don't take the cans."
+                "Папа никогда не учил тебя пользоваться консервным ножом, поэтому брать банки не имеет смысла."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -950,7 +950,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A variety of canned foods are stacked on the pantry shelves."
+                "Полки кладовки заполнены различными банками с консервами."
               ]
             },
             {
@@ -970,14 +970,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There are cans containing chicken noodle soup, chicken soup with rice, and tomato soup."
+                "Здесь банки с куриным супом с лапшой, куриным супом с рисом и томатным супом."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Papa's favorite soup isn't here."]
+              "parameters": ["Любимого папиного супа здесь нет."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -986,7 +986,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Papa never taught you how to use a can opener, so you don't take the cans."
+                "Папа никогда не учил тебя пользоваться консервным ножом, поэтому брать банки не имеет смысла."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1088,7 +1088,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A variety of canned foods are stacked on the pantry shelves."
+                "Полки кладовки заполнены различными банками с консервами."
               ]
             },
             {
@@ -1107,15 +1107,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "There are cans containing beets, carrots, and snakes."
-              ]
+              "parameters": ["Здесь банки со свеклой, морковью и змеями."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...The snake can is a gag gift."]
+              "parameters": ["...Банка со змеями была розыгрышем."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
@@ -1124,7 +1122,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Papa never taught you how to use a can opener, so you don't take the cans."
+                "Папа никогда не учил тебя пользоваться консервным ножом, поэтому брать банки не имеет смысла."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
