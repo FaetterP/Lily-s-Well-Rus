@@ -480,7 +480,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Yeah, even Freddy's having trouble with it."
+                "\\n<Фигура в синем плаще>\\c[2]Ага, даже у Фредди с этим проблемы."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -488,7 +488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]I heard they're going to start passing it off onto the work-study students."
+                "\\n<Фигура в сером плаще>\\c[2]Я слышал, они собираются повесить эту работу на студентов."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -496,7 +496,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]I sure fucking hope not. Nicole's been doing cleaning stuff for the Mercurial Building."
+                "\\n<Фигура в синем плаще>\\c[2]Блять, я очень надеюсь, что нет. Николь только закончила эту уборку в корпусе ртути."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -504,7 +504,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]If they try to make her try to clean up that azoth shit, I'm going to student resources myself."
+                "\\n<Фигура в синем плаще>\\c[2]Если они заставят её убрать это дерьмо на азоте, я сам обращусь в деканат."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -512,7 +512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Just let her do her own thing, man."
+                "\\n<Фигура в сером плаще>\\c[2]Чел, просто дай ей делать свою работу."
               ]
             },
             {
@@ -556,7 +556,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]Oh shit."]
+              "parameters": ["\\n<Фигура в сером плаще>\\c[2]Твою мать."]
             },
             {
               "code": 205,
@@ -580,7 +580,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blue Cloaked Figure>\\c[2]Is that...?"]
+              "parameters": ["\\n<Фигура в синем плаще>\\c[2]Это...?"]
             },
             {
               "code": 205,
@@ -631,16 +631,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Gray Cloaked Figure>\\c[2]Hey... Uh..."]
+              "parameters": ["\\n<Фигура в сером плаще>\\c[2]Эй... Эм..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<Lily>\\c[5]...!"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Лили>\\c[5]...!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Whoa whoa! Uh... Is your name Lily?"
+                "\\n<Фигура в сером плаще>\\c[2]Воу воу! Эй... Тебя зовут Лили?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
@@ -648,16 +648,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lily>\\c[5]Papa... Papa said not to talk to strangers..."
+                "\\n<Лили>\\c[5]Папа... Папа сказал не разговаривать с незнакомцами..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Lily>\\c[5]Bu... but there's... There's bones and..."
-              ]
+              "parameters": ["\\n<Лили>\\c[5]Н... но там... Там кости и..."]
             },
             { "code": 111, "indent": 0, "parameters": [1, 16, 0, 2, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -665,7 +663,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You almost tell them about the man you slaughtered, but you keep your mouth shut."
+                "Ты почти начала рассказывать им о человеке, которого ты убила, но вовремя замолчала."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -675,7 +673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]You think she saw the pit, man?"
+                "\\n<Фигура в синем плаще>\\c[2]Чел, как думаешь, она видела яму?"
               ]
             },
             {
@@ -701,7 +699,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Derek, shut the fuck up."
+                "\\n<Фигура в сером плаще>\\c[2]Дерек, завали ебало."
               ]
             },
             {
@@ -727,29 +725,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Your dad... Is he Professor Tabacchi?"
+                "\\n<Фигура в сером плаще>\\c[2]Твой отец... Это профессор Табаччи?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]Do you know Papa?!"]
+              "parameters": ["\\n<Лили>\\c[5]Вы знаете папу?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Y-yeah... He should be in the homun- uh... the lab."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]Follow me, kiddo. I'll take you to him."
+                "\\n<Фигура в сером плаще>\\c[2]Д-да... Он должен сейчас работать с гомун- эм... быть в лаборатории."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
@@ -757,7 +747,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blue Cloaked Figure>\\c[2]Dude, what about our project?"
+                "\\n<Фигура в сером плаще>\\c[2]Пойдём со мной, малышка. Я отведу тебя к нему."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Фигура в синем плаще>\\c[2]Чувак, а как же наш проект?"
               ]
             },
             {
@@ -783,7 +781,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Gray Cloaked Figure>\\c[2]This will be like, five minutes. Relax."
+                "\\n<Фигура в сером плаще>\\c[2]Это займёт минут пять. Расслабься."
               ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 61, 13, 3, 4, 0] },
@@ -933,13 +931,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]...Papa?"]
+              "parameters": ["\\n<Лили>\\c[5]...Папа?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]You're back."]
+              "parameters": ["\\n<Папа>\\c[1]Ты вернулась."]
             },
             {
               "code": 223,
@@ -955,13 +953,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Papa>\\c[1]Let's try again, Lily."]
+              "parameters": ["\\n<Папа>\\c[1]Давай попробуем ещё раз, Лили."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lily>\\c[5]W-wait-\\^"]
+              "parameters": ["\\n<Лили>\\c[5]П-подожди-\\^"]
             },
             {
               "code": 231,
