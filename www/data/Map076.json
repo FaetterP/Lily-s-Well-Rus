@@ -242,50 +242,52 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You seem to be a bit lost."]
+              "parameters": ["Кажется, ты немого заблудился."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I mean, that's what you get for peeking where you shouldn't? Right?"
+                "Я имею в виду, что ты получаешь всё это за то, что подглядываешь, куда не следует? Верно?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't worry. I'm not mad. "]
+              "parameters": ["Не волнуйся. Я не злюсь."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Я обещаю, что мы встретимся снова в другой раз."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["...А?"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Тебе интересно, кто я?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Разве это не очевидно?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I promise you that we'll meet again at another time."
+                "Кто-то должен был рассказать историю Лили. Я сомневаюсь, что её комментарии по этому поводу были бы такими интересными."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["...Oho?"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You're wondering who I am?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Isn't it obvious?"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Someone had to tell Lily's story. I doubt her commentary on matters would have been as interesting."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Now leave."] },
+            { "code": 401, "indent": 0, "parameters": ["А сейчас уходи."] },
             { "code": 354, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
