@@ -179,10 +179,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The incinerator roars with heat."]
+              "parameters": ["Мусоросжигатель пышет жаром."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Smells terrible..."] },
+            { "code": 401, "indent": 0, "parameters": ["Пахнет ужасно..."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -238,10 +238,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The incinerator roars with heat."]
+              "parameters": ["Мусоросжигатель пышет жаром."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Smells terrible..."] },
+            { "code": 401, "indent": 0, "parameters": ["Пахнет ужасно..."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -351,10 +351,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The incinerator roars with heat."]
+              "parameters": ["Мусоросжигатель пышет жаром."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Smells terrible..."] },
+            { "code": 401, "indent": 0, "parameters": ["Пахнет ужасно..."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
