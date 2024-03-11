@@ -179,7 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...someone is tangled in the hair."]
+              "parameters": ["...кто-то опутан волосами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -236,7 +236,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...someone is tangled in the hair."]
+              "parameters": ["...кто-то опутан волосами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -348,7 +348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The various rules on what can and can't be recycled are blocked by the hair."
+                "Список правил о том, что можно, а что нельзя перерабатывать, завешен волосами."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
