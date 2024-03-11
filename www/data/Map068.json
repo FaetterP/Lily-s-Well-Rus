@@ -210,7 +210,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('I AM TAKING LILY AND LEAVING');"]
+              "parameters": ["alert('Я ЗАБИРАЮ ЛИЛИ И УХОЖУ');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -358,7 +358,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('let go of me');"]
+              "parameters": ["alert('отпусти меня');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -506,7 +506,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('oh... oh god');"]
+              "parameters": ["alert('о... о боже');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -707,7 +707,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('GET THE FUCK AWAY FROM ME TONY');"]
+              "parameters": ["alert('НЕ СМЕЙ БЛЯТЬ ПОДХОДИТЬ КО МНЕ ТОНИ');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -852,7 +852,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 355, "indent": 0, "parameters": ["alert('stop');"] },
+            { "code": 355, "indent": 0, "parameters": ["alert('хватит');"] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1055,7 +1055,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP STOP ');"
+                "alert('ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ ХВАТИТ');"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
@@ -1179,7 +1179,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[5]Do you need help with the Christmas stuff or\\^"
+                "\\c[5]Тебе нужна помощь с рождественскими украшениями, или\\^"
               ]
             },
             {
@@ -1229,7 +1229,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[5]\\|.\\|.\\|.\\|M\\|a\\|?\\|"]
+              "parameters": ["\\c[5]\\|.\\|.\\|.\\|М\\|а\\|м\\|?\\|"]
             },
             {
               "code": 250,
@@ -1242,13 +1242,13 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('FATAL ERROR: UNAUTHORIZED SCENE CALL');"]
+              "parameters": ["alert('ОШИБКА: НЕРАЗРЕШЁННЫЙ ВЫЗОВ СЦЕНЫ');"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[5]NO WAIT I WANT TO REMEMBER\\^"]
+              "parameters": ["\\c[5]НЕТ СТОЙТЕ Я ХОЧУ ВСПОМНИТЬ\\^"]
             },
             {
               "code": 355,
