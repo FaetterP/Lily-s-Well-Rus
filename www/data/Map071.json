@@ -180,14 +180,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is a push cart. It's probably here to move things in and out of the room."
+                "Это тележка. Вероятно, она здесь для того, чтобы перевозить вещи в комнату и из нее."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["One of the wheels is busted."]
+              "parameters": ["Одно из колес сломано."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -245,14 +245,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is a push cart. It's probably here to move things in and out of the room."
+                "Это тележка. Вероятно, она здесь для того, чтобы перевозить вещи в комнату и из нее."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["One of the wheels is busted."]
+              "parameters": ["Одно из колес сломано."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -364,7 +364,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -421,7 +421,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Various dusty bottles line the shelves."]
+              "parameters": ["Полки уставлены различными пыльными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -478,13 +478,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a glass case with a heart inside."]
+              "parameters": ["Стеклянный контейнер с сердцем внутри."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It beats ever slowly."]
+              "parameters": ["Оно медленно бьётся."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -542,7 +542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tendrils are hanging off the top of the tank like a butterfly's chrysalis."
+                "Усики свисают с верхней части контейнера, напоминая куколки бабочек."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -601,7 +601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tendrils are hanging off the top of the tank like a butterfly's chrysalis."
+                "Усики свисают с верхней части контейнера, напоминая куколки бабочек."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -660,7 +660,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tendrils are hanging off the top of the tank like a butterfly's chrysalis."
+                "Усики свисают с верхней части контейнера, напоминая куколки бабочек."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -777,7 +777,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["More hair is growing out of the vent."]
+              "parameters": ["Из вентиляции растёт еще больше волос."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -894,7 +894,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -951,7 +951,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1008,7 +1008,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1065,7 +1065,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1122,7 +1122,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1179,7 +1179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The box is filled with new glass bottles."]
+              "parameters": ["Коробка наполнена новыми стеклянными баночками."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
