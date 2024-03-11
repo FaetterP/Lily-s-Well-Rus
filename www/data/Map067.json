@@ -210,7 +210,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('she isnt your mother or god');"]
+              "parameters": ["alert('она не твоя мать и не богиня');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -359,7 +359,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('how many people did you kill to try and recreate her body');"
+                "alert('сколько человек ты убил чтобы воссоздать её тело');"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
@@ -509,7 +509,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('i thought things would be different now that shes dead');"
+                "alert('я думала после её смерти всё будет по-другому');"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
@@ -711,7 +711,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('but youve just gotten worse');"]
+              "parameters": ["alert('но стало только хуже');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
