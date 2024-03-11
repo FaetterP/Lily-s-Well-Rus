@@ -939,7 +939,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's an elevator."]
+              "parameters": ["Лифт."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

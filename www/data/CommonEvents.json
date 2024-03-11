@@ -2568,7 +2568,7 @@
         "parameters": ["Нож мог бы пролезть в отверстие мемориала..."]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Put it in?"] },
+      { "code": 401, "indent": 2, "parameters": ["Вставить нож?"] },
       { "code": 102, "indent": 2, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
       { "code": 402, "indent": 2, "parameters": [0, "Да"] },
       { "code": 121, "indent": 3, "parameters": [18, 18, 0] },

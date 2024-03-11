@@ -1233,7 +1233,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ты уже на этом этаже.."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1242,7 +1242,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Press the \\c[1]blue\\c[0] button?"]
+              "parameters": ["Нажать \\c[3]синюю\\c[0] кнопку?"]
             },
             {
               "code": 102,
@@ -1319,7 +1319,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ты уже на этом этаже.."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1405,7 +1405,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ты уже на этом этаже.."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1491,7 +1491,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ты уже на этом этаже.."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1577,7 +1577,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ты уже на этом этаже.."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1663,7 +1663,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ты уже на этом этаже.."]
+              "parameters": ["Ты уже на этом этаже."]
             },
             { "code": 115, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
