@@ -219,7 +219,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('I'm going to see my mother this weekend.');"
+                "alert('В эти выходные я собираюсь встретиться с матерью.');"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -367,7 +367,7 @@
             {
               "code": 355,
               "indent": 0,
-              "parameters": ["alert('tony i cant do this anymore');"]
+              "parameters": ["alert('тони я так больше не могу');"]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -569,7 +569,7 @@
               "code": 355,
               "indent": 0,
               "parameters": [
-                "alert('shes been telling you things that wouldve made you sick a year ago');"
+                "alert('она рассказывала тебе вещи, от которых год назад тебе стало бы плохо');"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
