@@ -179,9 +179,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Expensive-looking cameras are sitting on this counter."
-              ]
+              "parameters": ["На столе лежат дорогие на вид камеры."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -238,9 +236,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Expensive-looking cameras are sitting on this counter."
-              ]
+              "parameters": ["На столе лежат дорогие на вид камеры."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -351,9 +347,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Expensive-looking cameras are sitting on this counter."
-              ]
+              "parameters": ["На столе лежат дорогие на вид камеры."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -410,7 +404,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything smells like chemicals."]
+              "parameters": ["Всё пахнет химикатами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -467,7 +461,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything smells like chemicals."]
+              "parameters": ["Всё пахнет химикатами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -524,7 +518,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything smells like chemicals."]
+              "parameters": ["Всё пахнет химикатами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -581,7 +575,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything smells like chemicals."]
+              "parameters": ["Всё пахнет химикатами."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -638,7 +632,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -754,7 +748,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -811,7 +805,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -868,7 +862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -925,7 +919,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -982,7 +976,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1039,7 +1033,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like some kind of expensive equipment."]
+              "parameters": ["Похоже на какое-то дорогое оборудование."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
