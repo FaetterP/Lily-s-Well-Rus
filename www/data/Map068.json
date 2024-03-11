@@ -1172,7 +1172,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[5]Ma, are you up here?"]
+              "parameters": ["\\c[5]Мама, ты здесь, наверху?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
