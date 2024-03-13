@@ -1007,7 +1007,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Ты все равно зря запачкала свои руки."]
+              "parameters": ["Ты всё равно зря запачкала свои руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1403,7 +1403,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Ты все равно зря запачкала свои руки."]
+              "parameters": ["Ты всё равно зря запачкала свои руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1799,7 +1799,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Ты все равно зря запачкала свои руки."]
+              "parameters": ["Ты всё равно зря запачкала свои руки."]
             },
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
