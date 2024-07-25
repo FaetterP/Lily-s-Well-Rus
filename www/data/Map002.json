@@ -2355,7 +2355,7 @@
               "parameters": ["Он немного пахнет, но в хорошем смысле."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Запах чердака"] },
+            { "code": 401, "indent": 1, "parameters": ["Запах как у чердака."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },

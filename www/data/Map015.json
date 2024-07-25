@@ -685,7 +685,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Papa's bed."] },
+            { "code": 401, "indent": 0, "parameters": ["Кровать папы."] },
             {
               "code": 102,
               "indent": 0,
@@ -831,7 +831,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Papa's bed."] },
+            { "code": 401, "indent": 0, "parameters": ["Кровать папы."] },
             {
               "code": 102,
               "indent": 0,
@@ -977,7 +977,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Papa's bed."] },
+            { "code": 401, "indent": 0, "parameters": ["Кровать папы."] },
             {
               "code": 102,
               "indent": 0,
@@ -1123,7 +1123,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Papa's bed."] },
+            { "code": 401, "indent": 0, "parameters": ["Кровать папы."] },
             {
               "code": 102,
               "indent": 0,
