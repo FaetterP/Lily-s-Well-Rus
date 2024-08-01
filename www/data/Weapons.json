@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"animationId":0,"description":"Веревка, снятая с качелей.\nПотом можно привязать обратно.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Верёвка с качелей","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":1,"animationId":0,"description":"Верёвка, снятая с качелей.\nПотом можно привязать обратно.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Верёвка с качелей","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":2,"animationId":0,"description":"Это твоя простыня. Из неё \nполучится хорошая верёвка?","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":1,"name":"Простыня","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":3,"animationId":0,"description":"Лоза с острыми шипами.\nМожет, это верёвка?","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":2,"name":"Лоза с синими шипами","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":4,"animationId":0,"description":"Четыре папиных ремня,\nсвязанные вместе в верёвку.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":5,"name":"Папины ремни","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
